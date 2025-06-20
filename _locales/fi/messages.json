@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Lisää"
+   },
+   "Add_Apology": {
+      "message": "Lisää anteeksipyyntö häiriöstä"
+   },
+   "Add_Timestamp": {
+      "message": "Lisää aikaleima"
+   },
+   "Add_number": {
+      "message": "Lisää numero"
+   },
+   "All_contacts": {
+      "message": "Kaikki valitussa maassa olevat kontaktit"
+   },
+   "Audio": {
+      "message": "Ääni"
+   },
+   "Cancel": {
+      "message": "Peruuta"
+   },
+   "Chats": {
+      "message": "Keskustelut"
+   },
+   "Click_to_Upload": {
+      "message": "Klikkaa lataaksesi / Vedä ja pudota tänne"
+   },
+   "Close": {
+      "message": "Sulje"
+   },
+   "Completed": {
+      "message": "Valmis"
+   },
+   "Confirm": {
+      "message": "Vahvista"
+   },
+   "Contacts": {
+      "message": "Ota yhteyttä"
+   },
+   "Continue": {
+      "message": "Jatka"
+   },
+   "Countries": {
+      "message": "Maat"
+   },
+   "Details": {
+      "message": "Tiedot"
+   },
+   "Do_you_need": {
+      "message": "Tarvitsetko tehokasta menetelmää WhatsApp-massaviestien lähettämiseen? WA Sender -sovelluksemme on juuri sitä mitä tarvitset. Kokeile sitä ja katso kuinka helppoa massaviestien lähettäminen voi olla!"
+   },
+   "Document": {
+      "message": "Dokumentti"
+   },
+   "Download_the_template": {
+      "message": "Lataa mallipohja"
+   },
+   "Failure": {
+      "message": "Virheet"
+   },
+   "Feel_free": {
+      "message": "Lisää rohkeasti haluamasi tekstiä tai linkkejä."
+   },
+   "File_Upload": {
+      "message": "Tiedoston lataus"
+   },
+   "Free_plans": {
+      "message": "Ilmaiset suunnitelmat sallivat 10 viestin lähettämisen per erä."
+   },
+   "Groups": {
+      "message": "Ryhmät"
+   },
+   "Hello": {
+      "message": "Hei"
+   },
+   "Image": {
+      "message": "Kuva"
+   },
+   "Including_Administrators": {
+      "message": "Mukana ylläpitäjät"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Syötä WhatsApp-numerot"
+   },
+   "Interested": {
+      "message": "Kiinnostunut? Vastaamalla \"Kyllä\" saat lisätietoja."
+   },
+   "Labels": {
+      "message": "Tunnisteet"
+   },
+   "Leave_Review": {
+      "message": "Jätä arvostelu"
+   },
+   "Log_in": {
+      "message": "Kirjaudu sisään"
+   },
+   "MessageEmptyText": {
+      "message": "Viesti ei voi olla tyhjä."
+   },
+   "Messages": {
+      "message": "Viestit"
+   },
+   "NO_DATA": {
+      "message": "EI TIETOJA"
+   },
+   "Not_interested": {
+      "message": "Et ole kiinnostunut? Vastaamalla \"Ei\" en lähetä enää viestejä."
+   },
+   "Not_now": {
+      "message": "Ei nyt"
+   },
+   "Numbers": {
+      "message": "Numerot"
+   },
+   "Pause": {
+      "message": "Keskeytä"
+   },
+   "Please_include": {
+      "message": "Lisää kirjautumissähköpostisi nopeampaa apua varten."
+   },
+   "Please_open": {
+      "message": "Avaa tai päivitä WhatsApp Web. Varmista, että vain yksi WhatsApp Web -sivu on auki, vaikka se ei olisikaan aktiivinen, ennen kuin yrität uudelleen."
+   },
+   "Random_sending": {
+      "message": "Satunnainen lähetysväli (sekuntia):"
+   },
+   "Reach_out": {
+      "message": "Ota yhteyttä osoitteeseen"
+   },
+   "Review": {
+      "message": "Arvostelu"
+   },
+   "Save_as_template": {
+      "message": "Tallenna mallipohjana"
+   },
+   "Select_All": {
+      "message": "Valitse kaikki"
+   },
+   "Select_a_template": {
+      "message": "Valitse mallipohja"
+   },
+   "Send": {
+      "message": "Lähetä"
+   },
+   "Send_to": {
+      "message": "Lähetä kohteeseen"
+   },
+   "Send_to_the": {
+      "message": "Lähetä 10 parhaalle"
+   },
+   "Sending": {
+      "message": "Lähetetään"
+   },
+   "Sticker": {
+      "message": "Tarra"
+   },
+   "Success": {
+      "message": "Onnistumiset"
+   },
+   "Support_batch": {
+      "message": "Tuki eräkopioinnille täällä"
+   },
+   "Text_Message": {
+      "message": "Tekstiviesti"
+   },
+   "Text_style": {
+      "message": "Tekstityylit: *LIHAVOITU* _kursivoitu_ ~ylävety~ "
+   },
+   "The_contacts": {
+      "message": "Kontaktit, joiden kanssa keskustelet WhatsAppissa"
+   },
+   "The_file_Max": {
+      "message": "Tiedoston enimmäiskoko 20 Mt, enintään 100 000 riviä"
+   },
+   "The_file_Max_20MB": {
+      "message": "Tiedoston enimmäiskoko 20 Mt."
+   },
+   "The_file_is_incorrect": {
+      "message": "Tiedosto on virheellinen, lataa se uudelleen vaatimusten mukaisesti."
+   },
+   "The_template_will": {
+      "message": "Mallipohja korvaa syöttöruudun tekstisisällön."
+   },
+   "The_valid": {
+      "message": "Kelvolliset WhatsApp-kontaktit puhelimessasi"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Vihje: WhatsAppin rajoitusten välttämiseksi vähennä vastaanottajien määrää ja pidennä lähetysten välistä aikaväliä."
+   },
+   "UPGRADE": {
+      "message": "PÄIVITYS"
+   },
+   "Upgrade": {
+      "message": "Päivitä"
+   },
+   "Upgrade_Now": {
+      "message": "Päivitä nyt"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Päivitä PRO-versioon rajoitusten poistamiseksi."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Näytä tulokset"
+   },
+   "Voice": {
+      "message": "Äänimuistio"
+   },
+   "Wait": {
+      "message": "Odota"
+   },
+   "We_hope": {
+      "message": "Toivomme, että löydät työkalustamme hyödyllistä! Jos pidät siitä, harkitse 5 tähden arvostelun antamista."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Webiä ei löydy"
+   },
+   "Your_message": {
+      "message": "Viestisi lähetetään kaikille"
+   },
+   "Your_positive": {
+      "message": "Positiivinen palautteesi on meille erittäin tärkeää ja auttaa meitä parantamaan."
+   },
+   "any_inquiries": {
+      "message": "kaikkiin kyselyihin."
+   },
+   "disturbsText": {
+      "message": "Jos tämä häiritsee sinua, vastaamalla \"Ei\" en lähetä sinulle enää viestejä."
+   },
+   "finishLoginText": {
+      "message": "Oletko suorittanut kirjautumisen loppuun?"
+   },
+   "finishPaymentText": {
+      "message": "Oletko suorittanut maksun loppuun?"
+   },
+   "format": {
+      "message": "muoto"
+   },
+   "loginText": {
+      "message": "Kirjautuminen"
+   },
+   "messages": {
+      "message": "viestiä"
+   },
+   "participants": {
+      "message": "osallistujaa"
+   },
+   "proplanText": {
+      "message": "PRO-SUUNNITELMA"
+   },
+   "qtDes": {
+      "message": "Lähetä WhatsApp-massaviestejä Excel-numeroilla tallentamatta numeroita. Mukauta viestejä ja lähetä liitteitä."
+   },
+   "qtName": {
+      "message": "WhatsApp-massaviestien lähettäjä | WPPME.COM"
+   },
+   "rows": {
+      "message": "riviä"
+   },
+   "saveEmptyText": {
+      "message": "Mallipohja ei voi olla tyhjä."
+   },
+   "saveExistText": {
+      "message": "Tämä viestisisältö on jo olemassa."
+   },
+   "saveMoreText": {
+      "message": "Et voi tallentaa yli 500 viesti mallipohjaa."
+   },
+   "saveSuccessText": {
+      "message": "Mallipohja tallennettu onnistuneesti"
+   },
+   "seconds_after_every": {
+      "message": "sekuntia jokaisen jälkeen"
+   },
+   "sent_at": {
+      "message": "lähetetty klo"
+   },
+   "will_receive": {
+      "message": "saavat viestin."
+   }
+}

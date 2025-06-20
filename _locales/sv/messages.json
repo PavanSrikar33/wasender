@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Lägg till"
+   },
+   "Add_Apology": {
+      "message": "Lägg till ursäkt för störning"
+   },
+   "Add_Timestamp": {
+      "message": "Lägg till tidsstämpel"
+   },
+   "Add_number": {
+      "message": "Lägg till nummer"
+   },
+   "All_contacts": {
+      "message": "Alla kontakter i det valda landet"
+   },
+   "Audio": {
+      "message": "Ljud"
+   },
+   "Cancel": {
+      "message": "Avbryt"
+   },
+   "Chats": {
+      "message": "Chattar"
+   },
+   "Click_to_Upload": {
+      "message": "Klicka för att ladda upp / Dra och släpp här"
+   },
+   "Close": {
+      "message": "Stäng"
+   },
+   "Completed": {
+      "message": "Klart"
+   },
+   "Confirm": {
+      "message": "Bekräfta"
+   },
+   "Contacts": {
+      "message": "Kontakt"
+   },
+   "Continue": {
+      "message": "Fortsätt"
+   },
+   "Countries": {
+      "message": "Länder"
+   },
+   "Details": {
+      "message": "Detaljer"
+   },
+   "Do_you_need": {
+      "message": "Behöver du ett effektivt sätt att skicka massmeddelanden på WhatsApp? Vår WA-sändare är precis vad du behöver. Testa den och se hur enkelt massmeddelanden kan vara!"
+   },
+   "Document": {
+      "message": "Dokument"
+   },
+   "Download_the_template": {
+      "message": "Ladda ner mallen"
+   },
+   "Failure": {
+      "message": "Misslyckande"
+   },
+   "Feel_free": {
+      "message": "Lägg gärna till valfri text eller länkar."
+   },
+   "File_Upload": {
+      "message": "Filuppladdning"
+   },
+   "Free_plans": {
+      "message": "Gratis planer tillåter att skicka 10 meddelanden per batch."
+   },
+   "Groups": {
+      "message": "Grupper"
+   },
+   "Hello": {
+      "message": "Hej"
+   },
+   "Image": {
+      "message": "Bild"
+   },
+   "Including_Administrators": {
+      "message": "Inkluderar administratörer"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Ange WhatsApp-nummer"
+   },
+   "Interested": {
+      "message": "Intresserad? Svara 'Ja' för att lära dig mer."
+   },
+   "Labels": {
+      "message": "Etiketter"
+   },
+   "Leave_Review": {
+      "message": "Lämna en recension"
+   },
+   "Log_in": {
+      "message": "Logga in"
+   },
+   "MessageEmptyText": {
+      "message": "Meddelandeinnehållet får inte vara tomt."
+   },
+   "Messages": {
+      "message": "Meddelanden"
+   },
+   "NO_DATA": {
+      "message": "INGA DATA"
+   },
+   "Not_interested": {
+      "message": "Inte intresserad? Svara 'Nej' så skickar jag inga fler meddelanden."
+   },
+   "Not_now": {
+      "message": "Inte nu"
+   },
+   "Numbers": {
+      "message": "Nummer"
+   },
+   "Pause": {
+      "message": "Paus"
+   },
+   "Please_include": {
+      "message": "Ange din inloggnings-e-post för snabbare hjälp."
+   },
+   "Please_open": {
+      "message": "Öppna eller uppdatera WhatsApp Web. Se till att endast en WhatsApp Web-sida är öppen, även om den är inaktiv, innan du försöker igen."
+   },
+   "Random_sending": {
+      "message": "Slumpmässigt sändningsintervall (sekunder):"
+   },
+   "Reach_out": {
+      "message": "Kontakta oss på"
+   },
+   "Review": {
+      "message": "Recension"
+   },
+   "Save_as_template": {
+      "message": "Spara som mall"
+   },
+   "Select_All": {
+      "message": "Markera alla"
+   },
+   "Select_a_template": {
+      "message": "Välj en mall"
+   },
+   "Send": {
+      "message": "Skicka"
+   },
+   "Send_to": {
+      "message": "Skicka till"
+   },
+   "Send_to_the": {
+      "message": "Skicka till topp 10 personer"
+   },
+   "Sending": {
+      "message": "Skickar"
+   },
+   "Sticker": {
+      "message": "Klistermärke"
+   },
+   "Success": {
+      "message": "Framgång"
+   },
+   "Support_batch": {
+      "message": "Stöder batchkopiering här"
+   },
+   "Text_Message": {
+      "message": "Textmeddelande"
+   },
+   "Text_style": {
+      "message": "Textstilalternativ: *FET* _kursiv_ ~genomstruken~"
+   },
+   "The_contacts": {
+      "message": "De kontakter du chattar med på WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Filstorleksgräns 20 MB, upp till 100 000 rader"
+   },
+   "The_file_Max_20MB": {
+      "message": "Filstorleksgräns 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Filen är felaktig, ladda upp enligt anvisningarna."
+   },
+   "The_template_will": {
+      "message": "Mallen kommer att ersätta textinnehållet i inmatningsrutan."
+   },
+   "The_valid": {
+      "message": "Giltiga WhatsApp-kontakter i din telefon"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Tips: För att undvika WhatsApp-begränsningar, minska antalet mottagare och förläng intervallet mellan sändningarna."
+   },
+   "UPGRADE": {
+      "message": "UPPGRADERA"
+   },
+   "Upgrade": {
+      "message": "Uppgradera"
+   },
+   "Upgrade_Now": {
+      "message": "Uppgradera nu"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Uppgradera till PRO för obegränsade möjligheter."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Visa resultat"
+   },
+   "Voice": {
+      "message": "Röst"
+   },
+   "Wait": {
+      "message": "Vänta"
+   },
+   "We_hope": {
+      "message": "Vi hoppas att du tycker att vårt verktyg är användbart! Om du gillar det, överväg att ge oss en 5-stjärnig betyg."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web hittades inte"
+   },
+   "Your_message": {
+      "message": "Ditt meddelande kommer att skickas till alla"
+   },
+   "Your_positive": {
+      "message": "Din positiva feedback betyder mycket för oss och hjälper oss att förbättra."
+   },
+   "any_inquiries": {
+      "message": "vid eventuella frågor."
+   },
+   "disturbsText": {
+      "message": "Om det stör dig, svara 'Nej' så skickar jag inga fler meddelanden."
+   },
+   "finishLoginText": {
+      "message": "Avslutade du inloggningen?"
+   },
+   "finishPaymentText": {
+      "message": "Avslutade du din betalning?"
+   },
+   "format": {
+      "message": "format"
+   },
+   "loginText": {
+      "message": "Inloggning"
+   },
+   "messages": {
+      "message": "meddelanden"
+   },
+   "participants": {
+      "message": "deltagare"
+   },
+   "proplanText": {
+      "message": "PRO-PLAN"
+   },
+   "qtDes": {
+      "message": "Skicka massmeddelanden på WhatsApp via Excel-nummer utan att spara nummer. Anpassa meddelanden och skicka bilagor."
+   },
+   "qtName": {
+      "message": "WhatsApp Massmeddelande Sändare | WPPME.COM"
+   },
+   "rows": {
+      "message": "rader"
+   },
+   "saveEmptyText": {
+      "message": "Mallen får inte vara tom."
+   },
+   "saveExistText": {
+      "message": "Det här meddelandeinnehållet finns redan."
+   },
+   "saveMoreText": {
+      "message": "Kan inte spara fler än 500 meddelandemallar."
+   },
+   "saveSuccessText": {
+      "message": "Mallen sparades"
+   },
+   "seconds_after_every": {
+      "message": "sekunder efter varje"
+   },
+   "sent_at": {
+      "message": "skickad kl"
+   },
+   "will_receive": {
+      "message": "kommer att få ditt meddelande."
+   }
+}

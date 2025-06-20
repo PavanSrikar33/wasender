@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Lisa"
+   },
+   "Add_Apology": {
+      "message": "Lisa vabandust häirimise eest"
+   },
+   "Add_Timestamp": {
+      "message": "Lisa ajatempel"
+   },
+   "Add_number": {
+      "message": "Lisa number"
+   },
+   "All_contacts": {
+      "message": "Kõik kontaktid valitud riigis"
+   },
+   "Audio": {
+      "message": "Heli"
+   },
+   "Cancel": {
+      "message": "Loobu"
+   },
+   "Chats": {
+      "message": "Vestlused"
+   },
+   "Click_to_Upload": {
+      "message": "Laadi üles / lohista siia"
+   },
+   "Close": {
+      "message": "Sulge"
+   },
+   "Completed": {
+      "message": "Valmis"
+   },
+   "Confirm": {
+      "message": "Kinnita"
+   },
+   "Contacts": {
+      "message": "Kontakt"
+   },
+   "Continue": {
+      "message": "Jätka"
+   },
+   "Countries": {
+      "message": "Riigid"
+   },
+   "Details": {
+      "message": "Detailid"
+   },
+   "Do_you_need": {
+      "message": "Kas vajate efektiivset meetodit WhatsAppis massilise sõnumite saatmiseks? Meie WA saatja on just see, mida vajate. Proovige seda ja vaadake, kui lihtne massilise sõnumside saatmine võib olla!"
+   },
+   "Document": {
+      "message": "Dokument"
+   },
+   "Download_the_template": {
+      "message": "Laadi alla mall"
+   },
+   "Failure": {
+      "message": "Ebaõnnestumine"
+   },
+   "Feel_free": {
+      "message": "Võite lisada soovi korral teksti või linke."
+   },
+   "File_Upload": {
+      "message": "Faili üleslaadimine"
+   },
+   "Free_plans": {
+      "message": "Tasuta plaanid võimaldavad saata 10 sõnumit partii kohta."
+   },
+   "Groups": {
+      "message": "Grupid"
+   },
+   "Hello": {
+      "message": "Tere"
+   },
+   "Image": {
+      "message": "Pilt"
+   },
+   "Including_Administrators": {
+      "message": "Kaasa arvatud administraatorid"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Sisesta WhatsAppi numbrid"
+   },
+   "Interested": {
+      "message": "Huvitatud? Vasta 'Jah', et rohkem teada saada."
+   },
+   "Labels": {
+      "message": "Märgised"
+   },
+   "Leave_Review": {
+      "message": "Jäta arvustus"
+   },
+   "Log_in": {
+      "message": "Logi sisse"
+   },
+   "MessageEmptyText": {
+      "message": "Sõnumi sisu ei saa olla tühi."
+   },
+   "Messages": {
+      "message": "Sõnumid"
+   },
+   "NO_DATA": {
+      "message": "ANDMED PUUDUVAD"
+   },
+   "Not_interested": {
+      "message": "Ei huvita? Vasta 'Ei' ja ma ei saada enam sõnumeid."
+   },
+   "Not_now": {
+      "message": "Praegu mitte"
+   },
+   "Numbers": {
+      "message": "Numbrid"
+   },
+   "Pause": {
+      "message": "Peata"
+   },
+   "Please_include": {
+      "message": "Palun lisage oma sisselogimise e-post kiirema abi saamiseks."
+   },
+   "Please_open": {
+      "message": "Palun avage või värskendage WhatsApp Web. Enne uuesti proovimist veenduge, et oleks avatud ainult üks WhatsApp Webi leht, isegi kui see pole aktiivne."
+   },
+   "Random_sending": {
+      "message": "Juhuslik saatmise intervall (sekundit):"
+   },
+   "Reach_out": {
+      "message": "Võtke meiega ühendust aadressil"
+   },
+   "Review": {
+      "message": "Arvustus"
+   },
+   "Save_as_template": {
+      "message": "Salvesta malliks"
+   },
+   "Select_All": {
+      "message": "Vali kõik"
+   },
+   "Select_a_template": {
+      "message": "Vali mall"
+   },
+   "Send": {
+      "message": "Saada"
+   },
+   "Send_to": {
+      "message": "Saada aadressile"
+   },
+   "Send_to_the": {
+      "message": "Saada 10 parimale kontaktile"
+   },
+   "Sending": {
+      "message": "Saatmine"
+   },
+   "Sticker": {
+      "message": "Kleebis"
+   },
+   "Success": {
+      "message": "Edukas"
+   },
+   "Support_batch": {
+      "message": "Toetab partii kopeerimist siia"
+   },
+   "Text_Message": {
+      "message": "Tekstisõnum"
+   },
+   "Text_style": {
+      "message": "Tekstistiili valikud: *Paks* _kursiiv_ ~läbikriipsutatud~"
+   },
+   "The_contacts": {
+      "message": "Kontaktid, kellega te WhatsAppis vesteldate"
+   },
+   "The_file_Max": {
+      "message": "Faili maksimaalne suurus 20 MB, kuni 100 000 rida"
+   },
+   "The_file_Max_20MB": {
+      "message": "Faili maksimaalne suurus 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Fail on vale, palun laadige üles nõutud formaadis."
+   },
+   "The_template_will": {
+      "message": "Mall asendab sisestuskasti tekstisisu."
+   },
+   "The_valid": {
+      "message": "Teie telefoni kehtivad WhatsAppi kontaktid"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Näpunäide: WhatsAppi piirangute vältimiseks vähendage saajate arvu ja pikendage saatmiste vahelist intervalli."
+   },
+   "UPGRADE": {
+      "message": "TÄIUSTA"
+   },
+   "Upgrade": {
+      "message": "Täiusta"
+   },
+   "Upgrade_Now": {
+      "message": "Täiusta kohe"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Täiustage PRO-le piiranguteta."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Vaata tulemusi"
+   },
+   "Voice": {
+      "message": "Hääl"
+   },
+   "Wait": {
+      "message": "Oota"
+   },
+   "We_hope": {
+      "message": "Loodame, et leiate meie tööriista abiks! Kui see teile meeldib, kaaluge palun meile 5-tärnilise hinnangu andmist."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Webi ei leitud"
+   },
+   "Your_message": {
+      "message": "Teie sõnum saadetakse kõigile"
+   },
+   "Your_positive": {
+      "message": "Teie positiivne tagasiside on meile väga oluline ja aitab meil ennast täiustada."
+   },
+   "any_inquiries": {
+      "message": "kõigi päringute korral."
+   },
+   "disturbsText": {
+      "message": "Kui see teid häirib, vastake 'Ei' ja ma ei saada teile enam sõnumeid."
+   },
+   "finishLoginText": {
+      "message": "Kas olete sisselogimise lõpetanud?"
+   },
+   "finishPaymentText": {
+      "message": "Kas olete makse lõpetanud?"
+   },
+   "format": {
+      "message": "vorming"
+   },
+   "loginText": {
+      "message": "Sisselogimine"
+   },
+   "messages": {
+      "message": "sõnumit"
+   },
+   "participants": {
+      "message": "osalejat."
+   },
+   "proplanText": {
+      "message": "PRO PLAAN"
+   },
+   "qtDes": {
+      "message": "Saada WhatsAppi sõnumeid massiliselt Exceli numbrite kaudu, ilma numbreid salvestamata. Isikupärastage sõnumeid ja saatke manuseid."
+   },
+   "qtName": {
+      "message": "WhatsAppi massilise sõnumite saatja | WPPME.COM"
+   },
+   "rows": {
+      "message": "rida"
+   },
+   "saveEmptyText": {
+      "message": "Mall ei saa olla tühi."
+   },
+   "saveExistText": {
+      "message": "See sõnumisisu juba eksisteerib."
+   },
+   "saveMoreText": {
+      "message": "Ei saa salvestada rohkem kui 500 sõnumimalli."
+   },
+   "saveSuccessText": {
+      "message": "Mall salvestatud edukalt"
+   },
+   "seconds_after_every": {
+      "message": "sekundit iga"
+   },
+   "sent_at": {
+      "message": "saadetud kell"
+   },
+   "will_receive": {
+      "message": "saavad teie sõnumi."
+   }
+}

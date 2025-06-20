@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "যোগ করুন"
+   },
+   "Add_Apology": {
+      "message": "দুঃখ প্রকাশের বার্তা যোগ করুন"
+   },
+   "Add_Timestamp": {
+      "message": "সময় যোগ করুন"
+   },
+   "Add_number": {
+      "message": "নম্বর যোগ করুন"
+   },
+   "All_contacts": {
+      "message": "নির্বাচিত দেশের সকল যোগাযোগ"
+   },
+   "Audio": {
+      "message": "অডিও"
+   },
+   "Cancel": {
+      "message": "বাতিল করুন"
+   },
+   "Chats": {
+      "message": "চ্যাট"
+   },
+   "Click_to_Upload": {
+      "message": "আপলোড করতে ক্লিক করুন / এখানে টেনে আনুন"
+   },
+   "Close": {
+      "message": "বন্ধ করুন"
+   },
+   "Completed": {
+      "message": "পূর্ণ"
+   },
+   "Confirm": {
+      "message": "নিশ্চিত করুন"
+   },
+   "Contacts": {
+      "message": "যোগাযোগ"
+   },
+   "Continue": {
+      "message": "চালিয়ে যান"
+   },
+   "Countries": {
+      "message": "দেশসমূহ"
+   },
+   "Details": {
+      "message": "বিস্তারিত"
+   },
+   "Do_you_need": {
+      "message": "WhatsApp-এ বাল্ক মেসেজ পাঠানোর একটি কার্যকর পদ্ধতির প্রয়োজন? আমাদের WA Sender হল আপনার জন্য সঠিক পছন্দ। এটি ব্যবহার করে দেখুন এবং বাল্ক মেসেজিং কত সহজ তা দেখুন!"
+   },
+   "Document": {
+      "message": "ডকুমেন্ট"
+   },
+   "Download_the_template": {
+      "message": "টেমপ্লেট ডাউনলোড করুন"
+   },
+   "Failure": {
+      "message": "ব্যর্থ"
+   },
+   "Feel_free": {
+      "message": "আপনার ইচ্ছামতো যেকোনো লেখা বা লিঙ্ক যোগ করুন।"
+   },
+   "File_Upload": {
+      "message": "ফাইল আপলোড"
+   },
+   "Free_plans": {
+      "message": "ফ্রি প্ল্যানে প্রতি ব্যাচে ১০ টি বার্তা পাঠানো যায়।"
+   },
+   "Groups": {
+      "message": "গ্রুপ"
+   },
+   "Hello": {
+      "message": "হ্যালো"
+   },
+   "Image": {
+      "message": "ছবি"
+   },
+   "Including_Administrators": {
+      "message": "প্রশাসক সহ"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp নম্বর প্রবেশ করুন"
+   },
+   "Interested": {
+      "message": "আগ্রহী? আরও জানতে 'হ্যাঁ' উত্তর দিন।"
+   },
+   "Labels": {
+      "message": "লেবেল"
+   },
+   "Leave_Review": {
+      "message": "সমালোচনা করুন"
+   },
+   "Log_in": {
+      "message": "লগ ইন করুন"
+   },
+   "MessageEmptyText": {
+      "message": "বার্তার বিষয়বস্তু খালি হতে পারে না।"
+   },
+   "Messages": {
+      "message": "বার্তা"
+   },
+   "NO_DATA": {
+      "message": "কোনো তথ্য নেই"
+   },
+   "Not_interested": {
+      "message": "আগ্রহী নন? 'না' উত্তর দিন এবং আমি আর কোনো বার্তা পাঠাবো না।"
+   },
+   "Not_now": {
+      "message": "এখন নয়"
+   },
+   "Numbers": {
+      "message": "নম্বর"
+   },
+   "Pause": {
+      "message": "বিরতি"
+   },
+   "Please_include": {
+      "message": "দ্রুত সহায়তার জন্য অনুগ্রহ করে আপনার লগইন ইমেইল লিখুন।"
+   },
+   "Please_open": {
+      "message": "WhatsApp ওয়েব খুলুন অথবা রিফ্রেশ করুন। পুনরায় চেষ্টা করার আগে নিশ্চিত করুন যে কেবলমাত্র একটি WhatsApp ওয়েব পেজ খোলা আছে, এমনকি যদি সেটি নিষ্ক্রিয় থাকে।"
+   },
+   "Random_sending": {
+      "message": "এলোমেলো পাঠানোর ব্যবধান (সেকেন্ড):"
+   },
+   "Reach_out": {
+      "message": "যে কোনো প্রশ্নের জন্য আমাদের সাথে যোগাযোগ করুন"
+   },
+   "Review": {
+      "message": "সমালোচনা"
+   },
+   "Save_as_template": {
+      "message": "টেমপ্লেট হিসেবে সংরক্ষণ করুন"
+   },
+   "Select_All": {
+      "message": "সব নির্বাচন করুন"
+   },
+   "Select_a_template": {
+      "message": "টেমপ্লেট নির্বাচন করুন"
+   },
+   "Send": {
+      "message": "পাঠান"
+   },
+   "Send_to": {
+      "message": "পাঠান"
+   },
+   "Send_to_the": {
+      "message": "শীর্ষ ১০ জনের কাছে পাঠান"
+   },
+   "Sending": {
+      "message": "পাঠাচ্ছে"
+   },
+   "Sticker": {
+      "message": "স্টিকার"
+   },
+   "Success": {
+      "message": "সফল"
+   },
+   "Support_batch": {
+      "message": "এখানে ব্যাচ কপি করা সমর্থিত"
+   },
+   "Text_Message": {
+      "message": "টেক্সট বার্তা"
+   },
+   "Text_style": {
+      "message": "টেক্সট স্টাইল অপশন: *বোল্ড* _ইটালিক_ ~স্ট্রাইকথ্রু~"
+   },
+   "The_contacts": {
+      "message": "আপনার WhatsApp-এর সাথে যারা চ্যাট করেন"
+   },
+   "The_file_Max": {
+      "message": "ফাইলের সর্বোচ্চ আকার ২০এমবি, সর্বোচ্চ ১০০,০০০ লাইন"
+   },
+   "The_file_Max_20MB": {
+      "message": "ফাইলের সর্বোচ্চ আকার ২০এমবি।"
+   },
+   "The_file_is_incorrect": {
+      "message": "ফাইলটি ভুল, অনুগ্রহ করে প্রয়োজনীয়ভাবে আপলোড করুন।"
+   },
+   "The_template_will": {
+      "message": "টেমপ্লেটটি ইনপুট বক্সের টেক্সট কন্টেন্ট প্রতিস্থাপন করবে।"
+   },
+   "The_valid": {
+      "message": "আপনার ফোনে থাকা বৈধ WhatsApp যোগাযোগ"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "টিপ: WhatsApp-এর সীমাবদ্ধতা এড়াতে, প্রাপকদের সংখ্যা কমিয়ে এবং পাঠানোর মধ্যবর্তী ব্যবধান বাড়ান।"
+   },
+   "UPGRADE": {
+      "message": "আপগ্রেড করুন"
+   },
+   "Upgrade": {
+      "message": "আপগ্রেড করুন"
+   },
+   "Upgrade_Now": {
+      "message": "এখনই আপগ্রেড করুন"
+   },
+   "Upgrade_to_PRO": {
+      "message": "কোনো সীমা ছাড়া PRO-তে আপগ্রেড করুন।"
+   },
+   "Video": {
+      "message": "ভিডিও"
+   },
+   "View_Results": {
+      "message": "ফলাফল দেখুন"
+   },
+   "Voice": {
+      "message": "ভয়েস"
+   },
+   "Wait": {
+      "message": "অপেক্ষা করুন"
+   },
+   "We_hope": {
+      "message": "আমরা আশা করি আপনি আমাদের টুলটি উপকারী বলে মনে করছেন! যদি আপনি এটি পছন্দ করেন, তাহলে অনুগ্রহ করে আমাদের ৫-তারকা রেটিং দেওয়ার বিষয়টি বিবেচনা করুন।"
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp ওয়েব পাওয়া যায়নি"
+   },
+   "Your_message": {
+      "message": "আপনার বার্তা সকল"
+   },
+   "Your_positive": {
+      "message": "আপনার ইতিবাচক প্রতিক্রিয়া আমাদের জন্য অনেক গুরুত্বপূর্ণ এবং এটি আমাদের উন্নতি করতে সাহায্য করে।"
+   },
+   "any_inquiries": {
+      "message": "জন্য।"
+   },
+   "disturbsText": {
+      "message": "যদি এটি আপনাকে বিরক্ত করে, অনুগ্রহ করে 'না' উত্তর দিন এবং আমি আর কোনো বার্তা পাঠাবো না।"
+   },
+   "finishLoginText": {
+      "message": "আপনি কি লগইন শেষ করেছেন?"
+   },
+   "finishPaymentText": {
+      "message": "আপনি কি আপনার পেমেন্ট শেষ করেছেন?"
+   },
+   "format": {
+      "message": "ফরম্যাট"
+   },
+   "loginText": {
+      "message": "লগইন"
+   },
+   "messages": {
+      "message": "বার্তা"
+   },
+   "participants": {
+      "message": "অংশগ্রহণকারী"
+   },
+   "proplanText": {
+      "message": "PRO প্ল্যান"
+   },
+   "qtDes": {
+      "message": "এক্সেল নম্বর ব্যবহার করে WhatsApp-এ বাল্ক মেসেজ পাঠান, নম্বর সংরক্ষণ ছাড়াই। বার্তাগুলিকে ব্যক্তিগতকৃত করুন এবং সংযুক্তি পাঠান।"
+   },
+   "qtName": {
+      "message": "WhatsApp বাল্ক মেসেজ সেন্ডার | WPPME.COM"
+   },
+   "rows": {
+      "message": "লাইন"
+   },
+   "saveEmptyText": {
+      "message": "টেমপ্লেট খালি হতে পারে না।"
+   },
+   "saveExistText": {
+      "message": "এই বার্তার বিষয়বস্তু ইতোমধ্যে বিদ্যমান।"
+   },
+   "saveMoreText": {
+      "message": "৫০০ টির বেশি বার্তা টেমপ্লেট সংরক্ষণ করা যাবে না।"
+   },
+   "saveSuccessText": {
+      "message": "টেমপ্লেট সফলভাবে সংরক্ষিত হয়েছে"
+   },
+   "seconds_after_every": {
+      "message": "প্রতিটির পর সেকেন্ড"
+   },
+   "sent_at": {
+      "message": "পাঠানো হয়েছে"
+   },
+   "will_receive": {
+      "message": "আপনার বার্তা পাবেন।"
+   }
+}

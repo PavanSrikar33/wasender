@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Добави"
+   },
+   "Add_Apology": {
+      "message": "Добави извинение за безпокойството"
+   },
+   "Add_Timestamp": {
+      "message": "Добави време"
+   },
+   "Add_number": {
+      "message": "Добави номер"
+   },
+   "All_contacts": {
+      "message": "Всички контакти в избраната държава"
+   },
+   "Audio": {
+      "message": "Аудио"
+   },
+   "Cancel": {
+      "message": "Отказ"
+   },
+   "Chats": {
+      "message": "Чатове"
+   },
+   "Click_to_Upload": {
+      "message": "Кликнете за качване / Плъзнете и пуснете тук"
+   },
+   "Close": {
+      "message": "Затвори"
+   },
+   "Completed": {
+      "message": "Завършено"
+   },
+   "Confirm": {
+      "message": "Потвърди"
+   },
+   "Contacts": {
+      "message": "Контакти"
+   },
+   "Continue": {
+      "message": "Продължи"
+   },
+   "Countries": {
+      "message": "Държави"
+   },
+   "Details": {
+      "message": "Детайли"
+   },
+   "Do_you_need": {
+      "message": "Нуждаете ли се от ефективен метод за изпращане на масови съобщения в WhatsApp? Нашият WA Sender е точно това, от което се нуждаете. Опитайте го и вижте колко лесно може да бъде масовото изпращане на съобщения!"
+   },
+   "Document": {
+      "message": "Документ"
+   },
+   "Download_the_template": {
+      "message": "Изтеглете шаблона"
+   },
+   "Failure": {
+      "message": "Неуспешни"
+   },
+   "Feel_free": {
+      "message": "Чувствайте се свободни да добавите желания текст или линкове."
+   },
+   "File_Upload": {
+      "message": "Качване на файл"
+   },
+   "Free_plans": {
+      "message": "Безплатните планове позволяват изпращане на 10 съобщения на партида."
+   },
+   "Groups": {
+      "message": "Групи"
+   },
+   "Hello": {
+      "message": "Здравей"
+   },
+   "Image": {
+      "message": "Изображение"
+   },
+   "Including_Administrators": {
+      "message": "Включително администратори"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Въведете WhatsApp номера"
+   },
+   "Interested": {
+      "message": "Интересувате ли се? Отговорете с „Да“, за да научите повече."
+   },
+   "Labels": {
+      "message": "Етикети"
+   },
+   "Leave_Review": {
+      "message": "Оценете ни"
+   },
+   "Log_in": {
+      "message": "Влез"
+   },
+   "MessageEmptyText": {
+      "message": "Съдържанието на съобщението не може да бъде празно."
+   },
+   "Messages": {
+      "message": "Съобщения"
+   },
+   "NO_DATA": {
+      "message": "НЯМА ДАННИ"
+   },
+   "Not_interested": {
+      "message": "Не се интересувате? Отговорете с „Не“ и няма да ви изпращам повече съобщения."
+   },
+   "Not_now": {
+      "message": "По-късно"
+   },
+   "Numbers": {
+      "message": "Номера"
+   },
+   "Pause": {
+      "message": "Пауза"
+   },
+   "Please_include": {
+      "message": "Моля, включете вашия имейл за по-бърза помощ."
+   },
+   "Please_open": {
+      "message": "Моля, отворете или обновете WhatsApp Web. Уверете се, че само една страница на WhatsApp Web е отворена, дори и неактивна, преди да опитате отново."
+   },
+   "Random_sending": {
+      "message": "Случаен интервал на изпращане (секунди):"
+   },
+   "Reach_out": {
+      "message": "Свържете се с нас на"
+   },
+   "Review": {
+      "message": "Оценка"
+   },
+   "Save_as_template": {
+      "message": "Запази като шаблон"
+   },
+   "Select_All": {
+      "message": "Избери всички"
+   },
+   "Select_a_template": {
+      "message": "Избери шаблон"
+   },
+   "Send": {
+      "message": "Изпрати"
+   },
+   "Send_to": {
+      "message": "Изпрати до"
+   },
+   "Send_to_the": {
+      "message": "Изпрати до Топ 10 души"
+   },
+   "Sending": {
+      "message": "Изпращане"
+   },
+   "Sticker": {
+      "message": "Стикери"
+   },
+   "Success": {
+      "message": "Успешни"
+   },
+   "Support_batch": {
+      "message": "Поддържа се групово копиране тук"
+   },
+   "Text_Message": {
+      "message": "Текстово съобщение"
+   },
+   "Text_style": {
+      "message": "Опции за стил на текста: *Удебелен* _курсив_ ~зачеркнат~"
+   },
+   "The_contacts": {
+      "message": "Контактите, с които чатите в WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Максимален размер на файла 20MB, до 100 000 реда"
+   },
+   "The_file_Max_20MB": {
+      "message": "Максимален размер на файла 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Файлът е неправилен, моля качете го както е необходимо."
+   },
+   "The_template_will": {
+      "message": "Шаблонът ще замени текстовото съдържание на полето за въвеждане."
+   },
+   "The_valid": {
+      "message": "Важни WhatsApp контакти в телефона ви"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Съвет: За да предотвратите ограниченията на WhatsApp, намалете броя на получателите и удължете интервала между изпращанията."
+   },
+   "UPGRADE": {
+      "message": "ЪПГРЕЙД"
+   },
+   "Upgrade": {
+      "message": "Ъпгрейд"
+   },
+   "Upgrade_Now": {
+      "message": "Ъпгрейд сега"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Ъпгрейд до PRO за неограничено изпращане."
+   },
+   "Video": {
+      "message": "Видео"
+   },
+   "View_Results": {
+      "message": "Виж резултатите"
+   },
+   "Voice": {
+      "message": "Гласова бележка"
+   },
+   "Wait": {
+      "message": "Изчакайте"
+   },
+   "We_hope": {
+      "message": "Надяваме се, че нашият инструмент ви е полезен! Ако ви харесва, моля, помислете да ни дадете 5-звездна оценка."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web не е намерен"
+   },
+   "Your_message": {
+      "message": "Вашето съобщение ще бъде изпратено на всички"
+   },
+   "Your_positive": {
+      "message": "Вашата положителна обратна връзка е много важна за нас и ни помага да се усъвършенстваме."
+   },
+   "any_inquiries": {
+      "message": "за всякакви запитвания."
+   },
+   "disturbsText": {
+      "message": "Ако ви безпокоя, моля, отговорете с „Не“ и няма да ви изпращам повече съобщения."
+   },
+   "finishLoginText": {
+      "message": "Завършихте ли влизането?"
+   },
+   "finishPaymentText": {
+      "message": "Завършихте ли плащането си?"
+   },
+   "format": {
+      "message": "формат"
+   },
+   "loginText": {
+      "message": "Вход"
+   },
+   "messages": {
+      "message": "съобщения"
+   },
+   "participants": {
+      "message": "участници"
+   },
+   "proplanText": {
+      "message": "PRO ПЛАН"
+   },
+   "qtDes": {
+      "message": "Масово изпращане на WhatsApp съобщения чрез Excel номера, без да се записват номерата. Персонализирайте съобщенията и изпращайте прикачени файлове."
+   },
+   "qtName": {
+      "message": "WhatsApp Масово Изпращане на Съобщения | WPPME.COM"
+   },
+   "rows": {
+      "message": "реда"
+   },
+   "saveEmptyText": {
+      "message": "Шаблонът не може да бъде празен."
+   },
+   "saveExistText": {
+      "message": "Това съдържание на съобщението вече съществува."
+   },
+   "saveMoreText": {
+      "message": "Не могат да се запазят повече от 500 шаблона на съобщения."
+   },
+   "saveSuccessText": {
+      "message": "Шаблонът е запазен успешно"
+   },
+   "seconds_after_every": {
+      "message": "секунди след всяко"
+   },
+   "sent_at": {
+      "message": "изпратено на"
+   },
+   "will_receive": {
+      "message": "ще получат вашето съобщение."
+   }
+}

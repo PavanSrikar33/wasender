@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "ጨምር"
+   },
+   "Add_Apology": {
+      "message": "ለማስጨንቀት ይቅርታ ጨምር"
+   },
+   "Add_Timestamp": {
+      "message": "ሰዓት ጨምር"
+   },
+   "Add_number": {
+      "message": "ቁጥር ጨምር"
+   },
+   "All_contacts": {
+      "message": "በተመረጠው አገር ውስጥ ያሉ ሁሉም እውቂያዎች"
+   },
+   "Audio": {
+      "message": "ኦዲዮ"
+   },
+   "Cancel": {
+      "message": "ሰርዝ"
+   },
+   "Chats": {
+      "message": "ውይይቶች"
+   },
+   "Click_to_Upload": {
+      "message": "ለመስቀል ይንኩ / ወደ እዚህ ይጎትቱ"
+   },
+   "Close": {
+      "message": "ዝጋ"
+   },
+   "Completed": {
+      "message": "ተጠናቀቀ"
+   },
+   "Confirm": {
+      "message": "አረጋግጥ"
+   },
+   "Contacts": {
+      "message": "እውቂያ"
+   },
+   "Continue": {
+      "message": "ቀጥል"
+   },
+   "Countries": {
+      "message": "አገሮች"
+   },
+   "Details": {
+      "message": "ዝርዝሮች"
+   },
+   "Do_you_need": {
+      "message": "በዋትስአፕ ላይ ብዙ መልዕክቶችን ለመላክ ውጤታማ ዘዴ ይፈልጋሉ? የእኛ WA መላኪያ እርስዎ በትክክል የሚፈልጉት ነው። ይሞክሩት እና ብዙ መልዕክት መላክ ምን ያህል ቀላል እንደሆነ ይመልከቱ!"
+   },
+   "Document": {
+      "message": "ሰነድ"
+   },
+   "Download_the_template": {
+      "message": "የናሙና ፋይል አውርድ"
+   },
+   "Failure": {
+      "message": "አልተሳካም"
+   },
+   "Feel_free": {
+      "message": "ማንኛውንም ጽሑፍ ወይም አገናኞች በነፃነት ማከል ይችላሉ።"
+   },
+   "File_Upload": {
+      "message": "ፋይል ስቀል"
+   },
+   "Free_plans": {
+      "message": "ነፃ ዕቅዶች በአንድ ቡድን 10 መልዕክቶችን መላክ ይፈቅዳሉ።"
+   },
+   "Groups": {
+      "message": "ቡድኖች"
+   },
+   "Hello": {
+      "message": "ሰላም"
+   },
+   "Image": {
+      "message": "ምስል"
+   },
+   "Including_Administrators": {
+      "message": "አስተዳዳሪዎችን ጨምሮ"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "የዋትስአፕ ቁጥሮችን አስገባ"
+   },
+   "Interested": {
+      "message": "ፍላጎት አለህ? ተጨማሪ ለማወቅ 'አዎ' በል።"
+   },
+   "Labels": {
+      "message": "መለያዎች"
+   },
+   "Leave_Review": {
+      "message": "ግምገማ ተው"
+   },
+   "Log_in": {
+      "message": "ይግቡ"
+   },
+   "MessageEmptyText": {
+      "message": "የመልእክት ይዘት ባዶ ሊሆን አይችልም።"
+   },
+   "Messages": {
+      "message": "መልዕክቶች"
+   },
+   "NO_DATA": {
+      "message": "ምንም መረጃ የለም"
+   },
+   "Not_interested": {
+      "message": "ፍላጎት የለህም? 'አይ' በል እና ተጨማሪ መልዕክቶችን አልልክልህም።"
+   },
+   "Not_now": {
+      "message": "አሁን አይደለም"
+   },
+   "Numbers": {
+      "message": "ቁጥሮች"
+   },
+   "Pause": {
+      "message": "አቁም"
+   },
+   "Please_include": {
+      "message": "ለፈጣን እርዳታ የመግቢያ ኢሜልዎን ያካትቱ።"
+   },
+   "Please_open": {
+      "message": "ዋትስአፕ ድህረ ገጽን ይክፈቱ ወይም ያድሱ። እንደገና ከመሞከርዎ በፊት አንድ ዋትስአፕ ድህረ ገጽ ብቻ ክፍት መሆኑን ያረጋግጡ፣ ምንም እንኳን ንቁ ባይሆንም።"
+   },
+   "Random_sending": {
+      "message": "ዘፈን በዘፈን የመላክ ክፍተት (ሰከንዶች)፦"
+   },
+   "Reach_out": {
+      "message": "ያነጋግሩን በ"
+   },
+   "Review": {
+      "message": "ግምገማ"
+   },
+   "Save_as_template": {
+      "message": "እንደ ናሙና አስቀምጥ"
+   },
+   "Select_All": {
+      "message": "ሁሉንም ምረጥ"
+   },
+   "Select_a_template": {
+      "message": "ናሙና ምረጥ"
+   },
+   "Send": {
+      "message": "ላክ"
+   },
+   "Send_to": {
+      "message": "ላክ ወደ"
+   },
+   "Send_to_the": {
+      "message": "ለከፍተኛ 10 ሰዎች ላክ"
+   },
+   "Sending": {
+      "message": "እየላኩ ነው"
+   },
+   "Sticker": {
+      "message": "ስቲከር"
+   },
+   "Success": {
+      "message": "ተሳካ"
+   },
+   "Support_batch": {
+      "message": "እዚህ በቡድን መቅዳትን ይደግፋል"
+   },
+   "Text_Message": {
+      "message": "ጽሑፍ መልዕክት"
+   },
+   "Text_style": {
+      "message": "የጽሑፍ ቅርጸት አማራጮች፦ *ወፍራም* _ተደፍኖ_ ~የተሰረዘ~"
+   },
+   "The_contacts": {
+      "message": "በዋትስአፕ ላይ ከነጋገሩባቸው እውቂያዎች"
+   },
+   "The_file_Max": {
+      "message": "ከፍተኛው የፋይል መጠን 20MB፣ እስከ 100,000 ረድፎች"
+   },
+   "The_file_Max_20MB": {
+      "message": "ከፍተኛው የፋይል መጠን 20MB።"
+   },
+   "The_file_is_incorrect": {
+      "message": "ፋይሉ ትክክል አይደለም፣ እንደ አስፈላጊነቱ ይስቀሉ።"
+   },
+   "The_template_will": {
+      "message": "ናሙናው የግቤት ሳጥኑን የጽሑፍ ይዘት ይተካዋል።"
+   },
+   "The_valid": {
+      "message": "በስልክዎ ውስጥ ያሉት ትክክለኛ የዋትስአፕ እውቂያዎች"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "ምክር፦ የዋትስአፕን ገደቦች ለማስቀረት፣ የተቀበልዎትን ሰዎች ብዛት ይቀንሱ እና በመላኮች መካከል ያለውን ክፍተት ያራዝሙ።"
+   },
+   "UPGRADE": {
+      "message": "ማሻሻል"
+   },
+   "Upgrade": {
+      "message": "ማሻሻል"
+   },
+   "Upgrade_Now": {
+      "message": "አሁን አሻሽል"
+   },
+   "Upgrade_to_PRO": {
+      "message": "ምንም ገደብ ለሌለው ወደ PRO ያሻሽሉ።"
+   },
+   "Video": {
+      "message": "ቪዲዮ"
+   },
+   "View_Results": {
+      "message": "ውጤቶችን ይመልከቱ"
+   },
+   "Voice": {
+      "message": "ድምጽ"
+   },
+   "Wait": {
+      "message": "ጠብቅ"
+   },
+   "We_hope": {
+      "message": "መሳሪያችን ጠቃሚ እንደሆነ ተስፋ እናደርጋለን! ከወደዱት 5-ኮከብ ደረጃ እንድትሰጡን ያስቡ።"
+   },
+   "WhatsApp_Web": {
+      "message": "ዋትስአፕ ድህረ ገጽ አልተገኘም"
+   },
+   "Your_message": {
+      "message": "መልእክትዎ ለሁሉም"
+   },
+   "Your_positive": {
+      "message": "አዎንታዊ አስተያየትዎ ለእኛ ብዙ ማለት ነው እና እንድናሻሽል ይረዳናል።"
+   },
+   "any_inquiries": {
+      "message": "ለማንኛውም ጥያቄ።"
+   },
+   "disturbsText": {
+      "message": "ካስቸገረህ 'አይ' በል እና ተጨማሪ መልዕክቶችን አልልክልህም።"
+   },
+   "finishLoginText": {
+      "message": "መግቢያህን ጨርሰሃል?"
+   },
+   "finishPaymentText": {
+      "message": "ክፍያህን ጨርሰሃል?"
+   },
+   "format": {
+      "message": "ቅርጸት"
+   },
+   "loginText": {
+      "message": "መግቢያ"
+   },
+   "messages": {
+      "message": "መልዕክቶች"
+   },
+   "participants": {
+      "message": "ተሳታፊዎች"
+   },
+   "proplanText": {
+      "message": "PRO ዕቅድ"
+   },
+   "qtDes": {
+      "message": "ቁጥሮችን ሳያስቀምጡ በኤክሴል ቁጥሮች በኩል ብዙ መልዕክቶችን በዋትስአፕ ይላኩ። መልዕክቶችን ያብጁ እና ማያያዝን ይላኩ።"
+   },
+   "qtName": {
+      "message": "ዋትስአፕ ብዙ መልዕክት መላኪያ | WPPME.COM"
+   },
+   "rows": {
+      "message": "ረድፎች"
+   },
+   "saveEmptyText": {
+      "message": "ናሙና ባዶ ሊሆን አይችልም።"
+   },
+   "saveExistText": {
+      "message": "ይህ የመልእክት ይዘት ቀድሞውኑ አለ።"
+   },
+   "saveMoreText": {
+      "message": "ከ500 በላይ የመልእክት ናሙናዎችን ማስቀመጥ አይቻልም።"
+   },
+   "saveSuccessText": {
+      "message": "ናሙናው በተሳካ ሁኔታ ተቀምጧል"
+   },
+   "seconds_after_every": {
+      "message": "ሰከንዶች ከእያንዳንዱ በኋላ"
+   },
+   "sent_at": {
+      "message": "የተላከበት ሰዓት"
+   },
+   "will_receive": {
+      "message": "መልእክትዎን ይቀበላሉ።"
+   }
+}

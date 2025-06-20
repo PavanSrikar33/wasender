@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Додај"
+   },
+   "Add_Apology": {
+      "message": "Додај извињење због ометања"
+   },
+   "Add_Timestamp": {
+      "message": "Додај временски печат"
+   },
+   "Add_number": {
+      "message": "Додај број"
+   },
+   "All_contacts": {
+      "message": "Сви контакти у изабраној земљи"
+   },
+   "Audio": {
+      "message": "Аудио"
+   },
+   "Cancel": {
+      "message": "Откажи"
+   },
+   "Chats": {
+      "message": "Чатови"
+   },
+   "Click_to_Upload": {
+      "message": "Кликните да бисте отпремили / Превуците и испустите овде"
+   },
+   "Close": {
+      "message": "Затвори"
+   },
+   "Completed": {
+      "message": "Завршено"
+   },
+   "Confirm": {
+      "message": "Потврди"
+   },
+   "Contacts": {
+      "message": "Контакт"
+   },
+   "Continue": {
+      "message": "Настави"
+   },
+   "Countries": {
+      "message": "Земље"
+   },
+   "Details": {
+      "message": "Детаљи"
+   },
+   "Do_you_need": {
+      "message": "Треба вам ефикасан начин за слање масовних порука на WhatsApp-у? Наш WA Sender је управо оно што вам је потребно. Пробајте га и видите колико је једноставно слање масовних порука!"
+   },
+   "Document": {
+      "message": "Документ"
+   },
+   "Download_the_template": {
+      "message": "Преузмите шаблон"
+   },
+   "Failure": {
+      "message": "Неуспех"
+   },
+   "Feel_free": {
+      "message": "Слободно додајте било који текст или линкове које желите."
+   },
+   "File_Upload": {
+      "message": "Отпремање датотеке"
+   },
+   "Free_plans": {
+      "message": "Бесплатни планови омогућавају слање 10 порука по серији."
+   },
+   "Groups": {
+      "message": "Групе"
+   },
+   "Hello": {
+      "message": "Здраво"
+   },
+   "Image": {
+      "message": "Слика"
+   },
+   "Including_Administrators": {
+      "message": "Укључујући администраторе"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Унесите WhatsApp бројеве"
+   },
+   "Interested": {
+      "message": "Заинтересовани? Одговорите са 'Да' да сазнате више."
+   },
+   "Labels": {
+      "message": "Етикете"
+   },
+   "Leave_Review": {
+      "message": "Оставите оцену"
+   },
+   "Log_in": {
+      "message": "Пријави се"
+   },
+   "MessageEmptyText": {
+      "message": "Садржај поруке не може бити празан."
+   },
+   "Messages": {
+      "message": "Поруке"
+   },
+   "NO_DATA": {
+      "message": "НЕМА ПОДАТАКА"
+   },
+   "Not_interested": {
+      "message": "Нисте заинтересовани? Одговорите са 'Не' и нећу слати више порука."
+   },
+   "Not_now": {
+      "message": "Не сада"
+   },
+   "Numbers": {
+      "message": "Бројеви"
+   },
+   "Pause": {
+      "message": "Пауза"
+   },
+   "Please_include": {
+      "message": "Молимо вас да укључите своју е-пошту за пријављивање ради брже помоћи."
+   },
+   "Please_open": {
+      "message": "Молимо вас да отворите или освежите WhatsApp Web. Уверите се да је отворена само једна WhatsApp Web страница, чак и ако је неактивна, пре него што поново покушате."
+   },
+   "Random_sending": {
+      "message": "Насумични интервал слања (секунди):"
+   },
+   "Reach_out": {
+      "message": "Контактирајте нас на"
+   },
+   "Review": {
+      "message": "Оцена"
+   },
+   "Save_as_template": {
+      "message": "Сачувај као шаблон"
+   },
+   "Select_All": {
+      "message": "Изабери све"
+   },
+   "Select_a_template": {
+      "message": "Изаберите шаблон"
+   },
+   "Send": {
+      "message": "Пошаљи"
+   },
+   "Send_to": {
+      "message": "Пошаљи на"
+   },
+   "Send_to_the": {
+      "message": "Пошаљи најбољих 10 људи"
+   },
+   "Sending": {
+      "message": "Слање"
+   },
+   "Sticker": {
+      "message": "Стикер"
+   },
+   "Success": {
+      "message": "Успех"
+   },
+   "Support_batch": {
+      "message": "Подржава масовно копирање овде"
+   },
+   "Text_Message": {
+      "message": "Текст поруке"
+   },
+   "Text_style": {
+      "message": "Опције стила текста: *БОЛД* _курзив_ ~прецртано~"
+   },
+   "The_contacts": {
+      "message": "Контакти са којима комуницирате на WhatsApp-у"
+   },
+   "The_file_Max": {
+      "message": "Максимална величина датотеке 20MB, до 100.000 редова"
+   },
+   "The_file_Max_20MB": {
+      "message": "Максимална величина датотеке 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Датотека је неисправна, молимо вас да је отпремите како је потребно."
+   },
+   "The_template_will": {
+      "message": "Шаблон ће заменити текстуални садржај улазног поља."
+   },
+   "The_valid": {
+      "message": "Важећи WhatsApp контакти у вашем телефону"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Савет: Да бисте спречили ограничења WhatsApp-а, смањите број примаоца и продужите интервал између слања."
+   },
+   "UPGRADE": {
+      "message": "НАПРЕДОВАЊЕ"
+   },
+   "Upgrade": {
+      "message": "Напредовање"
+   },
+   "Upgrade_Now": {
+      "message": "Напредујте сада"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Напредујте на ПРО за неограничено слање."
+   },
+   "Video": {
+      "message": "Видео"
+   },
+   "View_Results": {
+      "message": "Погледај резултате"
+   },
+   "Voice": {
+      "message": "Глас"
+   },
+   "Wait": {
+      "message": "Сачекај"
+   },
+   "We_hope": {
+      "message": "Надамо се да вам је наш алат користан! Ако вам се свиђа, размислите о томе да нам дате 5-звездичну оцену."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web није пронађен"
+   },
+   "Your_message": {
+      "message": "Ваша порука ће бити послата свима"
+   },
+   "Your_positive": {
+      "message": "Ваше позитивне повратне информације нам много значе и помажу нам да се побољшамо."
+   },
+   "any_inquiries": {
+      "message": "за сва питања."
+   },
+   "disturbsText": {
+      "message": "Ако вас омета, молимо вас да одговорите са 'Не' и нећу вам слати више порука."
+   },
+   "finishLoginText": {
+      "message": "Да ли сте завршили пријављивање?"
+   },
+   "finishPaymentText": {
+      "message": "Да ли сте завршили плаћање?"
+   },
+   "format": {
+      "message": "формат"
+   },
+   "loginText": {
+      "message": "Пријављивање"
+   },
+   "messages": {
+      "message": "порука"
+   },
+   "participants": {
+      "message": "учесника"
+   },
+   "proplanText": {
+      "message": "ПРО ПЛАН"
+   },
+   "qtDes": {
+      "message": "Масовно шаљите WhatsApp поруке преко Excel бројева, без чувања бројева. Персонализујте поруке и шаљите прилоге."
+   },
+   "qtName": {
+      "message": "WhatsApp Масовни Шаљач Порука | WPPME.COM"
+   },
+   "rows": {
+      "message": "редова"
+   },
+   "saveEmptyText": {
+      "message": "Шаблон не може бити празан."
+   },
+   "saveExistText": {
+      "message": "Овај садржај поруке већ постоји."
+   },
+   "saveMoreText": {
+      "message": "Не можете сачувати више од 500 шаблона порука."
+   },
+   "saveSuccessText": {
+      "message": "Шаблон је успешно сачуван"
+   },
+   "seconds_after_every": {
+      "message": "секунди после сваких"
+   },
+   "sent_at": {
+      "message": "послато у"
+   },
+   "will_receive": {
+      "message": "ће добити вашу поруку."
+   }
+}

@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "افزودن"
+   },
+   "Add_Apology": {
+      "message": "اضافه کردن عذرخواهی بابت مزاحمت"
+   },
+   "Add_Timestamp": {
+      "message": "اضافه کردن زمان"
+   },
+   "Add_number": {
+      "message": "افزودن شماره"
+   },
+   "All_contacts": {
+      "message": "تمام مخاطبین در کشور انتخاب شده"
+   },
+   "Audio": {
+      "message": "صوتی"
+   },
+   "Cancel": {
+      "message": "لغو"
+   },
+   "Chats": {
+      "message": "چت‌ها"
+   },
+   "Click_to_Upload": {
+      "message": "برای آپلود کلیک کنید / اینجا بکشید و رها کنید"
+   },
+   "Close": {
+      "message": "بستن"
+   },
+   "Completed": {
+      "message": "کامل شده"
+   },
+   "Confirm": {
+      "message": "تایید"
+   },
+   "Contacts": {
+      "message": "تماس با ما"
+   },
+   "Continue": {
+      "message": "ادامه"
+   },
+   "Countries": {
+      "message": "کشورها"
+   },
+   "Details": {
+      "message": "جزئیات"
+   },
+   "Do_you_need": {
+      "message": "آیا به روشی موثر برای ارسال پیام‌های انبوه در واتساپ نیاز دارید؟ ابزار ارسال پیام انبوه واتساپ ما دقیقا همان چیزی است که شما نیاز دارید. آن را امتحان کنید و ببینید که ارسال پیام انبوه چقدر ساده است!"
+   },
+   "Document": {
+      "message": "سند"
+   },
+   "Download_the_template": {
+      "message": "دانلود الگو"
+   },
+   "Failure": {
+      "message": "ناموفق"
+   },
+   "Feel_free": {
+      "message": "در صورت تمایل می‌توانید هر متن یا لینکی را اضافه کنید."
+   },
+   "File_Upload": {
+      "message": "بارگذاری فایل"
+   },
+   "Free_plans": {
+      "message": "طرح‌های رایگان امکان ارسال 10 پیام در هر دسته را می‌دهند."
+   },
+   "Groups": {
+      "message": "گروه‌ها"
+   },
+   "Hello": {
+      "message": "سلام"
+   },
+   "Image": {
+      "message": "تصویر"
+   },
+   "Including_Administrators": {
+      "message": "شامل مدیران"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "ورود شماره‌های واتساپ"
+   },
+   "Interested": {
+      "message": "علاقه‌مندید؟ برای کسب اطلاعات بیشتر پاسخ «بله» بدهید."
+   },
+   "Labels": {
+      "message": "برچسب‌ها"
+   },
+   "Leave_Review": {
+      "message": "نوشتن نظر"
+   },
+   "Log_in": {
+      "message": "ورود"
+   },
+   "MessageEmptyText": {
+      "message": "محتوای پیام نمی‌تواند خالی باشد."
+   },
+   "Messages": {
+      "message": "پیام‌ها"
+   },
+   "NO_DATA": {
+      "message": "اطلاعاتی وجود ندارد"
+   },
+   "Not_interested": {
+      "message": "علاقه‌ای ندارید؟ پاسخ «نه» بدهید و من دیگر پیامی برای شما ارسال نخواهم کرد."
+   },
+   "Not_now": {
+      "message": "الان نه"
+   },
+   "Numbers": {
+      "message": "شماره‌ها"
+   },
+   "Pause": {
+      "message": "مکث"
+   },
+   "Please_include": {
+      "message": "لطفاً برای دریافت کمک سریع‌تر، ایمیل ورود خود را وارد کنید."
+   },
+   "Please_open": {
+      "message": "لطفاً واتساپ وب را باز یا به‌روزرسانی کنید. قبل از تلاش مجدد، مطمئن شوید که فقط یک صفحه واتساپ وب باز است، حتی اگر غیرفعال باشد."
+   },
+   "Random_sending": {
+      "message": "فاصله زمانی ارسال تصادفی (ثانیه):"
+   },
+   "Reach_out": {
+      "message": "با ما در"
+   },
+   "Review": {
+      "message": "نظر"
+   },
+   "Save_as_template": {
+      "message": "ذخیره به عنوان الگو"
+   },
+   "Select_All": {
+      "message": "انتخاب همه"
+   },
+   "Select_a_template": {
+      "message": "انتخاب الگو"
+   },
+   "Send": {
+      "message": "ارسال"
+   },
+   "Send_to": {
+      "message": "ارسال به"
+   },
+   "Send_to_the": {
+      "message": "ارسال به 10 نفر برتر"
+   },
+   "Sending": {
+      "message": "در حال ارسال"
+   },
+   "Sticker": {
+      "message": "استیکر"
+   },
+   "Success": {
+      "message": "موفق"
+   },
+   "Support_batch": {
+      "message": "از کپی کردن انبوه در اینجا پشتیبانی می‌شود"
+   },
+   "Text_Message": {
+      "message": "پیام متنی"
+   },
+   "Text_style": {
+      "message": "گزینه‌های سبک متن: *پررنگ* _ایتالیک_ ~خط‌خورده~"
+   },
+   "The_contacts": {
+      "message": "مخاطبینی که در واتساپ با آنها چت می‌کنید"
+   },
+   "The_file_Max": {
+      "message": "حداکثر حجم فایل 20 مگابایت، تا 100000 سطر"
+   },
+   "The_file_Max_20MB": {
+      "message": "حداکثر حجم فایل 20 مگابایت."
+   },
+   "The_file_is_incorrect": {
+      "message": "فایل نادرست است، لطفاً فایل مورد نیاز را آپلود کنید."
+   },
+   "The_template_will": {
+      "message": "الگو محتوای متنی کادر ورودی را جایگزین خواهد کرد."
+   },
+   "The_valid": {
+      "message": "مخاطبین معتبر واتساپ در تلفن شما"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "نکته: برای جلوگیری از محدودیت‌های واتساپ، تعداد گیرندگان را کاهش داده و فاصله زمانی بین ارسال‌ها را افزایش دهید."
+   },
+   "UPGRADE": {
+      "message": "ارتقا"
+   },
+   "Upgrade": {
+      "message": "ارتقا"
+   },
+   "Upgrade_Now": {
+      "message": "هم اکنون ارتقا دهید"
+   },
+   "Upgrade_to_PRO": {
+      "message": "برای حذف محدودیت‌ها به نسخه PRO ارتقا دهید."
+   },
+   "Video": {
+      "message": "ویدئو"
+   },
+   "View_Results": {
+      "message": "مشاهده نتایج"
+   },
+   "Voice": {
+      "message": "صدا"
+   },
+   "Wait": {
+      "message": "صبر کنید"
+   },
+   "We_hope": {
+      "message": "امیدواریم از ابزار ما راضی باشید! اگر از آن خوشتان آمد، لطفاً به ما امتیاز 5 ستاره بدهید."
+   },
+   "WhatsApp_Web": {
+      "message": "واتساپ وب یافت نشد"
+   },
+   "Your_message": {
+      "message": "پیام شما به همه"
+   },
+   "Your_positive": {
+      "message": "بازخورد مثبت شما برای ما بسیار مهم است و به ما در بهبود کمک می‌کند."
+   },
+   "any_inquiries": {
+      "message": "برای هرگونه سؤال."
+   },
+   "disturbsText": {
+      "message": "اگر مزاحم شما هستم، لطفا پاسخ «نه» بدهید و من دیگر پیامی برای شما ارسال نخواهم کرد."
+   },
+   "finishLoginText": {
+      "message": "آیا ورود خود را کامل کردید؟"
+   },
+   "finishPaymentText": {
+      "message": "آیا پرداخت خود را کامل کردید؟"
+   },
+   "format": {
+      "message": "فرمت"
+   },
+   "loginText": {
+      "message": "ورود"
+   },
+   "messages": {
+      "message": "پیام"
+   },
+   "participants": {
+      "message": "شرکت کننده"
+   },
+   "proplanText": {
+      "message": "طرح حرفه‌ای"
+   },
+   "qtDes": {
+      "message": "ارسال انبوه پیام‌های واتساپ از طریق شماره‌های اکسل، بدون ذخیره شماره‌ها. شخصی‌سازی پیام‌ها و ارسال پیوست‌ها."
+   },
+   "qtName": {
+      "message": "ارسال انبوه پیام واتساپ | WPPME.COM"
+   },
+   "rows": {
+      "message": "سطر"
+   },
+   "saveEmptyText": {
+      "message": "الگو نمی‌تواند خالی باشد."
+   },
+   "saveExistText": {
+      "message": "این محتوای پیام از قبل وجود دارد."
+   },
+   "saveMoreText": {
+      "message": "نمی‌توان بیش از 500 الگوی پیام ذخیره کرد."
+   },
+   "saveSuccessText": {
+      "message": "الگو با موفقیت ذخیره شد"
+   },
+   "seconds_after_every": {
+      "message": "ثانیه بعد از هر"
+   },
+   "sent_at": {
+      "message": "ارسال شده در"
+   },
+   "will_receive": {
+      "message": "پیام شما را دریافت خواهند کرد."
+   }
+}

@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Tambah"
+   },
+   "Add_Apology": {
+      "message": "Tambahkan Permintaan Maaf Atas Gangguan"
+   },
+   "Add_Timestamp": {
+      "message": "Tambahkan Cap Waktu"
+   },
+   "Add_number": {
+      "message": "Tambahkan Nomor"
+   },
+   "All_contacts": {
+      "message": "Semua kontak di negara terpilih"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Batal"
+   },
+   "Chats": {
+      "message": "Chat"
+   },
+   "Click_to_Upload": {
+      "message": "Klik untuk Unggah / Seret & Lepas di Sini"
+   },
+   "Close": {
+      "message": "Tutup"
+   },
+   "Completed": {
+      "message": "Selesai"
+   },
+   "Confirm": {
+      "message": "Konfirmasi"
+   },
+   "Contacts": {
+      "message": "Kontak"
+   },
+   "Continue": {
+      "message": "Lanjutkan"
+   },
+   "Countries": {
+      "message": "Negara"
+   },
+   "Details": {
+      "message": "Detail"
+   },
+   "Do_you_need": {
+      "message": "Apakah Anda membutuhkan metode efektif untuk mengirim pesan massal di WhatsApp? Pengirim WA kami adalah solusi yang Anda butuhkan. Cobalah dan lihat betapa mudahnya mengirim pesan massal!"
+   },
+   "Document": {
+      "message": "Dokumen"
+   },
+   "Download_the_template": {
+      "message": "Unduh template"
+   },
+   "Failure": {
+      "message": "Gagal"
+   },
+   "Feel_free": {
+      "message": "Silakan tambahkan teks atau tautan apa pun yang Anda inginkan."
+   },
+   "File_Upload": {
+      "message": "Unggah File"
+   },
+   "Free_plans": {
+      "message": "Paket gratis memungkinkan pengiriman 10 pesan per batch."
+   },
+   "Groups": {
+      "message": "Grup"
+   },
+   "Hello": {
+      "message": "Halo"
+   },
+   "Image": {
+      "message": "Gambar"
+   },
+   "Including_Administrators": {
+      "message": "Termasuk Administrator"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Masukkan Nomor WhatsApp"
+   },
+   "Interested": {
+      "message": "Berminat? Balas 'Ya' untuk mempelajari lebih lanjut."
+   },
+   "Labels": {
+      "message": "Label"
+   },
+   "Leave_Review": {
+      "message": "Beri Ulasan"
+   },
+   "Log_in": {
+      "message": "Masuk"
+   },
+   "MessageEmptyText": {
+      "message": "Isi pesan tidak boleh kosong."
+   },
+   "Messages": {
+      "message": "Pesan"
+   },
+   "NO_DATA": {
+      "message": "TIDAK ADA DATA"
+   },
+   "Not_interested": {
+      "message": "Tidak berminat? Balas 'Tidak' dan saya tidak akan mengirim pesan lagi."
+   },
+   "Not_now": {
+      "message": "Tidak sekarang"
+   },
+   "Numbers": {
+      "message": "Nomor"
+   },
+   "Pause": {
+      "message": "Jeda"
+   },
+   "Please_include": {
+      "message": "Harap sertakan email login Anda untuk bantuan yang lebih cepat."
+   },
+   "Please_open": {
+      "message": "Harap buka atau muat ulang WhatsApp Web. Pastikan hanya satu halaman WhatsApp Web yang terbuka, meskipun tidak aktif, sebelum mencoba lagi."
+   },
+   "Random_sending": {
+      "message": "Interval pengiriman acak (detik):"
+   },
+   "Reach_out": {
+      "message": "Hubungi kami di"
+   },
+   "Review": {
+      "message": "Ulasan"
+   },
+   "Save_as_template": {
+      "message": "Simpan sebagai template"
+   },
+   "Select_All": {
+      "message": "Pilih Semua"
+   },
+   "Select_a_template": {
+      "message": "Pilih template"
+   },
+   "Send": {
+      "message": "Kirim"
+   },
+   "Send_to": {
+      "message": "Kirim ke"
+   },
+   "Send_to_the": {
+      "message": "Kirim ke 10 Orang Teratas"
+   },
+   "Sending": {
+      "message": "Mengirim"
+   },
+   "Sticker": {
+      "message": "Stiker"
+   },
+   "Success": {
+      "message": "Sukses"
+   },
+   "Support_batch": {
+      "message": "Mendukung salin massal di sini"
+   },
+   "Text_Message": {
+      "message": "Pesan Teks"
+   },
+   "Text_style": {
+      "message": "Opsi gaya teks: *TEBAL* _miring_ ~coret~"
+   },
+   "The_contacts": {
+      "message": "Kontak yang Anda ajak ngobrol di WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Ukuran file maks. 20MB, hingga 100.000 baris"
+   },
+   "The_file_Max_20MB": {
+      "message": "Ukuran file maks. 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "File salah, harap unggah sesuai kebutuhan."
+   },
+   "The_template_will": {
+      "message": "Template akan mengganti isi teks kotak input."
+   },
+   "The_valid": {
+      "message": "Kontak WhatsApp yang valid di ponsel Anda"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Tip: Untuk mencegah pembatasan WhatsApp, kurangi jumlah penerima dan perpanjang interval antar pengiriman."
+   },
+   "UPGRADE": {
+      "message": "UPGRADE"
+   },
+   "Upgrade": {
+      "message": "Upgrade"
+   },
+   "Upgrade_Now": {
+      "message": "Upgrade Sekarang"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Upgrade ke PRO untuk tanpa batas."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Lihat Hasil"
+   },
+   "Voice": {
+      "message": "Suara"
+   },
+   "Wait": {
+      "message": "Tunggu"
+   },
+   "We_hope": {
+      "message": "Kami harap Anda merasa alat kami bermanfaat! Jika Anda menyukainya, pertimbangkan untuk memberi kami peringkat 5 bintang."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web Tidak Ditemukan"
+   },
+   "Your_message": {
+      "message": "Pesan Anda akan dikirim ke semua"
+   },
+   "Your_positive": {
+      "message": "Umpan balik positif Anda sangat berarti bagi kami dan membantu kami meningkatkan."
+   },
+   "any_inquiries": {
+      "message": "untuk pertanyaan apa pun."
+   },
+   "disturbsText": {
+      "message": "Jika mengganggu Anda, balas 'Tidak' dan saya tidak akan mengirimkan pesan lagi."
+   },
+   "finishLoginText": {
+      "message": "Apakah Anda sudah selesai masuk?"
+   },
+   "finishPaymentText": {
+      "message": "Apakah Anda sudah menyelesaikan pembayaran?"
+   },
+   "format": {
+      "message": "format"
+   },
+   "loginText": {
+      "message": "Masuk"
+   },
+   "messages": {
+      "message": "pesan"
+   },
+   "participants": {
+      "message": "peserta"
+   },
+   "proplanText": {
+      "message": "PAKET PRO"
+   },
+   "qtDes": {
+      "message": "Kirim pesan WhatsApp massal melalui nomor Excel, tanpa menyimpan nomor. Personalisasi pesan dan kirim lampiran."
+   },
+   "qtName": {
+      "message": "Pengirim Pesan Massal WhatsApp | WPPME.COM"
+   },
+   "rows": {
+      "message": "baris"
+   },
+   "saveEmptyText": {
+      "message": "Template tidak boleh kosong."
+   },
+   "saveExistText": {
+      "message": "Isi pesan ini sudah ada."
+   },
+   "saveMoreText": {
+      "message": "Tidak dapat menyimpan lebih dari 500 template pesan."
+   },
+   "saveSuccessText": {
+      "message": "Template berhasil disimpan"
+   },
+   "seconds_after_every": {
+      "message": "detik setelah setiap"
+   },
+   "sent_at": {
+      "message": "dikirim pada"
+   },
+   "will_receive": {
+      "message": "akan menerima pesan Anda."
+   }
+}

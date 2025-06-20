@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_icon": "imgs/icon48.png",
+      "default_popup": "start.html"
+   },
+   "background": {
+      "service_worker": "ts/a/bs.a970b18e.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "ts/c/cs_c498b47d.css" ],
+      "js": [ "ts/b/ssc.a970b18e.js" ],
+      "matches": [ "*://web.whatsapp.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_qtDes__",
+   "homepage_url": "https://wppme.com/whatsapp-bulk-message-sender",
+   "icons": {
+      "128": "imgs/icon128.png",
+      "16": "imgs/icon16.png",
+      "32": "imgs/icon32.png",
+      "48": "imgs/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0XEw68b0V0x8TAI9RvfOySctX+HZJ3NMdYFB4FTZ84PssWm7YbWnm66sfHyE/IIa4awus3P+w+bx53vbJpYeh2NhspL99yBIjipOb261XN2OfPoYz8NGAdMcrVhuiYN0ROwJw+cRSD7wfn/nZR3rWRYmmxt3xDSLIkfYjEkRw9CqsqBTS0r/TxvgXIRPB076N78qu3jSUyMkwL/BQ4qh4M7ySUQxjBUEZvjGG/J89nUvGu4xvCQfY8rQSrxjNDwt/HoTdCGNeFsIo5Ljc9JeNJjLzA8KcV5U3rgJt4bf5bqbJaMFPUG1D1B4Ukuvr6FQ7NRy6Tht8jvwr4FF4a20kQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_qtName__",
+   "permissions": [ "storage", "unlimitedStorage", "tabs", "downloads" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.3.5",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "imgs/*", "photos/*", "ts/*" ]
+   } ]
+}

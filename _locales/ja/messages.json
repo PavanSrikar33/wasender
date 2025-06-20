@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "追加"
+   },
+   "Add_Apology": {
+      "message": "迷惑をおかけして申し訳ございません"
+   },
+   "Add_Timestamp": {
+      "message": "タイムスタンプを追加"
+   },
+   "Add_number": {
+      "message": "番号を追加"
+   },
+   "All_contacts": {
+      "message": "選択した国にあるすべての連絡先"
+   },
+   "Audio": {
+      "message": "音声"
+   },
+   "Cancel": {
+      "message": "キャンセル"
+   },
+   "Chats": {
+      "message": "チャット"
+   },
+   "Click_to_Upload": {
+      "message": "クリックしてアップロード / ドラッグ＆ドロップ"
+   },
+   "Close": {
+      "message": "閉じる"
+   },
+   "Completed": {
+      "message": "完了"
+   },
+   "Confirm": {
+      "message": "確認"
+   },
+   "Contacts": {
+      "message": "お問い合わせ"
+   },
+   "Continue": {
+      "message": "続行"
+   },
+   "Countries": {
+      "message": "国"
+   },
+   "Details": {
+      "message": "詳細"
+   },
+   "Do_you_need": {
+      "message": "WhatsAppで大量のメッセージを送信する効果的な方法が必要ですか？当社のWA Senderはまさにあなたが必要とするものです。試してみて、大量メッセージングがいかに簡単かを確認してください！"
+   },
+   "Document": {
+      "message": "ドキュメント"
+   },
+   "Download_the_template": {
+      "message": "テンプレートをダウンロード"
+   },
+   "Failure": {
+      "message": "失敗"
+   },
+   "Feel_free": {
+      "message": "ご自由にテキストやリンクを追加してください。"
+   },
+   "File_Upload": {
+      "message": "ファイルアップロード"
+   },
+   "Free_plans": {
+      "message": "無料プランでは、バッチごとに10件のメッセージを送信できます。"
+   },
+   "Groups": {
+      "message": "グループ"
+   },
+   "Hello": {
+      "message": "こんにちは"
+   },
+   "Image": {
+      "message": "画像"
+   },
+   "Including_Administrators": {
+      "message": "管理者を含む"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp番号を入力"
+   },
+   "Interested": {
+      "message": "興味がありますか？詳細を知るには「はい」と返信してください。"
+   },
+   "Labels": {
+      "message": "ラベル"
+   },
+   "Leave_Review": {
+      "message": "レビューを書く"
+   },
+   "Log_in": {
+      "message": "ログイン"
+   },
+   "MessageEmptyText": {
+      "message": "メッセージの内容は空にできません。"
+   },
+   "Messages": {
+      "message": "メッセージ"
+   },
+   "NO_DATA": {
+      "message": "データがありません"
+   },
+   "Not_interested": {
+      "message": "興味がありませんか？「いいえ」と返信してください。それ以上メッセージを送信しません。"
+   },
+   "Not_now": {
+      "message": "今はいいです"
+   },
+   "Numbers": {
+      "message": "番号"
+   },
+   "Pause": {
+      "message": "一時停止"
+   },
+   "Please_include": {
+      "message": "より迅速な対応のため、ログインメールアドレスを含めてください。"
+   },
+   "Please_open": {
+      "message": "WhatsApp Webを開いたり、更新してください。再試行する前に、非アクティブであっても、WhatsApp Webページが1つだけ開いていることを確認してください。"
+   },
+   "Random_sending": {
+      "message": "ランダム送信間隔（秒）："
+   },
+   "Reach_out": {
+      "message": "お問い合わせは"
+   },
+   "Review": {
+      "message": "レビュー"
+   },
+   "Save_as_template": {
+      "message": "テンプレートとして保存"
+   },
+   "Select_All": {
+      "message": "すべて選択"
+   },
+   "Select_a_template": {
+      "message": "テンプレートを選択"
+   },
+   "Send": {
+      "message": "送信"
+   },
+   "Send_to": {
+      "message": "送信先"
+   },
+   "Send_to_the": {
+      "message": "上位10名に送信"
+   },
+   "Sending": {
+      "message": "送信中"
+   },
+   "Sticker": {
+      "message": "ステッカー"
+   },
+   "Success": {
+      "message": "成功"
+   },
+   "Support_batch": {
+      "message": "複数行のコピーに対応"
+   },
+   "Text_Message": {
+      "message": "テキストメッセージ"
+   },
+   "Text_style": {
+      "message": "テキストスタイルオプション：*太字* _斜体_ ~取り消し線~"
+   },
+   "The_contacts": {
+      "message": "WhatsAppでチャットした連絡先"
+   },
+   "The_file_Max": {
+      "message": "ファイル最大20MB、最大100,000行"
+   },
+   "The_file_Max_20MB": {
+      "message": "ファイル最大20MB。"
+   },
+   "The_file_is_incorrect": {
+      "message": "ファイルが不正です。必要に応じてアップロードしてください。"
+   },
+   "The_template_will": {
+      "message": "テンプレートは入力ボックスのテキストコンテンツを置き換えます。"
+   },
+   "The_valid": {
+      "message": "お使いの電話にある有効なWhatsApp連絡先"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "ヒント：WhatsAppの制限を回避するには、受信者数を減らし、送信間の間隔を長くしてください。"
+   },
+   "UPGRADE": {
+      "message": "アップグレード"
+   },
+   "Upgrade": {
+      "message": "アップグレード"
+   },
+   "Upgrade_Now": {
+      "message": "今すぐアップグレード"
+   },
+   "Upgrade_to_PRO": {
+      "message": "制限なしでPROにアップグレード"
+   },
+   "Video": {
+      "message": "ビデオ"
+   },
+   "View_Results": {
+      "message": "結果を見る"
+   },
+   "Voice": {
+      "message": "ボイス"
+   },
+   "Wait": {
+      "message": "待機"
+   },
+   "We_hope": {
+      "message": "このツールがお役に立てていることを願っています！気に入っていただけたら、5つ星の評価をお願いします。"
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Webが見つかりません"
+   },
+   "Your_message": {
+      "message": "メッセージは合計"
+   },
+   "Your_positive": {
+      "message": "皆様の肯定的なフィードバックは、私たちにとって非常に重要であり、改善に役立ちます。"
+   },
+   "any_inquiries": {
+      "message": "に関するお問い合わせ。"
+   },
+   "disturbsText": {
+      "message": "迷惑であれば、「いいえ」と返信してください。それ以上メッセージを送信しません。"
+   },
+   "finishLoginText": {
+      "message": "ログインは完了しましたか？"
+   },
+   "finishPaymentText": {
+      "message": "お支払いは完了しましたか？"
+   },
+   "format": {
+      "message": "形式"
+   },
+   "loginText": {
+      "message": "ログイン"
+   },
+   "messages": {
+      "message": "メッセージ"
+   },
+   "participants": {
+      "message": "参加者"
+   },
+   "proplanText": {
+      "message": "PROプラン"
+   },
+   "qtDes": {
+      "message": "番号を保存せずにExcelの番号を使用してWhatsAppメッセージを一括送信します。メッセージをパーソナライズして添付ファイルを送信します。"
+   },
+   "qtName": {
+      "message": "WhatsApp一括メッセージ送信 | WPPME.COM"
+   },
+   "rows": {
+      "message": "行"
+   },
+   "saveEmptyText": {
+      "message": "テンプレートは空にできません。"
+   },
+   "saveExistText": {
+      "message": "このメッセージ内容は既に存在します。"
+   },
+   "saveMoreText": {
+      "message": "500件以上のメッセージテンプレートを保存できません。"
+   },
+   "saveSuccessText": {
+      "message": "テンプレートが正常に保存されました"
+   },
+   "seconds_after_every": {
+      "message": "毎"
+   },
+   "sent_at": {
+      "message": "送信日時："
+   },
+   "will_receive": {
+      "message": "にメッセージが送信されます。"
+   }
+}

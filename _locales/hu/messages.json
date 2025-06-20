@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Hozzáadás"
+   },
+   "Add_Apology": {
+      "message": "Bocsánatkérés hozzáadása a zavarásért"
+   },
+   "Add_Timestamp": {
+      "message": "Időbélyeg hozzáadása"
+   },
+   "Add_number": {
+      "message": "Szám hozzáadása"
+   },
+   "All_contacts": {
+      "message": "Minden kontakt a kiválasztott országban"
+   },
+   "Audio": {
+      "message": "Hang"
+   },
+   "Cancel": {
+      "message": "Mégse"
+   },
+   "Chats": {
+      "message": "Csevegések"
+   },
+   "Click_to_Upload": {
+      "message": "Kattintson a feltöltéshez / Húzza ide és dobja le"
+   },
+   "Close": {
+      "message": "Bezárás"
+   },
+   "Completed": {
+      "message": "Befejezve"
+   },
+   "Confirm": {
+      "message": "Megerősítés"
+   },
+   "Contacts": {
+      "message": "Kapcsolat"
+   },
+   "Continue": {
+      "message": "Folytatás"
+   },
+   "Countries": {
+      "message": "Országok"
+   },
+   "Details": {
+      "message": "Részletek"
+   },
+   "Do_you_need": {
+      "message": "Hatékony módszerre van szüksége tömeges üzenetek küldéséhez WhatsAppon? A WA küldőnk pont erre való. Próbálja ki, és lássa, milyen egyszerű a tömeges üzenetküldés!"
+   },
+   "Document": {
+      "message": "Dokumentum"
+   },
+   "Download_the_template": {
+      "message": "Sablon letöltése"
+   },
+   "Failure": {
+      "message": "Sikertelen"
+   },
+   "Feel_free": {
+      "message": "Nyugodtan adjon hozzá bármilyen szöveget vagy linket."
+   },
+   "File_Upload": {
+      "message": "Fájl feltöltése"
+   },
+   "Free_plans": {
+      "message": "Az ingyenes tervek 10 üzenet küldését teszik lehetővé tételenként."
+   },
+   "Groups": {
+      "message": "Csoportok"
+   },
+   "Hello": {
+      "message": "Szia"
+   },
+   "Image": {
+      "message": "Kép"
+   },
+   "Including_Administrators": {
+      "message": "Adminisztrátorok beleértve"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp számok bevitele"
+   },
+   "Interested": {
+      "message": "Érdekel? Válaszoljon \"Igen\"-nel, ha többet szeretne megtudni."
+   },
+   "Labels": {
+      "message": "Címkék"
+   },
+   "Leave_Review": {
+      "message": "Vélemény írása"
+   },
+   "Log_in": {
+      "message": "Bejelentkezés"
+   },
+   "MessageEmptyText": {
+      "message": "Az üzenet tartalma nem lehet üres."
+   },
+   "Messages": {
+      "message": "Üzenetek"
+   },
+   "NO_DATA": {
+      "message": "NINCS ADAT"
+   },
+   "Not_interested": {
+      "message": "Nem érdekel? Válaszoljon \"Nem\"-mel, és nem küldök több üzenetet."
+   },
+   "Not_now": {
+      "message": "Most nem"
+   },
+   "Numbers": {
+      "message": "Számok"
+   },
+   "Pause": {
+      "message": "Szünet"
+   },
+   "Please_include": {
+      "message": "Kérjük, adja meg a bejelentkezési e-mail címét a gyorsabb segítségnyújtás érdekében."
+   },
+   "Please_open": {
+      "message": "Kérjük, nyissa meg vagy frissítse a WhatsApp Webre. Győződjön meg róla, hogy csak egy WhatsApp Web oldal van nyitva, még akkor is, ha inaktív, mielőtt újrapróbálná."
+   },
+   "Random_sending": {
+      "message": "Véletlenszerű küldési intervallum (másodperc):"
+   },
+   "Reach_out": {
+      "message": "Forduljon hozzánk a következő címen:"
+   },
+   "Review": {
+      "message": "Vélemény"
+   },
+   "Save_as_template": {
+      "message": "Mentés sablonként"
+   },
+   "Select_All": {
+      "message": "Összes kijelölése"
+   },
+   "Select_a_template": {
+      "message": "Sablon kiválasztása"
+   },
+   "Send": {
+      "message": "Küldés"
+   },
+   "Send_to": {
+      "message": "Küldés:"
+   },
+   "Send_to_the": {
+      "message": "Küldés a legjobb 10 embernek"
+   },
+   "Sending": {
+      "message": "Küldés"
+   },
+   "Sticker": {
+      "message": "Matrica"
+   },
+   "Success": {
+      "message": "Sikeres"
+   },
+   "Support_batch": {
+      "message": "Tömeges másolás támogatott itt"
+   },
+   "Text_Message": {
+      "message": "Szöveges üzenet"
+   },
+   "Text_style": {
+      "message": "Szövegstílus opciók: *FÉKÖZÉP* _dőlt_ ~át húzott~"
+   },
+   "The_contacts": {
+      "message": "Azok a kontaktok, akikkel WhatsAppon csevegett"
+   },
+   "The_file_Max": {
+      "message": "A fájl maximális mérete 20 MB, legfeljebb 100 000 sor"
+   },
+   "The_file_Max_20MB": {
+      "message": "A fájl maximális mérete 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "A fájl helytelen, kérjük, töltse fel a kívánt módon."
+   },
+   "The_template_will": {
+      "message": "A sablon felülírja a beviteli mező szöveges tartalmát."
+   },
+   "The_valid": {
+      "message": "Az érvényes WhatsApp kontaktok a telefonján"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Tipp: A WhatsApp korlátozásainak elkerülése érdekében csökkentse a címzettek számát, és növelje a küldések közötti intervallumot."
+   },
+   "UPGRADE": {
+      "message": "FRISSÍTÉS"
+   },
+   "Upgrade": {
+      "message": "Frissítés"
+   },
+   "Upgrade_Now": {
+      "message": "Most frissít"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Frissítsen PRO-ra a korlátlan használatért."
+   },
+   "Video": {
+      "message": "Videó"
+   },
+   "View_Results": {
+      "message": "Eredmények megtekintése"
+   },
+   "Voice": {
+      "message": "Hangfelvétel"
+   },
+   "Wait": {
+      "message": "Várjon"
+   },
+   "We_hope": {
+      "message": "Reméljük, hogy hasznosnak találja az eszközünket! Ha tetszik, kérjük, fontolja meg, hogy adjon nekünk egy 5 csillagos értékelést."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web nem található"
+   },
+   "Your_message": {
+      "message": "Az üzenete el lesz küldve az összes"
+   },
+   "Your_positive": {
+      "message": "A pozitív visszajelzése sokat jelent számunkra, és segít nekünk a fejlesztésben."
+   },
+   "any_inquiries": {
+      "message": "bármilyen kérdés esetén."
+   },
+   "disturbsText": {
+      "message": "Ha zavarja, kérjük, válaszoljon \"Nem\"-mel, és nem küldök több üzenetet."
+   },
+   "finishLoginText": {
+      "message": "Befejezte a bejelentkezést?"
+   },
+   "finishPaymentText": {
+      "message": "Befejezte a fizetést?"
+   },
+   "format": {
+      "message": "formátum"
+   },
+   "loginText": {
+      "message": "Bejelentkezés"
+   },
+   "messages": {
+      "message": "üzenet"
+   },
+   "participants": {
+      "message": "résztvevő"
+   },
+   "proplanText": {
+      "message": "PRO CSOMAG"
+   },
+   "qtDes": {
+      "message": "Küldjön tömeges WhatsApp üzeneteket Excel számokon keresztül, anélkül, hogy el kellene mentenie a számokat. Személyre szabhatja az üzeneteket és csatolhat fájlokat."
+   },
+   "qtName": {
+      "message": "WhatsApp Tömeges Üzenetküldő | WPPME.COM"
+   },
+   "rows": {
+      "message": "sor"
+   },
+   "saveEmptyText": {
+      "message": "A sablon nem lehet üres."
+   },
+   "saveExistText": {
+      "message": "Ez az üzenet tartalom már létezik."
+   },
+   "saveMoreText": {
+      "message": "Nem lehet több mint 500 üzenet sablont menteni."
+   },
+   "saveSuccessText": {
+      "message": "Sablon sikeresen mentve"
+   },
+   "seconds_after_every": {
+      "message": "másodperc minden"
+   },
+   "sent_at": {
+      "message": "küldve:"
+   },
+   "will_receive": {
+      "message": "megkapja az üzenetet."
+   }
+}

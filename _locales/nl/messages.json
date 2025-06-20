@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Toevoegen"
+   },
+   "Add_Apology": {
+      "message": "Excuses voor de verstoring toevoegen"
+   },
+   "Add_Timestamp": {
+      "message": "Tijdstempel toevoegen"
+   },
+   "Add_number": {
+      "message": "Nummer toevoegen"
+   },
+   "All_contacts": {
+      "message": "Alle contacten in het geselecteerde land"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Annuleren"
+   },
+   "Chats": {
+      "message": "Chats"
+   },
+   "Click_to_Upload": {
+      "message": "Klik om te uploaden / Sleep hierheen"
+   },
+   "Close": {
+      "message": "Sluiten"
+   },
+   "Completed": {
+      "message": "Voltooid"
+   },
+   "Confirm": {
+      "message": "Bevestigen"
+   },
+   "Contacts": {
+      "message": "Contact"
+   },
+   "Continue": {
+      "message": "Doorgaan"
+   },
+   "Countries": {
+      "message": "Landen"
+   },
+   "Details": {
+      "message": "Details"
+   },
+   "Do_you_need": {
+      "message": "Zoekt u een effectieve methode om bulkberichten te versturen via WhatsApp? Onze WA Sender is precies wat u nodig heeft. Probeer het uit en zie hoe eenvoudig massaberichten versturen kan zijn!"
+   },
+   "Document": {
+      "message": "Document"
+   },
+   "Download_the_template": {
+      "message": "Download het sjabloon"
+   },
+   "Failure": {
+      "message": "Mislukt"
+   },
+   "Feel_free": {
+      "message": "Voeg gerust tekst of links toe."
+   },
+   "File_Upload": {
+      "message": "Bestand uploaden"
+   },
+   "Free_plans": {
+      "message": "Gratis abonnementen staan het versturen van 10 berichten per batch toe."
+   },
+   "Groups": {
+      "message": "Groepen"
+   },
+   "Hello": {
+      "message": "Hallo"
+   },
+   "Image": {
+      "message": "Afbeelding"
+   },
+   "Including_Administrators": {
+      "message": "Inclusief beheerders"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp-nummers invoeren"
+   },
+   "Interested": {
+      "message": "Geïnteresseerd? Antwoord met 'Ja' voor meer informatie."
+   },
+   "Labels": {
+      "message": "Labels"
+   },
+   "Leave_Review": {
+      "message": "Schrijf een review"
+   },
+   "Log_in": {
+      "message": "Aanmelden"
+   },
+   "MessageEmptyText": {
+      "message": "De berichtinhoud mag niet leeg zijn."
+   },
+   "Messages": {
+      "message": "Berichten"
+   },
+   "NO_DATA": {
+      "message": "GEEN GEGEVENS"
+   },
+   "Not_interested": {
+      "message": "Niet geïnteresseerd? Antwoord met 'Nee' en ik zal geen verdere berichten sturen."
+   },
+   "Not_now": {
+      "message": "Niet nu"
+   },
+   "Numbers": {
+      "message": "Nummers"
+   },
+   "Pause": {
+      "message": "Pauzeren"
+   },
+   "Please_include": {
+      "message": "Voeg uw inlog-e-mailadres toe voor snellere hulp."
+   },
+   "Please_open": {
+      "message": "Open of ververs WhatsApp Web. Zorg ervoor dat slechts één WhatsApp Web-pagina open is, zelfs als deze inactief is, voordat u het opnieuw probeert."
+   },
+   "Random_sending": {
+      "message": "Willekeurig verzendinterval (seconden):"
+   },
+   "Reach_out": {
+      "message": "Neem contact met ons op via"
+   },
+   "Review": {
+      "message": "Review"
+   },
+   "Save_as_template": {
+      "message": "Opslaan als sjabloon"
+   },
+   "Select_All": {
+      "message": "Alles selecteren"
+   },
+   "Select_a_template": {
+      "message": "Selecteer een sjabloon"
+   },
+   "Send": {
+      "message": "Verzenden"
+   },
+   "Send_to": {
+      "message": "Verzenden naar"
+   },
+   "Send_to_the": {
+      "message": "Verzenden naar de top 10 personen"
+   },
+   "Sending": {
+      "message": "Verzenden"
+   },
+   "Sticker": {
+      "message": "Sticker"
+   },
+   "Success": {
+      "message": "Geslaagd"
+   },
+   "Support_batch": {
+      "message": "Ondersteunt batch kopiëren hier"
+   },
+   "Text_Message": {
+      "message": "Tekstbericht"
+   },
+   "Text_style": {
+      "message": "Tekst stijlopties: *VET* _cursief_ ~doorhalen~"
+   },
+   "The_contacts": {
+      "message": "De contacten waarmee u chat via WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Maximaal 20 MB, tot 100.000 rijen"
+   },
+   "The_file_Max_20MB": {
+      "message": "Maximaal 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Het bestand is incorrect, upload het zoals vereist."
+   },
+   "The_template_will": {
+      "message": "Het sjabloon zal de tekstinhoud van het invoerveld vervangen."
+   },
+   "The_valid": {
+      "message": "De geldige WhatsApp-contacten in uw telefoon"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Tip: Om WhatsApp-beperkingen te voorkomen, verlaagt u het aantal ontvangers en verlengt u het interval tussen verzendingen."
+   },
+   "UPGRADE": {
+      "message": "UPGRADE"
+   },
+   "Upgrade": {
+      "message": "Upgrade"
+   },
+   "Upgrade_Now": {
+      "message": "Nu upgraden"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Upgrade naar PRO voor onbeperkte mogelijkheden."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Resultaten bekijken"
+   },
+   "Voice": {
+      "message": "Voice"
+   },
+   "Wait": {
+      "message": "Wacht"
+   },
+   "We_hope": {
+      "message": "We hopen dat u onze tool nuttig vindt! Als u het leuk vindt, overweeg dan om ons een 5-sterren beoordeling te geven."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web niet gevonden"
+   },
+   "Your_message": {
+      "message": "Uw bericht wordt verzonden naar alle"
+   },
+   "Your_positive": {
+      "message": "Uw positieve feedback betekent veel voor ons en helpt ons om te verbeteren."
+   },
+   "any_inquiries": {
+      "message": "voor eventuele vragen."
+   },
+   "disturbsText": {
+      "message": "Als dit u stoort, reageer dan met 'Nee' en ik zal u geen berichten meer sturen."
+   },
+   "finishLoginText": {
+      "message": "Bent u klaar met inloggen?"
+   },
+   "finishPaymentText": {
+      "message": "Heeft u uw betaling voltooid?"
+   },
+   "format": {
+      "message": "formaat"
+   },
+   "loginText": {
+      "message": "Aanmelden"
+   },
+   "messages": {
+      "message": "berichten"
+   },
+   "participants": {
+      "message": "deelnemers"
+   },
+   "proplanText": {
+      "message": "PRO-ABONNEMENT"
+   },
+   "qtDes": {
+      "message": "Verzend bulkberichten via WhatsApp met behulp van Excel-nummers, zonder nummers op te slaan. Personaliseer berichten en verzend bijlagen."
+   },
+   "qtName": {
+      "message": "WhatsApp Bulk Bericht Verzender | WPPME.COM"
+   },
+   "rows": {
+      "message": "rijen"
+   },
+   "saveEmptyText": {
+      "message": "Het sjabloon mag niet leeg zijn."
+   },
+   "saveExistText": {
+      "message": "Deze berichtinhoud bestaat al."
+   },
+   "saveMoreText": {
+      "message": "Er kunnen niet meer dan 500 berichtensjablonen worden opgeslagen."
+   },
+   "saveSuccessText": {
+      "message": "Sjabloon succesvol opgeslagen"
+   },
+   "seconds_after_every": {
+      "message": "seconden na elke"
+   },
+   "sent_at": {
+      "message": "verstuurd op"
+   },
+   "will_receive": {
+      "message": "zullen uw bericht ontvangen."
+   }
+}

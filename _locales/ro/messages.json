@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Adaugă"
+   },
+   "Add_Apology": {
+      "message": "Adaugă scuze pentru deranj"
+   },
+   "Add_Timestamp": {
+      "message": "Adaugă marcaj temporal"
+   },
+   "Add_number": {
+      "message": "Adaugă număr"
+   },
+   "All_contacts": {
+      "message": "Toți contacții din țara selectată"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Anulează"
+   },
+   "Chats": {
+      "message": "Conversații"
+   },
+   "Click_to_Upload": {
+      "message": "Click pentru încărcare / Trage și depune aici"
+   },
+   "Close": {
+      "message": "Închide"
+   },
+   "Completed": {
+      "message": "Completat"
+   },
+   "Confirm": {
+      "message": "Confirmă"
+   },
+   "Contacts": {
+      "message": "Contact"
+   },
+   "Continue": {
+      "message": "Continuă"
+   },
+   "Countries": {
+      "message": "Țări"
+   },
+   "Details": {
+      "message": "Detalii"
+   },
+   "Do_you_need": {
+      "message": "Ai nevoie de o metodă eficientă pentru a trimite mesaje în masă pe WhatsApp? Aplicația noastră de trimitere WA este exact ceea ce ai nevoie. Încearcă-o și vezi cât de simplu poate fi trimiterea de mesaje în masă!"
+   },
+   "Document": {
+      "message": "Document"
+   },
+   "Download_the_template": {
+      "message": "Descarcă șablonul"
+   },
+   "Failure": {
+      "message": "Eșec"
+   },
+   "Feel_free": {
+      "message": "Simțiți-vă liberi să adăugați orice text sau linkuri doriți."
+   },
+   "File_Upload": {
+      "message": "Încărcare fișier"
+   },
+   "Free_plans": {
+      "message": "Planurile gratuite permit trimiterea a 10 mesaje pe lot."
+   },
+   "Groups": {
+      "message": "Grupuri"
+   },
+   "Hello": {
+      "message": "Salut"
+   },
+   "Image": {
+      "message": "Imagine"
+   },
+   "Including_Administrators": {
+      "message": "Inclusiv administratori"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Introduceți numere WhatsApp"
+   },
+   "Interested": {
+      "message": "Interesat? Răspundeți cu „Da” pentru a afla mai multe."
+   },
+   "Labels": {
+      "message": "Etichete"
+   },
+   "Leave_Review": {
+      "message": "Lasă o recenzie"
+   },
+   "Log_in": {
+      "message": "Autentificare"
+   },
+   "MessageEmptyText": {
+      "message": "Conținutul mesajului nu poate fi gol."
+   },
+   "Messages": {
+      "message": "Mesaje"
+   },
+   "NO_DATA": {
+      "message": "NU SUNT DATE"
+   },
+   "Not_interested": {
+      "message": "Neinteresat? Răspundeți cu „Nu” și nu vă voi mai trimite mesaje."
+   },
+   "Not_now": {
+      "message": "Nu acum"
+   },
+   "Numbers": {
+      "message": "Numere"
+   },
+   "Pause": {
+      "message": "Pauză"
+   },
+   "Please_include": {
+      "message": "Vă rugăm să includeți adresa dvs. de e-mail de conectare pentru asistență mai rapidă."
+   },
+   "Please_open": {
+      "message": "Vă rugăm să deschideți sau să reîmprospătați WhatsApp Web. Asigurați-vă că este deschisă o singură pagină WhatsApp Web, chiar dacă este inactivă, înainte de a încerca din nou."
+   },
+   "Random_sending": {
+      "message": "Interval de trimitere aleatoriu (secunde):"
+   },
+   "Reach_out": {
+      "message": "Contactați-ne la"
+   },
+   "Review": {
+      "message": "Recenzie"
+   },
+   "Save_as_template": {
+      "message": "Salvează ca șablon"
+   },
+   "Select_All": {
+      "message": "Selectează tot"
+   },
+   "Select_a_template": {
+      "message": "Selectează un șablon"
+   },
+   "Send": {
+      "message": "Trimite"
+   },
+   "Send_to": {
+      "message": "Trimite către"
+   },
+   "Send_to_the": {
+      "message": "Trimite celor mai importante 10 persoane"
+   },
+   "Sending": {
+      "message": "Se trimit"
+   },
+   "Sticker": {
+      "message": "Sticker"
+   },
+   "Success": {
+      "message": "Succes"
+   },
+   "Support_batch": {
+      "message": "Se acceptă copierea în lot aici"
+   },
+   "Text_Message": {
+      "message": "Mesaj text"
+   },
+   "Text_style": {
+      "message": "Opțiuni stil text: *ÎNGROȘAT* _italic_ ~taietură~"
+   },
+   "The_contacts": {
+      "message": "Contacții cu care discutați pe WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Fișierul maxim 20 MB, până la 100.000 de rânduri"
+   },
+   "The_file_Max_20MB": {
+      "message": "Fișierul maxim 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Fișierul este incorect, vă rugăm să încărcați conform cerințelor."
+   },
+   "The_template_will": {
+      "message": "Șablonul va înlocui conținutul text al casetei de intrare."
+   },
+   "The_valid": {
+      "message": "Contactele WhatsApp valide din telefonul dvs."
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Sfat: Pentru a preveni restricțiile WhatsApp, reduceți numărul de destinatari și extindeți intervalul dintre trimiteri."
+   },
+   "UPGRADE": {
+      "message": "ACTUALIZARE"
+   },
+   "Upgrade": {
+      "message": "Actualizare"
+   },
+   "Upgrade_Now": {
+      "message": "Actualizează acum"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Actualizați la PRO pentru a elimina limitele."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Vizualizează rezultatele"
+   },
+   "Voice": {
+      "message": "Voce"
+   },
+   "Wait": {
+      "message": "Așteaptă"
+   },
+   "We_hope": {
+      "message": "Sperăm că vă este util instrumentul nostru! Dacă vă place, vă rugăm să ne acordați o evaluare de 5 stele."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web nu a fost găsit"
+   },
+   "Your_message": {
+      "message": "Mesajul dvs. va fi trimis tuturor"
+   },
+   "Your_positive": {
+      "message": "Feedback-ul dvs. pozitiv înseamnă foarte mult pentru noi și ne ajută să ne îmbunătățim."
+   },
+   "any_inquiries": {
+      "message": "pentru orice întrebări."
+   },
+   "disturbsText": {
+      "message": "Dacă vă deranjează, vă rugăm să răspundeți cu „Nu” și nu vă voi mai trimite mesaje."
+   },
+   "finishLoginText": {
+      "message": "Ați terminat de vă autentificat?"
+   },
+   "finishPaymentText": {
+      "message": "Ați terminat plata?"
+   },
+   "format": {
+      "message": "format"
+   },
+   "loginText": {
+      "message": "Autentificare"
+   },
+   "messages": {
+      "message": "mesaje"
+   },
+   "participants": {
+      "message": "participanți"
+   },
+   "proplanText": {
+      "message": "PLAN PRO"
+   },
+   "qtDes": {
+      "message": "Trimiteți mesaje WhatsApp în masă prin numere Excel, fără a salva numerele. Personalizați mesajele și trimiteți atașamente."
+   },
+   "qtName": {
+      "message": "Trimitere Mesaje WhatsApp în Masă | WPPME.COM"
+   },
+   "rows": {
+      "message": "rânduri"
+   },
+   "saveEmptyText": {
+      "message": "Șablonul nu poate fi gol."
+   },
+   "saveExistText": {
+      "message": "Acest conținut de mesaj există deja."
+   },
+   "saveMoreText": {
+      "message": "Nu se pot salva mai mult de 500 de șabloane de mesaje."
+   },
+   "saveSuccessText": {
+      "message": "Șablon salvat cu succes"
+   },
+   "seconds_after_every": {
+      "message": "secunde după fiecare"
+   },
+   "sent_at": {
+      "message": "trimis la"
+   },
+   "will_receive": {
+      "message": "vor primi mesajul dvs."
+   }
+}

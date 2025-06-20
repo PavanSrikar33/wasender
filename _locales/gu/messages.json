@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "ઉમેરો"
+   },
+   "Add_Apology": {
+      "message": "પરેશાન કરવા બદલ માફી ઉમેરો"
+   },
+   "Add_Timestamp": {
+      "message": "સમય ઉમેરો"
+   },
+   "Add_number": {
+      "message": "નંબર ઉમેરો"
+   },
+   "All_contacts": {
+      "message": "પસંદ કરેલા દેશમાં બધા સંપર્કો"
+   },
+   "Audio": {
+      "message": "ઑડિઓ"
+   },
+   "Cancel": {
+      "message": "રદ કરો"
+   },
+   "Chats": {
+      "message": "ચેટ્સ"
+   },
+   "Click_to_Upload": {
+      "message": "અપલોડ કરવા માટે ક્લિક કરો / અહીં ખેંચો અને છોડો"
+   },
+   "Close": {
+      "message": "બંધ કરો"
+   },
+   "Completed": {
+      "message": "પૂર્ણ"
+   },
+   "Confirm": {
+      "message": "પુષ્ટિ કરો"
+   },
+   "Contacts": {
+      "message": "સંપર્ક"
+   },
+   "Continue": {
+      "message": "ચાલુ રાખો"
+   },
+   "Countries": {
+      "message": "દેશો"
+   },
+   "Details": {
+      "message": "વિગતો"
+   },
+   "Do_you_need": {
+      "message": "શું તમને WhatsApp પર બલ્ક મેસેજ મોકલવાની અસરકારક રીતની જરૂર છે? અમારું WA સેન્ડર એ જ છે જેની તમને જરૂર છે. તેનો પ્રયાસ કરો અને જુઓ કે મોટા પાયે મેસેજિંગ કેટલું સરળ હોઈ શકે છે!"
+   },
+   "Document": {
+      "message": "દસ્તાવેજ"
+   },
+   "Download_the_template": {
+      "message": "ટેમ્પ્લેટ ડાઉનલોડ કરો"
+   },
+   "Failure": {
+      "message": "નિષ્ફળતા"
+   },
+   "Feel_free": {
+      "message": "તમે ઈચ્છો તે કોઈપણ ટેક્સ્ટ અથવા લિંક્સ ઉમેરવા માટે મફત લાગે."
+   },
+   "File_Upload": {
+      "message": "ફાઇલ અપલોડ"
+   },
+   "Free_plans": {
+      "message": "મફત પ્લાન દરેક બેચમાં 10 સંદેશા મોકલવાની મંજૂરી આપે છે."
+   },
+   "Groups": {
+      "message": "ગ્રુપ્સ"
+   },
+   "Hello": {
+      "message": "નમસ્તે"
+   },
+   "Image": {
+      "message": "છબી"
+   },
+   "Including_Administrators": {
+      "message": "એડમિનિસ્ટ્રેટરો સહિત"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp નંબરો દાખલ કરો"
+   },
+   "Interested": {
+      "message": "રસ છે? વધુ જાણવા માટે 'હા' જવાબ આપો."
+   },
+   "Labels": {
+      "message": "લેબલ્સ"
+   },
+   "Leave_Review": {
+      "message": "સમીક્ષા છોડો"
+   },
+   "Log_in": {
+      "message": "લોગ ઇન કરો"
+   },
+   "MessageEmptyText": {
+      "message": "સંદેશાની સામગ્રી ખાલી ન હોઈ શકે."
+   },
+   "Messages": {
+      "message": "સંદેશાઓ"
+   },
+   "NO_DATA": {
+      "message": "કોઈ ડેટા નથી"
+   },
+   "Not_interested": {
+      "message": "રસ નથી? 'ના' જવાબ આપો અને હું વધુ કોઈ સંદેશા મોકલીશ નહીં."
+   },
+   "Not_now": {
+      "message": "હમણાં નહીં"
+   },
+   "Numbers": {
+      "message": "નંબર્સ"
+   },
+   "Pause": {
+      "message": "પોઝ કરો"
+   },
+   "Please_include": {
+      "message": "ઝડપી સહાય માટે કૃપા કરીને તમારું લોગિન ઇમેઇલ શામેલ કરો."
+   },
+   "Please_open": {
+      "message": "કૃપા કરીને WhatsApp વેબ ખોલો અથવા રિફ્રેશ કરો. ફરી પ્રયાસ કરતા પહેલા ખાતરી કરો કે માત્ર એક જ WhatsApp વેબ પેજ ખુલ્લું છે, ભલે તે નિષ્ક્રિય હોય."
+   },
+   "Random_sending": {
+      "message": "રૅન્ડમ મોકલવાનો અંતરાલ (સેકન્ડ):"
+   },
+   "Reach_out": {
+      "message": "અમારો સંપર્ક કરો"
+   },
+   "Review": {
+      "message": "સમીક્ષા"
+   },
+   "Save_as_template": {
+      "message": "ટેમ્પ્લેટ તરીકે સાચવો"
+   },
+   "Select_All": {
+      "message": "બધા પસંદ કરો"
+   },
+   "Select_a_template": {
+      "message": "ટેમ્પ્લેટ પસંદ કરો"
+   },
+   "Send": {
+      "message": "મોકલો"
+   },
+   "Send_to": {
+      "message": "મોકલો"
+   },
+   "Send_to_the": {
+      "message": "ટોચના 10 લોકોને મોકલો"
+   },
+   "Sending": {
+      "message": "મોકલી રહ્યા છીએ"
+   },
+   "Sticker": {
+      "message": "સ્ટીકર"
+   },
+   "Success": {
+      "message": "સફળતા"
+   },
+   "Support_batch": {
+      "message": "અહીં બેચ કૉપીને સપોર્ટ કરે છે"
+   },
+   "Text_Message": {
+      "message": "ટેક્સ્ટ સંદેશ"
+   },
+   "Text_style": {
+      "message": "ટેક્સ્ટ શૈલી વિકલ્પો: *બોલ્ડ* _ઇટાલિક_ ~સ્ટ્રાઇકથ્રુ~"
+   },
+   "The_contacts": {
+      "message": "જે સંપર્કો સાથે તમે WhatsApp પર ચેટ કરો છો"
+   },
+   "The_file_Max": {
+      "message": "ફાઇલ મહત્તમ 20MB, 100,000 પંક્તિઓ સુધી"
+   },
+   "The_file_Max_20MB": {
+      "message": "ફાઇલ મહત્તમ 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "ફાઇલ ખોટી છે, કૃપા કરીને જરૂરી મુજબ અપલોડ કરો."
+   },
+   "The_template_will": {
+      "message": "ટેમ્પ્લેટ ઇનપુટ બોક્સની ટેક્સ્ટ સામગ્રીને બદલી નાખશે."
+   },
+   "The_valid": {
+      "message": "તમારા ફોનમાં માન્ય WhatsApp સંપર્કો"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "ટિપ: WhatsApp પ્રતિબંધોને રોકવા માટે, પ્રાપ્તકર્તાઓની સંખ્યા ઓછી કરો અને મોકલવા વચ્ચેનો અંતરાલ વધારો."
+   },
+   "UPGRADE": {
+      "message": "અપગ્રેડ કરો"
+   },
+   "Upgrade": {
+      "message": "અપગ્રેડ કરો"
+   },
+   "Upgrade_Now": {
+      "message": "હમણાં અપગ્રેડ કરો"
+   },
+   "Upgrade_to_PRO": {
+      "message": "કોઈ મર્યાદા વિના PRO માં અપગ્રેડ કરો."
+   },
+   "Video": {
+      "message": "વિડિઓ"
+   },
+   "View_Results": {
+      "message": "પરિણામો જુઓ"
+   },
+   "Voice": {
+      "message": "વોઇસ"
+   },
+   "Wait": {
+      "message": "રાહ જુઓ"
+   },
+   "We_hope": {
+      "message": "અમને આશા છે કે તમને અમારું ટૂલ ઉપયોગી લાગી રહ્યું છે! જો તમને તે ગમે છે, તો કૃપા કરીને અમને 5-સ્ટાર રેટિંગ આપવાનું વિચારો."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp વેબ મળ્યું નથી"
+   },
+   "Your_message": {
+      "message": "તમારો સંદેશ બધા"
+   },
+   "Your_positive": {
+      "message": "તમારી સકારાત્મક પ્રતિક્રિયા અમારા માટે ઘણી મહત્વની છે અને અમને સુધારવામાં મદદ કરે છે."
+   },
+   "any_inquiries": {
+      "message": "માટે કોઈ પણ પૂછપરછ."
+   },
+   "disturbsText": {
+      "message": "જો તે તમને પરેશાન કરે છે, તો કૃપા કરીને 'ના' જવાબ આપો અને હું તમને વધુ કોઈ સંદેશા મોકલીશ નહીં."
+   },
+   "finishLoginText": {
+      "message": "શું તમે લોગિન પૂર્ણ કર્યું છે?"
+   },
+   "finishPaymentText": {
+      "message": "શું તમે તમારું ચુકવણી પૂર્ણ કર્યું છે?"
+   },
+   "format": {
+      "message": "ફોર્મેટ"
+   },
+   "loginText": {
+      "message": "લોગિન"
+   },
+   "messages": {
+      "message": "સંદેશાઓ"
+   },
+   "participants": {
+      "message": "ભાગીદારો"
+   },
+   "proplanText": {
+      "message": "PRO પ્લાન"
+   },
+   "qtDes": {
+      "message": "નંબરો સાચવ્યા વિના એક્સેલ નંબરો દ્વારા બલ્ક WhatsApp સંદેશા મોકલો. સંદેશાઓને વ્યક્તિગત કરો અને જોડાણો મોકલો."
+   },
+   "qtName": {
+      "message": "WhatsApp બલ્ક મેસેજ સેન્ડર | WPPME.COM"
+   },
+   "rows": {
+      "message": "પંક્તિઓ"
+   },
+   "saveEmptyText": {
+      "message": "ટેમ્પ્લેટ ખાલી ન હોઈ શકે."
+   },
+   "saveExistText": {
+      "message": "આ સંદેશાની સામગ્રી પહેલાથી જ અસ્તિત્વમાં છે."
+   },
+   "saveMoreText": {
+      "message": "500 થી વધુ સંદેશા ટેમ્પ્લેટ્સ સાચવી શકાતા નથી."
+   },
+   "saveSuccessText": {
+      "message": "ટેમ્પ્લેટ સફળતાપૂર્વક સાચવાયું"
+   },
+   "seconds_after_every": {
+      "message": "દરેક પછી સેકન્ડ"
+   },
+   "sent_at": {
+      "message": "મોકલેલ"
+   },
+   "will_receive": {
+      "message": "તમારો સંદેશ પ્રાપ્ત કરશે."
+   }
+}

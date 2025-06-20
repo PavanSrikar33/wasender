@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Afegir"
+   },
+   "Add_Apology": {
+      "message": "Afegir disculpes per la interrupció"
+   },
+   "Add_Timestamp": {
+      "message": "Afegir marca de temps"
+   },
+   "Add_number": {
+      "message": "Afegir número"
+   },
+   "All_contacts": {
+      "message": "Tots els contactes del país seleccionat"
+   },
+   "Audio": {
+      "message": "Àudio"
+   },
+   "Cancel": {
+      "message": "Cancel·lar"
+   },
+   "Chats": {
+      "message": "Xats"
+   },
+   "Click_to_Upload": {
+      "message": "Feu clic per pujar / Arrossegueu i deixeu anar aquí"
+   },
+   "Close": {
+      "message": "Tancar"
+   },
+   "Completed": {
+      "message": "Completat"
+   },
+   "Confirm": {
+      "message": "Confirmar"
+   },
+   "Contacts": {
+      "message": "Contacte"
+   },
+   "Continue": {
+      "message": "Continuar"
+   },
+   "Countries": {
+      "message": "Països"
+   },
+   "Details": {
+      "message": "Detalls"
+   },
+   "Do_you_need": {
+      "message": "Necessiteu un mètode eficaç per enviar missatges massius a WhatsApp? El nostre WA Sender és el que necessiteu. Proveu-lo i veureu com de senzill pot ser l'enviament massiu de missatges!"
+   },
+   "Document": {
+      "message": "Document"
+   },
+   "Download_the_template": {
+      "message": "Descarregueu la plantilla"
+   },
+   "Failure": {
+      "message": "Error"
+   },
+   "Feel_free": {
+      "message": "Sentiu-vos lliures d'afegir-hi el text o els enllaços que vulgueu."
+   },
+   "File_Upload": {
+      "message": "Pujar arxiu"
+   },
+   "Free_plans": {
+      "message": "Els plans gratuïts permeten enviar 10 missatges per lot."
+   },
+   "Groups": {
+      "message": "Grups"
+   },
+   "Hello": {
+      "message": "Hola"
+   },
+   "Image": {
+      "message": "Imatge"
+   },
+   "Including_Administrators": {
+      "message": "Incloc administradors"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Introduïu números de WhatsApp"
+   },
+   "Interested": {
+      "message": "Interessat? Responiu 'Sí' per obtenir més informació."
+   },
+   "Labels": {
+      "message": "Etiquetes"
+   },
+   "Leave_Review": {
+      "message": "Deixeu una valoració"
+   },
+   "Log_in": {
+      "message": "Inicieu sessió"
+   },
+   "MessageEmptyText": {
+      "message": "El contingut del missatge no pot estar buit."
+   },
+   "Messages": {
+      "message": "Missatges"
+   },
+   "NO_DATA": {
+      "message": "CAP DADA"
+   },
+   "Not_interested": {
+      "message": "No interessat? Responiu 'No' i no us enviaré més missatges."
+   },
+   "Not_now": {
+      "message": "Ara no"
+   },
+   "Numbers": {
+      "message": "Números"
+   },
+   "Pause": {
+      "message": "Pausa"
+   },
+   "Please_include": {
+      "message": "Si us plau, inclogueu el vostre correu electrònic d'inici de sessió per obtenir una assistència més ràpida."
+   },
+   "Please_open": {
+      "message": "Si us plau, obriu o actualitzeu WhatsApp Web. Assegureu-vos que només hi ha una pàgina de WhatsApp Web oberta, fins i tot si està inactiva, abans de tornar-ho a intentar."
+   },
+   "Random_sending": {
+      "message": "Interval d'enviament aleatori (segons):"
+   },
+   "Reach_out": {
+      "message": "Poseu-vos en contacte amb nosaltres a"
+   },
+   "Review": {
+      "message": "Valoració"
+   },
+   "Save_as_template": {
+      "message": "Desar com a plantilla"
+   },
+   "Select_All": {
+      "message": "Seleccionar-ho tot"
+   },
+   "Select_a_template": {
+      "message": "Seleccioneu una plantilla"
+   },
+   "Send": {
+      "message": "Enviar"
+   },
+   "Send_to": {
+      "message": "Enviar a"
+   },
+   "Send_to_the": {
+      "message": "Enviar a les 10 persones principals"
+   },
+   "Sending": {
+      "message": "Enviant"
+   },
+   "Sticker": {
+      "message": "Adhesiu"
+   },
+   "Success": {
+      "message": "Èxit"
+   },
+   "Support_batch": {
+      "message": "Admet la còpia per lots aquí"
+   },
+   "Text_Message": {
+      "message": "Missatge de text"
+   },
+   "Text_style": {
+      "message": "Opcions d'estil de text: *NEGRETA* _cursiva_ ~tatxat~"
+   },
+   "The_contacts": {
+      "message": "Els contactes amb els quals xategeu a WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Arxiu màxim de 20 MB, fins a 100.000 files"
+   },
+   "The_file_Max_20MB": {
+      "message": "Arxiu màxim de 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "L'arxiu és incorrecte, si us plau, pugeu-lo segons les instruccions."
+   },
+   "The_template_will": {
+      "message": "La plantilla substituirà el contingut de text del quadre d'entrada."
+   },
+   "The_valid": {
+      "message": "Els contactes vàlids de WhatsApp al vostre telèfon"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Consell: Per evitar les restriccions de WhatsApp, reduïu el nombre de destinataris i amplieu l'interval entre enviaments."
+   },
+   "UPGRADE": {
+      "message": "ACTUALITZACIÓ"
+   },
+   "Upgrade": {
+      "message": "Actualitzar"
+   },
+   "Upgrade_Now": {
+      "message": "Actualitzeu ara"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Actualitzeu a PRO sense límits."
+   },
+   "Video": {
+      "message": "Vídeo"
+   },
+   "View_Results": {
+      "message": "Veure resultats"
+   },
+   "Voice": {
+      "message": "Veu"
+   },
+   "Wait": {
+      "message": "Espereu"
+   },
+   "We_hope": {
+      "message": "Esperem que us sigui útil la nostra eina! Si us agrada, considereu donar-nos una valoració de 5 estrelles."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web no trobat"
+   },
+   "Your_message": {
+      "message": "El vostre missatge s'enviarà a tots els"
+   },
+   "Your_positive": {
+      "message": "La vostra opinió positiva significa molt per a nosaltres i ens ajuda a millorar."
+   },
+   "any_inquiries": {
+      "message": "per a qualsevol consulta."
+   },
+   "disturbsText": {
+      "message": "Si us molesta, responeu 'No' i no us enviaré més missatges."
+   },
+   "finishLoginText": {
+      "message": "Ha finalitzat l'inici de sessió?"
+   },
+   "finishPaymentText": {
+      "message": "Ha finalitzat el pagament?"
+   },
+   "format": {
+      "message": "format"
+   },
+   "loginText": {
+      "message": "Inici de sessió"
+   },
+   "messages": {
+      "message": "missatges"
+   },
+   "participants": {
+      "message": "participants"
+   },
+   "proplanText": {
+      "message": "PLA PRO"
+   },
+   "qtDes": {
+      "message": "Envieu missatges massius de WhatsApp mitjançant números d'Excel, sense desar números. Personalitzeu els missatges i envieu adjunts."
+   },
+   "qtName": {
+      "message": "Enviament massiu de missatges de WhatsApp | WPPME.COM"
+   },
+   "rows": {
+      "message": "files"
+   },
+   "saveEmptyText": {
+      "message": "La plantilla no pot estar buida."
+   },
+   "saveExistText": {
+      "message": "Aquest contingut de missatge ja existeix."
+   },
+   "saveMoreText": {
+      "message": "No es poden desar més de 500 plantilles de missatges."
+   },
+   "saveSuccessText": {
+      "message": "Plantilla desada correctament"
+   },
+   "seconds_after_every": {
+      "message": "segons després de cada"
+   },
+   "sent_at": {
+      "message": "enviat a"
+   },
+   "will_receive": {
+      "message": "rebran el vostre missatge."
+   }
+}

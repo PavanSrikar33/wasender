@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Ongeza"
+   },
+   "Add_Apology": {
+      "message": "Ongeza Samahani kwa Usumbufu"
+   },
+   "Add_Timestamp": {
+      "message": "Ongeza Muda"
+   },
+   "Add_number": {
+      "message": "Ongeza namba"
+   },
+   "All_contacts": {
+      "message": "Mawasiliano yote katika nchi iliyochaguliwa"
+   },
+   "Audio": {
+      "message": "Sauti"
+   },
+   "Cancel": {
+      "message": "Ghairi"
+   },
+   "Chats": {
+      "message": "Mazungumzo"
+   },
+   "Click_to_Upload": {
+      "message": "Bonyeza kupakua / Buruta & Achia hapa"
+   },
+   "Close": {
+      "message": "Funga"
+   },
+   "Completed": {
+      "message": "Imekamilika"
+   },
+   "Confirm": {
+      "message": "Thibitisha"
+   },
+   "Contacts": {
+      "message": "Wasiliana Nasi"
+   },
+   "Continue": {
+      "message": "Endelea"
+   },
+   "Countries": {
+      "message": "Nchi"
+   },
+   "Details": {
+      "message": "Maelezo"
+   },
+   "Do_you_need": {
+      "message": "Je, unahitaji njia madhubuti ya kutuma ujumbe mwingi kwenye WhatsApp?  Kiutumaji chetu cha WA ndicho unachohitaji. Jaribu na uone jinsi ujumbe mwingi unaweza kuwa rahisi!"
+   },
+   "Document": {
+      "message": "Fainali"
+   },
+   "Download_the_template": {
+      "message": "Pakua kiolezo"
+   },
+   "Failure": {
+      "message": "Kushindwa"
+   },
+   "Feel_free": {
+      "message": "Jisikie huru kuongeza maandishi au viungo vyovyote unavyotaka."
+   },
+   "File_Upload": {
+      "message": "Pakua Faili"
+   },
+   "Free_plans": {
+      "message": "Mipango ya bure inaruhusu kutuma ujumbe 10 kwa kundi."
+   },
+   "Groups": {
+      "message": "Vikundi"
+   },
+   "Hello": {
+      "message": "Habari"
+   },
+   "Image": {
+      "message": "Picha"
+   },
+   "Including_Administrators": {
+      "message": "Kuingiza Wasimamizi"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Ingiza Namba za WhatsApp"
+   },
+   "Interested": {
+      "message": "Unavutiwa? Jibu 'Ndiyo' kujifunza zaidi."
+   },
+   "Labels": {
+      "message": "Vielezo"
+   },
+   "Leave_Review": {
+      "message": "Toa Ukaguzi"
+   },
+   "Log_in": {
+      "message": "Ingia"
+   },
+   "MessageEmptyText": {
+      "message": "Yaliyomo ya ujumbe hayawezi kuwa tupu."
+   },
+   "Messages": {
+      "message": "Ujumbe"
+   },
+   "NO_DATA": {
+      "message": "HAKUNA DATA"
+   },
+   "Not_interested": {
+      "message": "Hauvutiwi? Jibu 'Hapana' na sitakutumia ujumbe mwingine wowote."
+   },
+   "Not_now": {
+      "message": "Sasa hivi"
+   },
+   "Numbers": {
+      "message": "Namba"
+   },
+   "Pause": {
+      "message": "Sitisha"
+   },
+   "Please_include": {
+      "message": "Tafadhali ingiza barua pepe yako ya kuingia kwa usaidizi wa haraka."
+   },
+   "Please_open": {
+      "message": "Tafadhali fungua au burudisha WhatsApp Web. Hakikisha ukurasa mmoja tu wa WhatsApp Web uko wazi, hata kama haufanyi kazi, kabla ya kujaribu tena."
+   },
+   "Random_sending": {
+      "message": "Kipindi cha kutuma kwa nasibu (sekunde):"
+   },
+   "Reach_out": {
+      "message": "Wasiliana nasi kwa"
+   },
+   "Review": {
+      "message": "Ukaguzi"
+   },
+   "Save_as_template": {
+      "message": "Hifadhi kama kiolezo"
+   },
+   "Select_All": {
+      "message": "Chagua Zote"
+   },
+   "Select_a_template": {
+      "message": "Chagua kiolezo"
+   },
+   "Send": {
+      "message": "Tuma"
+   },
+   "Send_to": {
+      "message": "Tuma kwa"
+   },
+   "Send_to_the": {
+      "message": "Tuma kwa Watu 10 Bora"
+   },
+   "Sending": {
+      "message": "Kutuma"
+   },
+   "Sticker": {
+      "message": "Stika"
+   },
+   "Success": {
+      "message": "Mafanikio"
+   },
+   "Support_batch": {
+      "message": "Inaunga mkono kunakili kwa wingi hapa"
+   },
+   "Text_Message": {
+      "message": "Ujumbe wa maandishi"
+   },
+   "Text_style": {
+      "message": "Chaguo za mtindo wa maandishi: *JUU* _italiki_ ~kufuta~"
+   },
+   "The_contacts": {
+      "message": "Mawasiliano unayozungumza nayo kwenye WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Faili kubwa zaidi 20MB, hadi safu 100,000"
+   },
+   "The_file_Max_20MB": {
+      "message": "Faili kubwa zaidi 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Faili si sahihi, tafadhali pakua kama inavyotakiwa."
+   },
+   "The_template_will": {
+      "message": "Kiolezo kitabadilisha yaliyomo ya maandishi ya kisanduku cha pembejeo."
+   },
+   "The_valid": {
+      "message": "Mawasiliano halali ya WhatsApp kwenye simu yako"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Ushauri: Ili kuzuia vikwazo vya WhatsApp, punguza idadi ya wapokeaji na ongeza muda kati ya kutuma."
+   },
+   "UPGRADE": {
+      "message": "BORESHA"
+   },
+   "Upgrade": {
+      "message": "Boresha"
+   },
+   "Upgrade_Now": {
+      "message": "Boresha Sasa"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Boresha hadi PRO bila mipaka."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Tazama Matokeo"
+   },
+   "Voice": {
+      "message": "Sauti"
+   },
+   "Wait": {
+      "message": "Subiri"
+   },
+   "We_hope": {
+      "message": "Tunatumaini unapata zana yetu kuwa muhimu! Ikiwa unapenda, tafadhali fikiria kutupa ukadiriaji wa nyota 5."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web Haijapatikana"
+   },
+   "Your_message": {
+      "message": "Ujumbe wako utatumwa kwa washiriki wote"
+   },
+   "Your_positive": {
+      "message": "Maoni yako mazuri yana maana kubwa kwetu na yanatusaidia kuboresha."
+   },
+   "any_inquiries": {
+      "message": "kwa maswali yoyote."
+   },
+   "disturbsText": {
+      "message": "Kama inakusumbua, tafadhali jibu 'Hapana' na sitakutumia ujumbe mwingine wowote."
+   },
+   "finishLoginText": {
+      "message": "Umemaliza kuingia?"
+   },
+   "finishPaymentText": {
+      "message": "Umemaliza malipo yako?"
+   },
+   "format": {
+      "message": "muundo"
+   },
+   "loginText": {
+      "message": "Ingia"
+   },
+   "messages": {
+      "message": "ujumbe"
+   },
+   "participants": {
+      "message": "washiriki"
+   },
+   "proplanText": {
+      "message": "MPANGO WA PRO"
+   },
+   "qtDes": {
+      "message": "Tuma ujumbe mwingi wa WhatsApp kupitia namba za Excel, bila kuzihifadhi. Badilisha ujumbe na utume viambatisho."
+   },
+   "qtName": {
+      "message": "Prime Connect Sender - Message Sender | WPPME.COM"
+   },
+   "rows": {
+      "message": "safu"
+   },
+   "saveEmptyText": {
+      "message": "Kiolezo hakiwezi kuwa tupu."
+   },
+   "saveExistText": {
+      "message": "Yaliyomo ya ujumbe huu tayari yapo."
+   },
+   "saveMoreText": {
+      "message": "Haiwezi kuhifadhi zaidi ya violezo 500 vya ujumbe."
+   },
+   "saveSuccessText": {
+      "message": "Kiolezo kimehifadhiwa kwa mafanikio"
+   },
+   "seconds_after_every": {
+      "message": "sekunde baada ya kila"
+   },
+   "sent_at": {
+      "message": "kutumwa saa"
+   },
+   "will_receive": {
+      "message": "watapokea ujumbe wako."
+   }
+}

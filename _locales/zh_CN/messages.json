@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "添加"
+   },
+   "Add_Apology": {
+      "message": "添加致歉信息"
+   },
+   "Add_Timestamp": {
+      "message": "添加时间戳"
+   },
+   "Add_number": {
+      "message": "添加号码"
+   },
+   "All_contacts": {
+      "message": "所选国家/地区的全部联系人"
+   },
+   "Audio": {
+      "message": "音频"
+   },
+   "Cancel": {
+      "message": "取消"
+   },
+   "Chats": {
+      "message": "聊天"
+   },
+   "Click_to_Upload": {
+      "message": "点击上传/拖拽至此"
+   },
+   "Close": {
+      "message": "关闭"
+   },
+   "Completed": {
+      "message": "已完成"
+   },
+   "Confirm": {
+      "message": "确认"
+   },
+   "Contacts": {
+      "message": "联系我们"
+   },
+   "Continue": {
+      "message": "继续"
+   },
+   "Countries": {
+      "message": "国家/地区"
+   },
+   "Details": {
+      "message": "详情"
+   },
+   "Do_you_need": {
+      "message": "您需要一种高效的方法来批量发送WhatsApp消息吗？我们的WhatsApp群发工具正是您所需要的。试试看，感受批量发送消息的便捷！"
+   },
+   "Document": {
+      "message": "文档"
+   },
+   "Download_the_template": {
+      "message": "下载模板"
+   },
+   "Failure": {
+      "message": "失败"
+   },
+   "Feel_free": {
+      "message": "您可以随意添加任何文本或链接。"
+   },
+   "File_Upload": {
+      "message": "文件上传"
+   },
+   "Free_plans": {
+      "message": "免费方案每次最多发送10条消息。"
+   },
+   "Groups": {
+      "message": "群组"
+   },
+   "Hello": {
+      "message": "您好"
+   },
+   "Image": {
+      "message": "图片"
+   },
+   "Including_Administrators": {
+      "message": "包含管理员"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp号码输入"
+   },
+   "Interested": {
+      "message": "感兴趣？回复“是”了解更多。"
+   },
+   "Labels": {
+      "message": "标签"
+   },
+   "Leave_Review": {
+      "message": "留下评价"
+   },
+   "Log_in": {
+      "message": "登录"
+   },
+   "MessageEmptyText": {
+      "message": "消息内容不能为空。"
+   },
+   "Messages": {
+      "message": "消息"
+   },
+   "NO_DATA": {
+      "message": "无数据"
+   },
+   "Not_interested": {
+      "message": "不感兴趣？回复“否”，我将不再发送任何消息。"
+   },
+   "Not_now": {
+      "message": "现在不"
+   },
+   "Numbers": {
+      "message": "号码"
+   },
+   "Pause": {
+      "message": "暂停"
+   },
+   "Please_include": {
+      "message": "请提供您的登录邮箱以便我们更快地为您提供帮助。"
+   },
+   "Please_open": {
+      "message": "请打开或刷新WhatsApp网页版。确保只有一个WhatsApp网页版处于打开状态（即使未处于活动状态），然后再重试。"
+   },
+   "Random_sending": {
+      "message": "随机发送间隔（秒）："
+   },
+   "Reach_out": {
+      "message": "请联系我们"
+   },
+   "Review": {
+      "message": "评价"
+   },
+   "Save_as_template": {
+      "message": "保存为模板"
+   },
+   "Select_All": {
+      "message": "全选"
+   },
+   "Select_a_template": {
+      "message": "选择模板"
+   },
+   "Send": {
+      "message": "发送"
+   },
+   "Send_to": {
+      "message": "发送至"
+   },
+   "Send_to_the": {
+      "message": "发送给前10位联系人"
+   },
+   "Sending": {
+      "message": "正在发送"
+   },
+   "Sticker": {
+      "message": "贴图"
+   },
+   "Success": {
+      "message": "成功"
+   },
+   "Support_batch": {
+      "message": "支持在此处批量粘贴号码"
+   },
+   "Text_Message": {
+      "message": "文本消息"
+   },
+   "Text_style": {
+      "message": "文本样式选项：*粗体* _斜体_ ~删除线~"
+   },
+   "The_contacts": {
+      "message": "您在WhatsApp上聊过的联系人"
+   },
+   "The_file_Max": {
+      "message": "文件最大20MB，最多100,000行"
+   },
+   "The_file_Max_20MB": {
+      "message": "文件最大20MB。"
+   },
+   "The_file_is_incorrect": {
+      "message": "文件格式错误，请按要求上传。"
+   },
+   "The_template_will": {
+      "message": "模板将替换输入框中的文本内容。"
+   },
+   "The_valid": {
+      "message": "手机通讯录中有效的WhatsApp联系人"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "提示：为避免WhatsApp限制，请减少收件人数量并延长发送间隔。"
+   },
+   "UPGRADE": {
+      "message": "升级"
+   },
+   "Upgrade": {
+      "message": "升级"
+   },
+   "Upgrade_Now": {
+      "message": "立即升级"
+   },
+   "Upgrade_to_PRO": {
+      "message": "升级到专业版，无限制。"
+   },
+   "Video": {
+      "message": "视频"
+   },
+   "View_Results": {
+      "message": "查看结果"
+   },
+   "Voice": {
+      "message": "语音"
+   },
+   "Wait": {
+      "message": "等待"
+   },
+   "We_hope": {
+      "message": "我们希望您觉得我们的工具很有用！如果您喜欢它，请考虑给我们一个五星评价。"
+   },
+   "WhatsApp_Web": {
+      "message": "未找到WhatsApp网页版"
+   },
+   "Your_message": {
+      "message": "您的消息将发送给所有"
+   },
+   "Your_positive": {
+      "message": "您的积极反馈对我们意义重大，并帮助我们改进。"
+   },
+   "any_inquiries": {
+      "message": "如有任何疑问。"
+   },
+   "disturbsText": {
+      "message": "如果打扰到您，请回复“否”，我将不再向您发送任何消息。"
+   },
+   "finishLoginText": {
+      "message": "您已完成登录吗？"
+   },
+   "finishPaymentText": {
+      "message": "您已完成支付吗？"
+   },
+   "format": {
+      "message": "格式"
+   },
+   "loginText": {
+      "message": "登录"
+   },
+   "messages": {
+      "message": "条消息"
+   },
+   "participants": {
+      "message": "参与者"
+   },
+   "proplanText": {
+      "message": "专业版"
+   },
+   "qtDes": {
+      "message": "通过Excel表格中的号码批量发送WhatsApp消息，无需保存号码。个性化消息并发送附件。"
+   },
+   "qtName": {
+      "message": "WhatsApp批量消息发送器 | WPPME.COM"
+   },
+   "rows": {
+      "message": "行"
+   },
+   "saveEmptyText": {
+      "message": "模板不能为空。"
+   },
+   "saveExistText": {
+      "message": "此消息内容已存在。"
+   },
+   "saveMoreText": {
+      "message": "无法保存超过500条消息模板。"
+   },
+   "saveSuccessText": {
+      "message": "模板保存成功"
+   },
+   "seconds_after_every": {
+      "message": "每发送"
+   },
+   "sent_at": {
+      "message": "发送于"
+   },
+   "will_receive": {
+      "message": "将收到您的消息。"
+   }
+}

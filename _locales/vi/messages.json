@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Thêm"
+   },
+   "Add_Apology": {
+      "message": "Thêm lời xin lỗi vì làm phiền"
+   },
+   "Add_Timestamp": {
+      "message": "Thêm dấu thời gian"
+   },
+   "Add_number": {
+      "message": "Thêm số điện thoại"
+   },
+   "All_contacts": {
+      "message": "Tất cả liên hệ trong quốc gia đã chọn"
+   },
+   "Audio": {
+      "message": "Âm thanh"
+   },
+   "Cancel": {
+      "message": "Hủy"
+   },
+   "Chats": {
+      "message": "Cuộc trò chuyện"
+   },
+   "Click_to_Upload": {
+      "message": "Nhấp để tải lên / Kéo và thả ở đây"
+   },
+   "Close": {
+      "message": "Đóng"
+   },
+   "Completed": {
+      "message": "Hoàn thành"
+   },
+   "Confirm": {
+      "message": "Xác nhận"
+   },
+   "Contacts": {
+      "message": "Liên hệ"
+   },
+   "Continue": {
+      "message": "Tiếp tục"
+   },
+   "Countries": {
+      "message": "Quốc gia"
+   },
+   "Details": {
+      "message": "Chi tiết"
+   },
+   "Do_you_need": {
+      "message": "Bạn cần một phương pháp hiệu quả để gửi tin nhắn hàng loạt trên WhatsApp? Công cụ gửi tin nhắn WA của chúng tôi chính là giải pháp bạn cần. Hãy thử và xem gửi tin nhắn hàng loạt đơn giản như thế nào!"
+   },
+   "Document": {
+      "message": "Tài liệu"
+   },
+   "Download_the_template": {
+      "message": "Tải xuống mẫu"
+   },
+   "Failure": {
+      "message": "Thất bại"
+   },
+   "Feel_free": {
+      "message": "Cứ tự nhiên thêm bất kỳ văn bản hoặc liên kết nào bạn muốn."
+   },
+   "File_Upload": {
+      "message": "Tải tệp lên"
+   },
+   "Free_plans": {
+      "message": "Gói miễn phí cho phép gửi 10 tin nhắn mỗi lần."
+   },
+   "Groups": {
+      "message": "Nhóm"
+   },
+   "Hello": {
+      "message": "Chào"
+   },
+   "Image": {
+      "message": "Hình ảnh"
+   },
+   "Including_Administrators": {
+      "message": "Bao gồm quản trị viên"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Nhập số điện thoại WhatsApp"
+   },
+   "Interested": {
+      "message": "Quan tâm? Trả lời 'Có' để tìm hiểu thêm."
+   },
+   "Labels": {
+      "message": "Nhãn"
+   },
+   "Leave_Review": {
+      "message": "Đánh giá"
+   },
+   "Log_in": {
+      "message": "Đăng nhập"
+   },
+   "MessageEmptyText": {
+      "message": "Nội dung tin nhắn không được để trống."
+   },
+   "Messages": {
+      "message": "Tin nhắn"
+   },
+   "NO_DATA": {
+      "message": "KHÔNG CÓ DỮ LIỆU"
+   },
+   "Not_interested": {
+      "message": "Không quan tâm? Trả lời 'Không' và tôi sẽ không gửi thêm tin nhắn nào nữa."
+   },
+   "Not_now": {
+      "message": "Không bây giờ"
+   },
+   "Numbers": {
+      "message": "Số điện thoại"
+   },
+   "Pause": {
+      "message": "Tạm dừng"
+   },
+   "Please_include": {
+      "message": "Vui lòng cung cấp email đăng nhập của bạn để được hỗ trợ nhanh hơn."
+   },
+   "Please_open": {
+      "message": "Vui lòng mở hoặc làm mới WhatsApp Web. Đảm bảo chỉ có một trang WhatsApp Web đang mở, ngay cả khi không hoạt động, trước khi thử lại."
+   },
+   "Random_sending": {
+      "message": "Khoảng thời gian gửi ngẫu nhiên (giây):"
+   },
+   "Reach_out": {
+      "message": "Liên hệ với chúng tôi tại"
+   },
+   "Review": {
+      "message": "Đánh giá"
+   },
+   "Save_as_template": {
+      "message": "Lưu làm mẫu"
+   },
+   "Select_All": {
+      "message": "Chọn tất cả"
+   },
+   "Select_a_template": {
+      "message": "Chọn mẫu"
+   },
+   "Send": {
+      "message": "Gửi"
+   },
+   "Send_to": {
+      "message": "Gửi đến"
+   },
+   "Send_to_the": {
+      "message": "Gửi đến 10 người hàng đầu"
+   },
+   "Sending": {
+      "message": "Đang gửi"
+   },
+   "Sticker": {
+      "message": "Sticker"
+   },
+   "Success": {
+      "message": "Thành công"
+   },
+   "Support_batch": {
+      "message": "Hỗ trợ sao chép hàng loạt ở đây"
+   },
+   "Text_Message": {
+      "message": "Tin nhắn văn bản"
+   },
+   "Text_style": {
+      "message": "Tùy chọn kiểu văn bản: *ĐẬM* _nghiêng_ ~gạch ngang~"
+   },
+   "The_contacts": {
+      "message": "Những người bạn trò chuyện trên WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Tệp tối đa 20MB, lên đến 100.000 hàng"
+   },
+   "The_file_Max_20MB": {
+      "message": "Tệp tối đa 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Tệp không chính xác, vui lòng tải lên theo yêu cầu."
+   },
+   "The_template_will": {
+      "message": "Mẫu sẽ thay thế nội dung văn bản của hộp nhập liệu."
+   },
+   "The_valid": {
+      "message": "Các liên hệ WhatsApp hợp lệ trong điện thoại của bạn"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Mẹo: Để tránh các hạn chế của WhatsApp, hãy giảm số người nhận và kéo dài khoảng thời gian giữa các lần gửi."
+   },
+   "UPGRADE": {
+      "message": "NÂNG CẤP"
+   },
+   "Upgrade": {
+      "message": "Nâng cấp"
+   },
+   "Upgrade_Now": {
+      "message": "Nâng cấp ngay"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Nâng cấp lên PRO để không giới hạn."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Xem kết quả"
+   },
+   "Voice": {
+      "message": "Ghi âm"
+   },
+   "Wait": {
+      "message": "Chờ"
+   },
+   "We_hope": {
+      "message": "Chúng tôi hy vọng bạn thấy công cụ của chúng tôi hữu ích! Nếu bạn thích nó, vui lòng xem xét cho chúng tôi xếp hạng 5 sao."
+   },
+   "WhatsApp_Web": {
+      "message": "Không tìm thấy WhatsApp Web"
+   },
+   "Your_message": {
+      "message": "Tin nhắn của bạn sẽ được gửi đến tất cả"
+   },
+   "Your_positive": {
+      "message": "Phản hồi tích cực của bạn rất có ý nghĩa đối với chúng tôi và giúp chúng tôi cải thiện."
+   },
+   "any_inquiries": {
+      "message": "cho bất kỳ thắc mắc nào."
+   },
+   "disturbsText": {
+      "message": "Nếu điều này làm phiền bạn, vui lòng trả lời 'Không' và tôi sẽ không gửi thêm tin nhắn nào nữa."
+   },
+   "finishLoginText": {
+      "message": "Bạn đã hoàn tất đăng nhập chưa?"
+   },
+   "finishPaymentText": {
+      "message": "Bạn đã hoàn tất thanh toán chưa?"
+   },
+   "format": {
+      "message": "định dạng"
+   },
+   "loginText": {
+      "message": "Đăng nhập"
+   },
+   "messages": {
+      "message": "tin nhắn"
+   },
+   "participants": {
+      "message": "người tham gia"
+   },
+   "proplanText": {
+      "message": "GÓI PRO"
+   },
+   "qtDes": {
+      "message": "Gửi tin nhắn WhatsApp hàng loạt thông qua số điện thoại trong Excel, mà không cần lưu số. Cá nhân hóa tin nhắn và gửi tệp đính kèm."
+   },
+   "qtName": {
+      "message": "Công cụ gửi tin nhắn WhatsApp hàng loạt | WPPME.COM"
+   },
+   "rows": {
+      "message": "hàng"
+   },
+   "saveEmptyText": {
+      "message": "Mẫu không được để trống."
+   },
+   "saveExistText": {
+      "message": "Nội dung tin nhắn này đã tồn tại."
+   },
+   "saveMoreText": {
+      "message": "Không thể lưu quá 500 mẫu tin nhắn."
+   },
+   "saveSuccessText": {
+      "message": "Lưu mẫu thành công"
+   },
+   "seconds_after_every": {
+      "message": "giây sau mỗi"
+   },
+   "sent_at": {
+      "message": "gửi lúc"
+   },
+   "will_receive": {
+      "message": "sẽ nhận được tin nhắn của bạn."
+   }
+}

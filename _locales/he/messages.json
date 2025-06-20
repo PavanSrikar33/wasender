@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "הוסף"
+   },
+   "Add_Apology": {
+      "message": "הוסף התנצלות על ההפרעה"
+   },
+   "Add_Timestamp": {
+      "message": "הוסף חותמת זמן"
+   },
+   "Add_number": {
+      "message": "הוסף מספר"
+   },
+   "All_contacts": {
+      "message": "כל אנשי הקשר במדינה שנבחרה"
+   },
+   "Audio": {
+      "message": "אודיו"
+   },
+   "Cancel": {
+      "message": "ביטול"
+   },
+   "Chats": {
+      "message": "צ'אטים"
+   },
+   "Click_to_Upload": {
+      "message": "לחץ להעלאה / גרור ושחרר כאן"
+   },
+   "Close": {
+      "message": "סגור"
+   },
+   "Completed": {
+      "message": "הושלם"
+   },
+   "Confirm": {
+      "message": "אישור"
+   },
+   "Contacts": {
+      "message": "צור קשר"
+   },
+   "Continue": {
+      "message": "המשך"
+   },
+   "Countries": {
+      "message": "מדינות"
+   },
+   "Details": {
+      "message": "פרטים"
+   },
+   "Do_you_need": {
+      "message": "האם אתם זקוקים לשיטה יעילה לשליחת הודעות המוניות ב-WhatsApp?  שולח ה-WA שלנו הוא בדיוק מה שאתם צריכים.  נסו אותו ותראו כמה פשוטה יכולה להיות שליחת הודעות המונית!"
+   },
+   "Document": {
+      "message": "מסמך"
+   },
+   "Download_the_template": {
+      "message": "הורד את התבנית"
+   },
+   "Failure": {
+      "message": "כישלון"
+   },
+   "Feel_free": {
+      "message": "הרגישו חופשי להוסיף כל טקסט או קישורים שתרצו."
+   },
+   "File_Upload": {
+      "message": "העלאת קובץ"
+   },
+   "Free_plans": {
+      "message": "תוכניות חינמיות מאפשרות שליחה של 10 הודעות לכל אצווה."
+   },
+   "Groups": {
+      "message": "קבוצות"
+   },
+   "Hello": {
+      "message": "שלום"
+   },
+   "Image": {
+      "message": "תמונה"
+   },
+   "Including_Administrators": {
+      "message": "כולל מנהלים"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "הזן מספרי WhatsApp"
+   },
+   "Interested": {
+      "message": "מעוניינים? השיבו 'כן' כדי ללמוד עוד."
+   },
+   "Labels": {
+      "message": "תוויות"
+   },
+   "Leave_Review": {
+      "message": "השאר ביקורת"
+   },
+   "Log_in": {
+      "message": "התחברות"
+   },
+   "MessageEmptyText": {
+      "message": "תוכן ההודעה לא יכול להיות ריק."
+   },
+   "Messages": {
+      "message": "הודעות"
+   },
+   "NO_DATA": {
+      "message": "אין נתונים"
+   },
+   "Not_interested": {
+      "message": "לא מעוניינים? השיבו 'לא' ואני לא אשלח עוד הודעות."
+   },
+   "Not_now": {
+      "message": "לא עכשיו"
+   },
+   "Numbers": {
+      "message": "מספרים"
+   },
+   "Pause": {
+      "message": "הפסק"
+   },
+   "Please_include": {
+      "message": "נא לכלול את כתובת הדוא\"ל להתחברות שלך לקבלת סיוע מהיר יותר."
+   },
+   "Please_open": {
+      "message": "נא לפתוח או לרענן את WhatsApp Web. ודא שרק דף אחד של WhatsApp Web פתוח, גם אם אינו פעיל, לפני שתנסה שוב."
+   },
+   "Random_sending": {
+      "message": "מרווח שליחה אקראי (שניות):"
+   },
+   "Reach_out": {
+      "message": "צרו קשר איתנו ב-"
+   },
+   "Review": {
+      "message": "ביקורת"
+   },
+   "Save_as_template": {
+      "message": "שמור כתבנית"
+   },
+   "Select_All": {
+      "message": "בחר הכל"
+   },
+   "Select_a_template": {
+      "message": "בחר תבנית"
+   },
+   "Send": {
+      "message": "שלח"
+   },
+   "Send_to": {
+      "message": "שלח ל"
+   },
+   "Send_to_the": {
+      "message": "שלח לעשרת האנשים המובילים"
+   },
+   "Sending": {
+      "message": "שולח"
+   },
+   "Sticker": {
+      "message": "מדבקה"
+   },
+   "Success": {
+      "message": "הצלחה"
+   },
+   "Support_batch": {
+      "message": "תמיכה בהעתקה מרובה כאן"
+   },
+   "Text_Message": {
+      "message": "הודעת טקסט"
+   },
+   "Text_style": {
+      "message": "אפשרויות סגנון טקסט: *מודגש* _נטוי_ ~מוחק~"
+   },
+   "The_contacts": {
+      "message": "אנשי הקשר איתם אתה משוחח ב-WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "גודל הקובץ המרבי 20MB, עד 100,000 שורות"
+   },
+   "The_file_Max_20MB": {
+      "message": "גודל הקובץ המרבי 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "הקובץ שגוי, נא להעלות כנדרש."
+   },
+   "The_template_will": {
+      "message": "התבנית תחליף את תוכן הטקסט של תיבת הקלט."
+   },
+   "The_valid": {
+      "message": "אנשי הקשר התקינים של WhatsApp בטלפון שלך"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "טיפ: כדי למנוע הגבלות של WhatsApp, הפחיתו את מספר הנמענים והרחיבו את המרווח בין השליחות."
+   },
+   "UPGRADE": {
+      "message": "שדרוג"
+   },
+   "Upgrade": {
+      "message": "שדרוג"
+   },
+   "Upgrade_Now": {
+      "message": "שדרג עכשיו"
+   },
+   "Upgrade_to_PRO": {
+      "message": "שדרגו ל-PRO ללא הגבלות."
+   },
+   "Video": {
+      "message": "וידאו"
+   },
+   "View_Results": {
+      "message": "הצג תוצאות"
+   },
+   "Voice": {
+      "message": "קול"
+   },
+   "Wait": {
+      "message": "המתן"
+   },
+   "We_hope": {
+      "message": "אנחנו מקווים שאתם מוצאים את הכלי שלנו מועיל! אם אתם אוהבים אותו, אנא שקלו לתת לנו דירוג של 5 כוכבים."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web לא נמצא"
+   },
+   "Your_message": {
+      "message": "ההודעה שלך תישלח לכל"
+   },
+   "Your_positive": {
+      "message": "המשוב החיובי שלכם חשוב לנו מאוד ועוזר לנו להשתפר."
+   },
+   "any_inquiries": {
+      "message": "לכל שאלה."
+   },
+   "disturbsText": {
+      "message": "אם זה מפריע לך, אנא השב 'לא' ואני לא אשלח לך עוד הודעות."
+   },
+   "finishLoginText": {
+      "message": "האם סיימת להתחבר?"
+   },
+   "finishPaymentText": {
+      "message": "האם סיימת את התשלום שלך?"
+   },
+   "format": {
+      "message": "פורמט"
+   },
+   "loginText": {
+      "message": "התחברות"
+   },
+   "messages": {
+      "message": "הודעות"
+   },
+   "participants": {
+      "message": "משתתפים"
+   },
+   "proplanText": {
+      "message": "תוכנית PRO"
+   },
+   "qtDes": {
+      "message": "שלח הודעות WhatsApp המוניות באמצעות מספרי אקסל, מבלי לשמור מספרים. התאם אישית הודעות ושלח קבצים מצורפים."
+   },
+   "qtName": {
+      "message": "שליחת הודעות המוניות ב-WhatsApp | WPPME.COM"
+   },
+   "rows": {
+      "message": "שורות"
+   },
+   "saveEmptyText": {
+      "message": "התוכן של התבנית לא יכול להיות ריק."
+   },
+   "saveExistText": {
+      "message": "תוכן הודעה זה כבר קיים."
+   },
+   "saveMoreText": {
+      "message": "לא ניתן לשמור יותר מ-500 תבניות הודעות."
+   },
+   "saveSuccessText": {
+      "message": "התבנית נשמרה בהצלחה"
+   },
+   "seconds_after_every": {
+      "message": "שניות אחרי כל"
+   },
+   "sent_at": {
+      "message": "נשלח ב-"
+   },
+   "will_receive": {
+      "message": "יקבלו את ההודעה שלך."
+   }
+}

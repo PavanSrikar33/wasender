@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "추가"
+   },
+   "Add_Apology": {
+      "message": "방해에 대한 사과 추가"
+   },
+   "Add_Timestamp": {
+      "message": "시간 추가"
+   },
+   "Add_number": {
+      "message": "번호 추가"
+   },
+   "All_contacts": {
+      "message": "선택된 국가의 모든 연락처"
+   },
+   "Audio": {
+      "message": "오디오"
+   },
+   "Cancel": {
+      "message": "취소"
+   },
+   "Chats": {
+      "message": "채팅 목록"
+   },
+   "Click_to_Upload": {
+      "message": "업로드하려면 클릭 / 여기에 드래그 앤 드롭"
+   },
+   "Close": {
+      "message": "닫기"
+   },
+   "Completed": {
+      "message": "완료됨"
+   },
+   "Confirm": {
+      "message": "확인"
+   },
+   "Contacts": {
+      "message": "문의"
+   },
+   "Continue": {
+      "message": "계속"
+   },
+   "Countries": {
+      "message": "국가"
+   },
+   "Details": {
+      "message": "상세 정보"
+   },
+   "Do_you_need": {
+      "message": "WhatsApp에서 대량 메시지를 효과적으로 보낼 수 있는 방법이 필요하신가요? 저희 WA 발송 도구가 바로 필요한 것입니다. 사용해보시고 대량 메시지 전송이 얼마나 간편한지 확인해보세요!"
+   },
+   "Document": {
+      "message": "문서"
+   },
+   "Download_the_template": {
+      "message": "템플릿 다운로드"
+   },
+   "Failure": {
+      "message": "실패"
+   },
+   "Feel_free": {
+      "message": "원하는 텍스트나 링크를 자유롭게 추가하세요."
+   },
+   "File_Upload": {
+      "message": "파일 업로드"
+   },
+   "Free_plans": {
+      "message": "무료 플랜은 배치당 10개의 메시지 전송을 허용합니다."
+   },
+   "Groups": {
+      "message": "그룹"
+   },
+   "Hello": {
+      "message": "안녕하세요"
+   },
+   "Image": {
+      "message": "이미지"
+   },
+   "Including_Administrators": {
+      "message": "관리자 포함"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp 번호 입력"
+   },
+   "Interested": {
+      "message": "관심 있으세요? 자세한 내용을 알아보려면 '예'라고 답장해주세요."
+   },
+   "Labels": {
+      "message": "라벨"
+   },
+   "Leave_Review": {
+      "message": "리뷰 남기기"
+   },
+   "Log_in": {
+      "message": "로그인"
+   },
+   "MessageEmptyText": {
+      "message": "메시지 내용을 입력해야 합니다."
+   },
+   "Messages": {
+      "message": "메시지"
+   },
+   "NO_DATA": {
+      "message": "데이터 없음"
+   },
+   "Not_interested": {
+      "message": "관심 없으세요? '아니오'라고 답장해주시면 더 이상 메시지를 보내지 않겠습니다."
+   },
+   "Not_now": {
+      "message": "지금은 아니요"
+   },
+   "Numbers": {
+      "message": "번호"
+   },
+   "Pause": {
+      "message": "일시 정지"
+   },
+   "Please_include": {
+      "message": "더 빠른 지원을 위해 로그인 이메일을 포함해주세요."
+   },
+   "Please_open": {
+      "message": "WhatsApp 웹을 열거나 새로 고침해주세요. 다시 시도하기 전에 비활성 상태라도 WhatsApp 웹 페이지가 하나만 열려 있는지 확인하세요."
+   },
+   "Random_sending": {
+      "message": "무작위 전송 간격 (초):"
+   },
+   "Reach_out": {
+      "message": "문의는"
+   },
+   "Review": {
+      "message": "리뷰"
+   },
+   "Save_as_template": {
+      "message": "템플릿으로 저장"
+   },
+   "Select_All": {
+      "message": "모두 선택"
+   },
+   "Select_a_template": {
+      "message": "템플릿 선택"
+   },
+   "Send": {
+      "message": "보내기"
+   },
+   "Send_to": {
+      "message": "보낼 대상"
+   },
+   "Send_to_the": {
+      "message": "상위 10명에게 보내기"
+   },
+   "Sending": {
+      "message": "전송 중"
+   },
+   "Sticker": {
+      "message": "스티커"
+   },
+   "Success": {
+      "message": "성공"
+   },
+   "Support_batch": {
+      "message": "여기에 번호를 일괄 복사하여 붙여넣을 수 있습니다."
+   },
+   "Text_Message": {
+      "message": "텍스트 메시지"
+   },
+   "Text_style": {
+      "message": "텍스트 스타일 옵션: *굵게* _기울임꼴_ ~취소선~"
+   },
+   "The_contacts": {
+      "message": "WhatsApp에서 채팅한 연락처"
+   },
+   "The_file_Max": {
+      "message": "파일 최대 20MB, 최대 100,000행"
+   },
+   "The_file_Max_20MB": {
+      "message": "파일 최대 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "파일이 잘못되었습니다. 필요에 따라 업로드해주세요."
+   },
+   "The_template_will": {
+      "message": "템플릿이 입력 상자의 텍스트 내용을 바꿉니다."
+   },
+   "The_valid": {
+      "message": "휴대폰에 저장된 유효한 WhatsApp 연락처"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "팁: WhatsApp 제한을 방지하려면 수신자 수를 줄이고 전송 간격을 늘리세요."
+   },
+   "UPGRADE": {
+      "message": "업그레이드"
+   },
+   "Upgrade": {
+      "message": "업그레이드"
+   },
+   "Upgrade_Now": {
+      "message": "지금 업그레이드"
+   },
+   "Upgrade_to_PRO": {
+      "message": "제한 없이 PRO로 업그레이드하세요."
+   },
+   "Video": {
+      "message": "비디오"
+   },
+   "View_Results": {
+      "message": "결과 보기"
+   },
+   "Voice": {
+      "message": "음성"
+   },
+   "Wait": {
+      "message": "대기"
+   },
+   "We_hope": {
+      "message": "저희 도구가 도움이 되셨기를 바랍니다! 마음에 드신다면 5성급 평점을 남겨주세요."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp 웹 없음"
+   },
+   "Your_message": {
+      "message": "메시지는 모두"
+   },
+   "Your_positive": {
+      "message": "긍정적인 피드백은 저희에게 큰 도움이 되며 개선에 도움이 됩니다."
+   },
+   "any_inquiries": {
+      "message": "에 대한 문의사항입니다."
+   },
+   "disturbsText": {
+      "message": "방해가 된다면 '아니오'라고 답장해주세요. 그러면 더 이상 메시지를 보내지 않겠습니다."
+   },
+   "finishLoginText": {
+      "message": "로그인을 완료하셨나요?"
+   },
+   "finishPaymentText": {
+      "message": "결제를 완료하셨나요?"
+   },
+   "format": {
+      "message": "형식"
+   },
+   "loginText": {
+      "message": "로그인"
+   },
+   "messages": {
+      "message": "메시지"
+   },
+   "participants": {
+      "message": "참여자"
+   },
+   "proplanText": {
+      "message": "PRO 플랜"
+   },
+   "qtDes": {
+      "message": "번호를 저장하지 않고 Excel 번호를 통해 WhatsApp 메시지를 대량으로 보냅니다. 메시지를 개인화하고 첨부 파일을 보낼 수 있습니다."
+   },
+   "qtName": {
+      "message": "WhatsApp 대량 메시지 발송 | WPPME.COM"
+   },
+   "rows": {
+      "message": "행"
+   },
+   "saveEmptyText": {
+      "message": "템플릿을 비워둘 수 없습니다."
+   },
+   "saveExistText": {
+      "message": "이 메시지 내용은 이미 존재합니다."
+   },
+   "saveMoreText": {
+      "message": "500개가 넘는 메시지 템플릿을 저장할 수 없습니다."
+   },
+   "saveSuccessText": {
+      "message": "템플릿이 성공적으로 저장되었습니다."
+   },
+   "seconds_after_every": {
+      "message": "마다"
+   },
+   "sent_at": {
+      "message": "전송 시간"
+   },
+   "will_receive": {
+      "message": "메시지를 받게 됩니다."
+   }
+}

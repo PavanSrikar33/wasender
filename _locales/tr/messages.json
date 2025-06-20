@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Ekle"
+   },
+   "Add_Apology": {
+      "message": "Rahatsızlıktan Özr Dileme Ekle"
+   },
+   "Add_Timestamp": {
+      "message": "Zaman Damgası Ekle"
+   },
+   "Add_number": {
+      "message": "Numara Ekle"
+   },
+   "All_contacts": {
+      "message": "Seçili ülkedeki tüm kişiler"
+   },
+   "Audio": {
+      "message": "Ses"
+   },
+   "Cancel": {
+      "message": "İptal"
+   },
+   "Chats": {
+      "message": "Sohbetler"
+   },
+   "Click_to_Upload": {
+      "message": "Yüklemek için tıklayın / Sürükle ve bırak"
+   },
+   "Close": {
+      "message": "Kapat"
+   },
+   "Completed": {
+      "message": "Tamamlandı"
+   },
+   "Confirm": {
+      "message": "Onayla"
+   },
+   "Contacts": {
+      "message": "İletişim"
+   },
+   "Continue": {
+      "message": "Devam Et"
+   },
+   "Countries": {
+      "message": "Ülkeler"
+   },
+   "Details": {
+      "message": "Detaylar"
+   },
+   "Do_you_need": {
+      "message": "WhatsApp'ta toplu mesaj göndermek için etkili bir yönteme mi ihtiyacınız var? WA Göndericimiz tam size göre. Deneyin ve toplu mesajlaşmanın ne kadar basit olduğunu görün!"
+   },
+   "Document": {
+      "message": "Belge"
+   },
+   "Download_the_template": {
+      "message": "Şablonu indir"
+   },
+   "Failure": {
+      "message": "Başarısız"
+   },
+   "Feel_free": {
+      "message": "İstediğiniz herhangi bir metin veya bağlantı eklemekten çekinmeyin."
+   },
+   "File_Upload": {
+      "message": "Dosya Yükle"
+   },
+   "Free_plans": {
+      "message": "Ücretsiz planlar, parti başına 10 mesaj göndermeye izin verir."
+   },
+   "Groups": {
+      "message": "Gruplar"
+   },
+   "Hello": {
+      "message": "Merhaba"
+   },
+   "Image": {
+      "message": "Resim"
+   },
+   "Including_Administrators": {
+      "message": "Yöneticiler Dahil"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp Numaraları Girin"
+   },
+   "Interested": {
+      "message": "İlgilendiniz mi? Daha fazla bilgi edinmek için 'Evet' yanıtlayın."
+   },
+   "Labels": {
+      "message": "Etiketler"
+   },
+   "Leave_Review": {
+      "message": "Yorum Yap"
+   },
+   "Log_in": {
+      "message": "Giriş Yap"
+   },
+   "MessageEmptyText": {
+      "message": "Mesaj içeriği boş olamaz."
+   },
+   "Messages": {
+      "message": "Mesajlar"
+   },
+   "NO_DATA": {
+      "message": "VERİ YOK"
+   },
+   "Not_interested": {
+      "message": "İlgilenmiyor musunuz? 'Hayır' yanıtlayın ve artık mesaj göndermeyeceğim."
+   },
+   "Not_now": {
+      "message": "Şimdi değil"
+   },
+   "Numbers": {
+      "message": "Numaralar"
+   },
+   "Pause": {
+      "message": "Duraklat"
+   },
+   "Please_include": {
+      "message": "Daha hızlı yardım için lütfen giriş e-postanızı ekleyin."
+   },
+   "Please_open": {
+      "message": "Lütfen WhatsApp Web'i açın veya yenileyin. Tekrar denemeden önce, aktif olmasa bile yalnızca bir WhatsApp Web sayfasının açık olduğundan emin olun."
+   },
+   "Random_sending": {
+      "message": "Rastgele gönderim aralığı (saniye):"
+   },
+   "Reach_out": {
+      "message": "xxx@gmail.com adresinden bize ulaşın"
+   },
+   "Review": {
+      "message": "Yorum"
+   },
+   "Save_as_template": {
+      "message": "Şablon olarak kaydet"
+   },
+   "Select_All": {
+      "message": "Tümünü Seç"
+   },
+   "Select_a_template": {
+      "message": "Şablon seçin"
+   },
+   "Send": {
+      "message": "Gönder"
+   },
+   "Send_to": {
+      "message": "Gönderilecek Kişi"
+   },
+   "Send_to_the": {
+      "message": "En İyi 10 Kişiye Gönder"
+   },
+   "Sending": {
+      "message": "Gönderiliyor"
+   },
+   "Sticker": {
+      "message": "Çıkartma"
+   },
+   "Success": {
+      "message": "Başarılı"
+   },
+   "Support_batch": {
+      "message": "Burada toplu kopyalamayı destekler"
+   },
+   "Text_Message": {
+      "message": "Metin Mesajı"
+   },
+   "Text_style": {
+      "message": "Metin stili seçenekleri: *KALIN* _italik_ ~üzeri çizili~"
+   },
+   "The_contacts": {
+      "message": "WhatsApp'ta sohbet ettiğiniz kişiler"
+   },
+   "The_file_Max": {
+      "message": "Dosya Maksimum 20MB, 100.000 satıra kadar"
+   },
+   "The_file_Max_20MB": {
+      "message": "Dosya Maksimum 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Dosya yanlış, lütfen gerektiği gibi yükleyin."
+   },
+   "The_template_will": {
+      "message": "Şablon, giriş kutusunun metin içeriğini değiştirecektir."
+   },
+   "The_valid": {
+      "message": "Telefonunuzdaki geçerli WhatsApp kişileri"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "İpucu: WhatsApp kısıtlamalarını önlemek için alıcı sayısını azaltın ve gönderimler arasındaki aralığı uzatın."
+   },
+   "UPGRADE": {
+      "message": "YÜKSELT"
+   },
+   "Upgrade": {
+      "message": "Yükselt"
+   },
+   "Upgrade_Now": {
+      "message": "Şimdi Yükselt"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Sınırsız kullanım için PRO'ya yükseltin."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Sonuçları Görüntüle"
+   },
+   "Voice": {
+      "message": "Ses Kaydı"
+   },
+   "Wait": {
+      "message": "Bekle"
+   },
+   "We_hope": {
+      "message": "Araçlarımızı faydalı bulduğunuzu umuyoruz! Eğer beğendiyseniz, lütfen bize 5 yıldızlı bir değerlendirme verin."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web Bulunamadı"
+   },
+   "Your_message": {
+      "message": "Mesajınız toplam"
+   },
+   "Your_positive": {
+      "message": "Olumlu geri bildirimleriniz bizim için çok şey ifade ediyor ve gelişmemize yardımcı oluyor."
+   },
+   "any_inquiries": {
+      "message": "için herhangi bir sorunuz için."
+   },
+   "disturbsText": {
+      "message": "Eğer rahatsız ediyorsa, lütfen 'Hayır' yanıtlayın ve size daha fazla mesaj göndermeyeceğim."
+   },
+   "finishLoginText": {
+      "message": "Giriş işlemini tamamladınız mı?"
+   },
+   "finishPaymentText": {
+      "message": "Ödemenizi tamamladınız mı?"
+   },
+   "format": {
+      "message": "biçim"
+   },
+   "loginText": {
+      "message": "Giriş"
+   },
+   "messages": {
+      "message": "mesaj"
+   },
+   "participants": {
+      "message": "katılımcıya gönderilecek."
+   },
+   "proplanText": {
+      "message": "PRO PLAN"
+   },
+   "qtDes": {
+      "message": "Numaraları kaydetmeden Excel numaraları aracılığıyla toplu WhatsApp mesajları gönderin. Mesajları kişiselleştirin ve ekler gönderin."
+   },
+   "qtName": {
+      "message": "WhatsApp Toplu Mesaj Gönderici | WPPME.COM"
+   },
+   "rows": {
+      "message": "satır"
+   },
+   "saveEmptyText": {
+      "message": "Şablon boş olamaz."
+   },
+   "saveExistText": {
+      "message": "Bu mesaj içeriği zaten mevcut."
+   },
+   "saveMoreText": {
+      "message": "500'den fazla mesaj şablonu kaydedilemez."
+   },
+   "saveSuccessText": {
+      "message": "Şablon başarıyla kaydedildi"
+   },
+   "seconds_after_every": {
+      "message": "saniye sonra her"
+   },
+   "sent_at": {
+      "message": "gönderildi"
+   },
+   "will_receive": {
+      "message": "mesajınızı alacaktır."
+   }
+}

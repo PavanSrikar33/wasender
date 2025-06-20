@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Hinzufügen"
+   },
+   "Add_Apology": {
+      "message": "Entschuldigung für die Störung hinzufügen"
+   },
+   "Add_Timestamp": {
+      "message": "Zeitstempel hinzufügen"
+   },
+   "Add_number": {
+      "message": "Nummer hinzufügen"
+   },
+   "All_contacts": {
+      "message": "Alle Kontakte im ausgewählten Land"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Abbrechen"
+   },
+   "Chats": {
+      "message": "Chats"
+   },
+   "Click_to_Upload": {
+      "message": "Zum Hochladen klicken / Hierher ziehen & ablegen"
+   },
+   "Close": {
+      "message": "Schließen"
+   },
+   "Completed": {
+      "message": "Abgeschlossen"
+   },
+   "Confirm": {
+      "message": "Bestätigen"
+   },
+   "Contacts": {
+      "message": "Kontakt"
+   },
+   "Continue": {
+      "message": "Fortfahren"
+   },
+   "Countries": {
+      "message": "Länder"
+   },
+   "Details": {
+      "message": "Details"
+   },
+   "Do_you_need": {
+      "message": "Benötigen Sie eine effektive Methode zum Versenden von Massennachrichten über WhatsApp? Unser WA Sender ist genau das Richtige für Sie. Testen Sie ihn und sehen Sie, wie einfach Massennachrichten sein können!"
+   },
+   "Document": {
+      "message": "Dokument"
+   },
+   "Download_the_template": {
+      "message": "Vorlage herunterladen"
+   },
+   "Failure": {
+      "message": "Fehlgeschlagen"
+   },
+   "Feel_free": {
+      "message": "Fügen Sie beliebigen Text oder Links hinzu."
+   },
+   "File_Upload": {
+      "message": "Dateiupload"
+   },
+   "Free_plans": {
+      "message": "Kostenlose Pläne erlauben das Senden von 10 Nachrichten pro Batch."
+   },
+   "Groups": {
+      "message": "Gruppen"
+   },
+   "Hello": {
+      "message": "Hallo"
+   },
+   "Image": {
+      "message": "Bild"
+   },
+   "Including_Administrators": {
+      "message": "inkl. Administratoren"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp-Nummern eingeben"
+   },
+   "Interested": {
+      "message": "Interessiert? Antworten Sie mit 'Ja', um mehr zu erfahren."
+   },
+   "Labels": {
+      "message": "Labels"
+   },
+   "Leave_Review": {
+      "message": "Bewertung abgeben"
+   },
+   "Log_in": {
+      "message": "Anmelden"
+   },
+   "MessageEmptyText": {
+      "message": "Der Nachrichteninhalt darf nicht leer sein."
+   },
+   "Messages": {
+      "message": "Nachrichten"
+   },
+   "NO_DATA": {
+      "message": "KEINE DATEN"
+   },
+   "Not_interested": {
+      "message": "Nicht interessiert? Antworten Sie mit 'Nein', und ich werde keine weiteren Nachrichten senden."
+   },
+   "Not_now": {
+      "message": "Jetzt nicht"
+   },
+   "Numbers": {
+      "message": "Nummern"
+   },
+   "Pause": {
+      "message": "Pause"
+   },
+   "Please_include": {
+      "message": "Bitte geben Sie Ihre Anmelde-E-Mail für schnellere Unterstützung an."
+   },
+   "Please_open": {
+      "message": "Bitte öffnen oder aktualisieren Sie WhatsApp Web. Stellen Sie sicher, dass nur eine WhatsApp Web-Seite geöffnet ist, auch wenn sie inaktiv ist, bevor Sie es erneut versuchen."
+   },
+   "Random_sending": {
+      "message": "Zufälliges Sendeintervall (Sekunden):"
+   },
+   "Reach_out": {
+      "message": "Kontaktieren Sie uns unter"
+   },
+   "Review": {
+      "message": "Bewertung"
+   },
+   "Save_as_template": {
+      "message": "Als Vorlage speichern"
+   },
+   "Select_All": {
+      "message": "Alle auswählen"
+   },
+   "Select_a_template": {
+      "message": "Vorlage auswählen"
+   },
+   "Send": {
+      "message": "Senden"
+   },
+   "Send_to": {
+      "message": "Senden an"
+   },
+   "Send_to_the": {
+      "message": "An die Top 10 Personen senden"
+   },
+   "Sending": {
+      "message": "Sende"
+   },
+   "Sticker": {
+      "message": "Sticker"
+   },
+   "Success": {
+      "message": "Erfolg"
+   },
+   "Support_batch": {
+      "message": "Unterstützung für das Kopieren mehrerer Nummern"
+   },
+   "Text_Message": {
+      "message": "Textnachricht"
+   },
+   "Text_style": {
+      "message": "Textformatierung: *FETT* _kursiv_ ~durchgestrichen~"
+   },
+   "The_contacts": {
+      "message": "Die Kontakte, mit denen Sie auf WhatsApp chatten"
+   },
+   "The_file_Max": {
+      "message": "Max. Dateigröße 20 MB, bis zu 100.000 Zeilen"
+   },
+   "The_file_Max_20MB": {
+      "message": "Max. Dateigröße 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Die Datei ist fehlerhaft, bitte laden Sie sie wie erforderlich hoch."
+   },
+   "The_template_will": {
+      "message": "Die Vorlage ersetzt den Textinhalt des Eingabefelds."
+   },
+   "The_valid": {
+      "message": "Die gültigen WhatsApp-Kontakte in Ihrem Telefon"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Tipp: Um WhatsApp-Beschränkungen zu vermeiden, reduzieren Sie die Anzahl der Empfänger und verlängern Sie das Intervall zwischen den Sendungen."
+   },
+   "UPGRADE": {
+      "message": "UPGRADE"
+   },
+   "Upgrade": {
+      "message": "Upgrade"
+   },
+   "Upgrade_Now": {
+      "message": "Jetzt upgraden"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Für unbegrenzte Möglichkeiten auf PRO upgraden."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Ergebnisse anzeigen"
+   },
+   "Voice": {
+      "message": "Sprachnachricht"
+   },
+   "Wait": {
+      "message": "Warten"
+   },
+   "We_hope": {
+      "message": "Wir hoffen, dass Sie unser Tool hilfreich finden! Wenn es Ihnen gefällt, geben Sie uns bitte eine 5-Sterne-Bewertung."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web nicht gefunden"
+   },
+   "Your_message": {
+      "message": "Ihre Nachricht wird an alle"
+   },
+   "Your_positive": {
+      "message": "Ihr positives Feedback bedeutet uns viel und hilft uns, uns zu verbessern."
+   },
+   "any_inquiries": {
+      "message": "bei Fragen."
+   },
+   "disturbsText": {
+      "message": "Wenn es Sie stört, antworten Sie bitte mit 'Nein', und ich werde Ihnen keine weiteren Nachrichten senden."
+   },
+   "finishLoginText": {
+      "message": "Haben Sie die Anmeldung abgeschlossen?"
+   },
+   "finishPaymentText": {
+      "message": "Haben Sie Ihre Zahlung abgeschlossen?"
+   },
+   "format": {
+      "message": "Format"
+   },
+   "loginText": {
+      "message": "Anmeldung"
+   },
+   "messages": {
+      "message": "Nachrichten"
+   },
+   "participants": {
+      "message": "Teilnehmer"
+   },
+   "proplanText": {
+      "message": "PRO PLAN"
+   },
+   "qtDes": {
+      "message": "Senden Sie Massennachrichten über WhatsApp über Excel-Nummern, ohne Nummern zu speichern. Personalisieren Sie Nachrichten und senden Sie Anhänge."
+   },
+   "qtName": {
+      "message": "WhatsApp Massennachrichten-Sender | WPPME.COM"
+   },
+   "rows": {
+      "message": "Zeilen"
+   },
+   "saveEmptyText": {
+      "message": "Die Vorlage darf nicht leer sein."
+   },
+   "saveExistText": {
+      "message": "Dieser Nachrichteninhalt existiert bereits."
+   },
+   "saveMoreText": {
+      "message": "Es können nicht mehr als 500 Nachrichtenvorlagen gespeichert werden."
+   },
+   "saveSuccessText": {
+      "message": "Vorlage erfolgreich gespeichert"
+   },
+   "seconds_after_every": {
+      "message": "Sekunden nach jeweils"
+   },
+   "sent_at": {
+      "message": "gesendet am"
+   },
+   "will_receive": {
+      "message": "werden Ihre Nachricht erhalten."
+   }
+}

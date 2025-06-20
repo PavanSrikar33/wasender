@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "ಸೇರಿಸು"
+   },
+   "Add_Apology": {
+      "message": "ಬಾಧೆಯಾದ್ದಕ್ಕಾಗಿ ಕ್ಷಮೆಯಾಚಿಸಿ ಸೇರಿಸಿ"
+   },
+   "Add_Timestamp": {
+      "message": "ಸಮಯ ಸೇರಿಸಿ"
+   },
+   "Add_number": {
+      "message": "ನಂಬರ್ ಸೇರಿಸಿ"
+   },
+   "All_contacts": {
+      "message": "ಆಯ್ಕೆ ಮಾಡಿದ ದೇಶದಲ್ಲಿನ ಎಲ್ಲ ಸಂಪರ್ಕಗಳು"
+   },
+   "Audio": {
+      "message": "ಆಡಿಯೋ"
+   },
+   "Cancel": {
+      "message": "ರದ್ದುಗೊಳಿಸು"
+   },
+   "Chats": {
+      "message": "ಚಾಟ್‌ಗಳು"
+   },
+   "Click_to_Upload": {
+      "message": "ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ / ಇಲ್ಲಿ ಎಳೆಯಿರಿ ಮತ್ತು ಬಿಡಿ"
+   },
+   "Close": {
+      "message": "ಮುಚ್ಚು"
+   },
+   "Completed": {
+      "message": "ಪೂರ್ಣಗೊಂಡಿದೆ"
+   },
+   "Confirm": {
+      "message": "ಖಚಿತಪಡಿಸು"
+   },
+   "Contacts": {
+      "message": "ಸಂಪರ್ಕಿಸಿ"
+   },
+   "Continue": {
+      "message": "ಮುಂದುವರಿಸಿ"
+   },
+   "Countries": {
+      "message": "ದೇಶಗಳು"
+   },
+   "Details": {
+      "message": "ವಿವರಗಳು"
+   },
+   "Do_you_need": {
+      "message": "WhatsApp ನಲ್ಲಿ ಸಾಮೂಹಿಕ ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಲು ನಿಮಗೆ ಪರಿಣಾಮಕಾರಿ ವಿಧಾನ ಬೇಕೇ? ನಮ್ಮ WA ಸೆಂಡರ್ ನಿಮಗೆ ಬೇಕಾಗಿರುವುದು. ಅದನ್ನು ಪ್ರಯತ್ನಿಸಿ ಮತ್ತು ಸಾಮೂಹಿಕ ಸಂದೇಶ ಕಳುಹಿಸುವುದು ಎಷ್ಟು ಸರಳ ಎಂದು ನೋಡಿ!"
+   },
+   "Document": {
+      "message": "ದಾಖಲೆ"
+   },
+   "Download_the_template": {
+      "message": "ಟೆಂಪ್ಲೇಟ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+   },
+   "Failure": {
+      "message": "ವಿಫಲ"
+   },
+   "Feel_free": {
+      "message": "ನೀವು ಬಯಸುವ ಯಾವುದೇ ಪಠ್ಯ ಅಥವಾ ಲಿಂಕ್‌ಗಳನ್ನು ಸೇರಿಸಲು ಹಿಂಜರಿಯಬೇಡಿ."
+   },
+   "File_Upload": {
+      "message": "ಫೈಲ್ ಅಪ್‌ಲೋಡ್"
+   },
+   "Free_plans": {
+      "message": "ಉಚಿತ ಯೋಜನೆಗಳು ಬ್ಯಾಚ್‌ಗೆ 10 ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಲು ಅನುಮತಿಸುತ್ತವೆ."
+   },
+   "Groups": {
+      "message": "ಗುಂಪುಗಳು"
+   },
+   "Hello": {
+      "message": "ಹಲೋ"
+   },
+   "Image": {
+      "message": "ಚಿತ್ರ"
+   },
+   "Including_Administrators": {
+      "message": "ಆಡಳಿತಗಾರರನ್ನು ಒಳಗೊಂಡಂತೆ"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp ಸಂಖ್ಯೆಗಳನ್ನು ನಮೂದಿಸಿ"
+   },
+   "Interested": {
+      "message": "ಆಸಕ್ತಿ ಇದೆಯೇ? ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ತಿಳಿದುಕೊಳ್ಳಲು 'ಹೌದು' ಎಂದು ಉತ್ತರಿಸಿ."
+   },
+   "Labels": {
+      "message": "ಲೇಬಲ್‌ಗಳು"
+   },
+   "Leave_Review": {
+      "message": "ಸಮೀಕ್ಷೆ ಬಿಡಿ"
+   },
+   "Log_in": {
+      "message": "ಲಾಗಿನ್ ಮಾಡಿ"
+   },
+   "MessageEmptyText": {
+      "message": "ಸಂದೇಶದ ವಿಷಯ ಖಾಲಿಯಾಗಿರಲು ಸಾಧ್ಯವಿಲ್ಲ."
+   },
+   "Messages": {
+      "message": "ಸಂದೇಶಗಳು"
+   },
+   "NO_DATA": {
+      "message": "ಯಾವುದೇ ಡೇಟಾ ಇಲ್ಲ"
+   },
+   "Not_interested": {
+      "message": "ಆಸಕ್ತಿ ಇಲ್ಲವೇ? 'ಇಲ್ಲ' ಎಂದು ಉತ್ತರಿಸಿ ಮತ್ತು ನಾನು ಮತ್ತೆ ಯಾವುದೇ ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸುವುದಿಲ್ಲ."
+   },
+   "Not_now": {
+      "message": "ಈಗ ಇಲ್ಲ"
+   },
+   "Numbers": {
+      "message": "ಸಂಖ್ಯೆಗಳು"
+   },
+   "Pause": {
+      "message": "ವಿರಾಮ"
+   },
+   "Please_include": {
+      "message": "ದ್ರುತ ಸಹಾಯಕ್ಕಾಗಿ ದಯವಿಟ್ಟು ನಿಮ್ಮ ಲಾಗಿನ್ ಇಮೇಲ್ ಅನ್ನು ಸೇರಿಸಿ."
+   },
+   "Please_open": {
+      "message": "ದಯವಿಟ್ಟು WhatsApp ವೆಬ್ ಅನ್ನು ತೆರೆಯಿರಿ ಅಥವಾ ರಿಫ್ರೆಶ್ ಮಾಡಿ. ಮರುಪ್ರಯತ್ನಿಸುವ ಮೊದಲು ಒಂದೇ ಒಂದು WhatsApp ವೆಬ್ ಪುಟ ತೆರೆದಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ, ನಿಷ್ಕ್ರಿಯವಾಗಿದ್ದರೂ ಸಹ."
+   },
+   "Random_sending": {
+      "message": "ಯಾದೃಚ್ಛಿಕವಾಗಿ ಕಳುಹಿಸುವ ಅಂತರ (ಸೆಕೆಂಡುಗಳು):"
+   },
+   "Reach_out": {
+      "message": "ಯಾವುದೇ ವಿಚಾರಣೆಗಳಿಗೆ ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ"
+   },
+   "Review": {
+      "message": "ಸಮೀಕ್ಷೆ"
+   },
+   "Save_as_template": {
+      "message": "ಟೆಂಪ್ಲೇಟ್ ಆಗಿ ಉಳಿಸು"
+   },
+   "Select_All": {
+      "message": "ಎಲ್ಲವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"
+   },
+   "Select_a_template": {
+      "message": "ಟೆಂಪ್ಲೇಟ್ ಆಯ್ಕೆ ಮಾಡಿ"
+   },
+   "Send": {
+      "message": "ಕಳುಹಿಸು"
+   },
+   "Send_to": {
+      "message": "ಕಳುಹಿಸಿ"
+   },
+   "Send_to_the": {
+      "message": "ಮೊದಲ 10 ಜನರಿಗೆ ಕಳುಹಿಸಿ"
+   },
+   "Sending": {
+      "message": "ಕಳುಹಿಸುತ್ತಿದೆ"
+   },
+   "Sticker": {
+      "message": "ಸ್ಟಿಕ್ಕರ್"
+   },
+   "Success": {
+      "message": "ಯಶಸ್ಸು"
+   },
+   "Support_batch": {
+      "message": "ಇಲ್ಲಿ ಬ್ಯಾಚ್ ನಕಲು ಬೆಂಬಲಿಸುತ್ತದೆ"
+   },
+   "Text_Message": {
+      "message": "ಪಠ್ಯ ಸಂದೇಶ"
+   },
+   "Text_style": {
+      "message": "ಪಠ್ಯ ಶೈಲಿ ಆಯ್ಕೆಗಳು: *ದಪ್ಪ* _ಇಟಾಲಿಕ್_ ~ಕ್ಷೀಣಿಸಿದ~"
+   },
+   "The_contacts": {
+      "message": "ನೀವು WhatsApp ನಲ್ಲಿ ಚಾಟ್ ಮಾಡುವ ಸಂಪರ್ಕಗಳು"
+   },
+   "The_file_Max": {
+      "message": "ಫೈಲ್ ಗರಿಷ್ಠ 20MB, ಗರಿಷ್ಠ 100,000 ಸಾಲುಗಳು"
+   },
+   "The_file_Max_20MB": {
+      "message": "ಫೈಲ್ ಗರಿಷ್ಠ 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "ಫೈಲ್ ತಪ್ಪಾಗಿದೆ, ದಯವಿಟ್ಟು ಅಗತ್ಯವಿರುವಂತೆ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ."
+   },
+   "The_template_will": {
+      "message": "ಟೆಂಪ್ಲೇಟ್ ಇನ್‌ಪುಟ್ ಬಾಕ್ಸ್‌ನ ಪಠ್ಯ ವಿಷಯವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ."
+   },
+   "The_valid": {
+      "message": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿನ ಮಾನ್ಯವಾದ WhatsApp ಸಂಪರ್ಕಗಳು"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "ಸಲಹೆ: WhatsApp ನಿರ್ಬಂಧಗಳನ್ನು ತಪ್ಪಿಸಲು, ಸ್ವೀಕರ್ತರ ಸಂಖ್ಯೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಿ ಮತ್ತು ಕಳುಹಿಸುವಿಕೆಗಳ ನಡುವಿನ ಅಂತರವನ್ನು ವಿಸ್ತರಿಸಿ."
+   },
+   "UPGRADE": {
+      "message": "ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+   },
+   "Upgrade": {
+      "message": "ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+   },
+   "Upgrade_Now": {
+      "message": "ಈಗ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+   },
+   "Upgrade_to_PRO": {
+      "message": "ಯಾವುದೇ ಮಿತಿಗಳಿಲ್ಲದೆ PRO ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+   },
+   "Video": {
+      "message": "ವೀಡಿಯೋ"
+   },
+   "View_Results": {
+      "message": "ಫಲಿತಾಂಶಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
+   },
+   "Voice": {
+      "message": "ಧ್ವನಿ"
+   },
+   "Wait": {
+      "message": "ಕಾಯಿರಿ"
+   },
+   "We_hope": {
+      "message": "ನಮ್ಮ ಉಪಕರಣವು ಸಹಾಯಕವಾಗಿದೆ ಎಂದು ನಾವು ಭಾವಿಸುತ್ತೇವೆ! ನಿಮಗೆ ಇಷ್ಟವಾಗಿದ್ದರೆ, ದಯವಿಟ್ಟು ನಮಗೆ 5-ಸ್ಟಾರ್ ರೇಟಿಂಗ್ ನೀಡಲು ಪರಿಗಣಿಸಿ."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp ವೆಬ್ ಸಿಗಲಿಲ್ಲ"
+   },
+   "Your_message": {
+      "message": "ನಿಮ್ಮ ಸಂದೇಶವನ್ನು ಎಲ್ಲಾ"
+   },
+   "Your_positive": {
+      "message": "ನಿಮ್ಮ ಸಕಾರಾತ್ಮಕ ಪ್ರತಿಕ್ರಿಯೆಯು ನಮಗೆ ಬಹಳಷ್ಟು ಅರ್ಥ ಮತ್ತು ನಮಗೆ ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+   },
+   "any_inquiries": {
+      "message": "ಯಾವುದೇ ವಿಚಾರಣೆಗಳಿಗೆ."
+   },
+   "disturbsText": {
+      "message": "ಅದು ನಿಮಗೆ ತೊಂದರೆ ಕೊಟ್ಟರೆ, ದಯವಿಟ್ಟು 'ಇಲ್ಲ' ಎಂದು ಉತ್ತರಿಸಿ ಮತ್ತು ನಾನು ನಿಮಗೆ ಮತ್ತೆ ಯಾವುದೇ ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸುವುದಿಲ್ಲ."
+   },
+   "finishLoginText": {
+      "message": "ನೀವು ಲಾಗಿನ್ ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಾ?"
+   },
+   "finishPaymentText": {
+      "message": "ನೀವು ನಿಮ್ಮ ಪಾವತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಾ?"
+   },
+   "format": {
+      "message": "ರೂಪ"
+   },
+   "loginText": {
+      "message": "ಲಾಗಿನ್"
+   },
+   "messages": {
+      "message": "ಸಂದೇಶಗಳು"
+   },
+   "participants": {
+      "message": "ಭಾಗವಹಿಸುವವರು"
+   },
+   "proplanText": {
+      "message": "PRO ಯೋಜನೆ"
+   },
+   "qtDes": {
+      "message": "ಸಂಖ್ಯೆಗಳನ್ನು ಉಳಿಸದೆ ಎಕ್ಸೆಲ್ ಸಂಖ್ಯೆಗಳ ಮೂಲಕ WhatsApp ಸಂದೇಶಗಳನ್ನು ಸಾಮೂಹಿಕವಾಗಿ ಕಳುಹಿಸಿ. ಸಂದೇಶಗಳನ್ನು ವೈಯಕ್ತಿಕಗೊಳಿಸಿ ಮತ್ತು ಲಗತ್ತುಗಳನ್ನು ಕಳುಹಿಸಿ."
+   },
+   "qtName": {
+      "message": "WhatsApp ಸಾಮೂಹಿಕ ಸಂದೇಶ ಕಳುಹಿಸುವವರು | WPPME.COM"
+   },
+   "rows": {
+      "message": "ಸಾಲುಗಳು"
+   },
+   "saveEmptyText": {
+      "message": "ಟೆಂಪ್ಲೇಟ್ ಖಾಲಿಯಾಗಿರಲು ಸಾಧ್ಯವಿಲ್ಲ."
+   },
+   "saveExistText": {
+      "message": "ಈ ಸಂದೇಶದ ವಿಷಯ ಈಗಾಗಲೇ ಇದೆ."
+   },
+   "saveMoreText": {
+      "message": "500 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಂದೇಶ ಟೆಂಪ್ಲೇಟ್‌ಗಳನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+   },
+   "saveSuccessText": {
+      "message": "ಟೆಂಪ್ಲೇಟ್ ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ"
+   },
+   "seconds_after_every": {
+      "message": "ಪ್ರತಿಯೊಂದರ ನಂತರ ಸೆಕೆಂಡುಗಳು"
+   },
+   "sent_at": {
+      "message": "ಕಳುಹಿಸಲಾಗಿದೆ"
+   },
+   "will_receive": {
+      "message": "ನಿಮ್ಮ ಸಂದೇಶವನ್ನು ಸ್ವೀಕರಿಸುತ್ತದೆ."
+   }
+}

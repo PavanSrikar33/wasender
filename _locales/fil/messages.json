@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Idagdag"
+   },
+   "Add_Apology": {
+      "message": "Magdagdag ng Paumanhin sa Panggugulo"
+   },
+   "Add_Timestamp": {
+      "message": "Magdagdag ng Petsa at Oras"
+   },
+   "Add_number": {
+      "message": "Magdagdag ng Numero"
+   },
+   "All_contacts": {
+      "message": "Lahat ng contact sa napiling bansa"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Kanselahin"
+   },
+   "Chats": {
+      "message": "Chats"
+   },
+   "Click_to_Upload": {
+      "message": "Mag-click para mag-upload / I-drag & i-drop dito"
+   },
+   "Close": {
+      "message": "Isara"
+   },
+   "Completed": {
+      "message": "Nakumpleto"
+   },
+   "Confirm": {
+      "message": "Kumpirma"
+   },
+   "Contacts": {
+      "message": "Makipag-ugnayan"
+   },
+   "Continue": {
+      "message": "Ipagpatuloy"
+   },
+   "Countries": {
+      "message": "Mga Bansa"
+   },
+   "Details": {
+      "message": "Mga Detalye"
+   },
+   "Do_you_need": {
+      "message": "Kailangan mo ba ng epektibong paraan para magpadala ng mga mensahe nang maramihan sa WhatsApp? Ang aming WA Sender ang kailangan mo. Subukan ito at tingnan kung gaano kadali ang pagpapadala ng mensahe nang maramihan!"
+   },
+   "Document": {
+      "message": "Dokumento"
+   },
+   "Download_the_template": {
+      "message": "I-download ang template"
+   },
+   "Failure": {
+      "message": "Nabigo"
+   },
+   "Feel_free": {
+      "message": "Huwag mag-atubiling magdagdag ng anumang teksto o link na gusto mo."
+   },
+   "File_Upload": {
+      "message": "Pag-upload ng File"
+   },
+   "Free_plans": {
+      "message": "Ang mga libreng plano ay nagpapahintulot sa pagpapadala ng 10 na mensahe bawat batch."
+   },
+   "Groups": {
+      "message": "Mga Grupo"
+   },
+   "Hello": {
+      "message": "Hello"
+   },
+   "Image": {
+      "message": "Larawan"
+   },
+   "Including_Administrators": {
+      "message": "Kasama ang mga Administrator"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Ipasok ang mga Numero ng WhatsApp"
+   },
+   "Interested": {
+      "message": "Interesado? Tumugon ng 'Oo' para matuto pa."
+   },
+   "Labels": {
+      "message": "Mga Label"
+   },
+   "Leave_Review": {
+      "message": "Mag-iwan ng Review"
+   },
+   "Log_in": {
+      "message": "Mag-log in"
+   },
+   "MessageEmptyText": {
+      "message": "Ang nilalaman ng mensahe ay hindi maaaring walang laman."
+   },
+   "Messages": {
+      "message": "Mga Mensahe"
+   },
+   "NO_DATA": {
+      "message": "WALANG DATA"
+   },
+   "Not_interested": {
+      "message": "Hindi interesado? Tumugon ng 'Hindi' at hindi na ako magpapadala ng anumang karagdagang mensahe."
+   },
+   "Not_now": {
+      "message": "Mamaya na lang"
+   },
+   "Numbers": {
+      "message": "Mga Numero"
+   },
+   "Pause": {
+      "message": "I-pause"
+   },
+   "Please_include": {
+      "message": "Mangyaring isama ang iyong email sa pag-login para sa mas mabilis na tulong."
+   },
+   "Please_open": {
+      "message": "Mangyaring buksan o i-refresh ang WhatsApp Web. Tiyaking isa lang ang bukas na pahina ng WhatsApp Web, kahit na hindi aktibo, bago subukang muli."
+   },
+   "Random_sending": {
+      "message": "Random na agwat ng pagpapadala (segundo):"
+   },
+   "Reach_out": {
+      "message": "Makipag-ugnayan sa amin sa"
+   },
+   "Review": {
+      "message": "Review"
+   },
+   "Save_as_template": {
+      "message": "I-save bilang template"
+   },
+   "Select_All": {
+      "message": "Piliin Lahat"
+   },
+   "Select_a_template": {
+      "message": "Pumili ng template"
+   },
+   "Send": {
+      "message": "Ipadala"
+   },
+   "Send_to": {
+      "message": "Ipadala sa"
+   },
+   "Send_to_the": {
+      "message": "Ipadala sa Nangungunang 10 na Tao"
+   },
+   "Sending": {
+      "message": "Nagpapadala"
+   },
+   "Sticker": {
+      "message": "Sticker"
+   },
+   "Success": {
+      "message": "Tagumpay"
+   },
+   "Support_batch": {
+      "message": "Suportado ang pagkopya ng batch dito"
+   },
+   "Text_Message": {
+      "message": "Mensahe sa Teksto"
+   },
+   "Text_style": {
+      "message": "Mga opsyon sa istilo ng teksto: *BOLD* _italic_ ~strikethrough~"
+   },
+   "The_contacts": {
+      "message": "Ang mga contact na iyong nakakausap sa WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Ang maximum na laki ng file ay 20MB, hanggang sa 100,000 na hilera"
+   },
+   "The_file_Max_20MB": {
+      "message": "Ang maximum na laki ng file ay 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Mali ang file, mangyaring i-upload ayon sa hinihingi."
+   },
+   "The_template_will": {
+      "message": "Palitan ng template ang nilalaman ng teksto ng input box."
+   },
+   "The_valid": {
+      "message": "Ang mga valid na contact ng WhatsApp sa iyong telepono"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Tip: Upang maiwasan ang mga paghihigpit ng WhatsApp, bawasan ang bilang ng mga tatanggap at pahabain ang agwat sa pagitan ng mga pagpapadala."
+   },
+   "UPGRADE": {
+      "message": "PAG-UPGRADE"
+   },
+   "Upgrade": {
+      "message": "Mag-upgrade"
+   },
+   "Upgrade_Now": {
+      "message": "Mag-upgrade Ngayon"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Mag-upgrade sa PRO para walang limitasyon."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Tingnan ang mga Resulta"
+   },
+   "Voice": {
+      "message": "Voice"
+   },
+   "Wait": {
+      "message": "Hintayin"
+   },
+   "We_hope": {
+      "message": "Umaasa kami na kapaki-pakinabang mo ang aming tool! Kung gusto mo ito, mangyaring isaalang-alang ang pagbibigay sa amin ng 5-star rating."
+   },
+   "WhatsApp_Web": {
+      "message": "Hindi Natagpuan ang WhatsApp Web"
+   },
+   "Your_message": {
+      "message": "Ang iyong mensahe ay ipapadala sa lahat ng"
+   },
+   "Your_positive": {
+      "message": "Ang iyong positibong feedback ay mahalaga sa amin at tumutulong sa amin na mapabuti."
+   },
+   "any_inquiries": {
+      "message": "para sa anumang mga katanungan."
+   },
+   "disturbsText": {
+      "message": "Kung nakakaabala ito sa iyo, mangyaring tumugon ng 'Hindi' at hindi na ako magpapadala sa iyo ng anumang karagdagang mensahe."
+   },
+   "finishLoginText": {
+      "message": "Natapos mo na bang mag-log in?"
+   },
+   "finishPaymentText": {
+      "message": "Natapos mo na ba ang iyong pagbabayad?"
+   },
+   "format": {
+      "message": "format"
+   },
+   "loginText": {
+      "message": "Pag-login"
+   },
+   "messages": {
+      "message": "mensahe"
+   },
+   "participants": {
+      "message": "mga kalahok"
+   },
+   "proplanText": {
+      "message": "PLANONG PRO"
+   },
+   "qtDes": {
+      "message": "Magpadala ng mga mensahe sa WhatsApp nang maramihan gamit ang mga numero sa Excel, nang hindi ini-save ang mga numero. I-personalize ang mga mensahe at magpadala ng mga attachment."
+   },
+   "qtName": {
+      "message": "WhatsApp Bulk Message Sender | WPPME.COM"
+   },
+   "rows": {
+      "message": "mga hilera"
+   },
+   "saveEmptyText": {
+      "message": "Ang template ay hindi maaaring walang laman."
+   },
+   "saveExistText": {
+      "message": "Ang nilalaman ng mensaheng ito ay umiiral na."
+   },
+   "saveMoreText": {
+      "message": "Hindi maaaring mag-save ng higit sa 500 na template ng mensahe."
+   },
+   "saveSuccessText": {
+      "message": "Matagumpay na na-save ang template"
+   },
+   "seconds_after_every": {
+      "message": "segundo pagkatapos ng bawat"
+   },
+   "sent_at": {
+      "message": "ipinadala noong"
+   },
+   "will_receive": {
+      "message": "ay makakatanggap ng iyong mensahe."
+   }
+}

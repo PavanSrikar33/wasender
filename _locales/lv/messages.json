@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Pievienot"
+   },
+   "Add_Apology": {
+      "message": "Pievienot atvainošanos par traucējumiem"
+   },
+   "Add_Timestamp": {
+      "message": "Pievienot laika zīmogu"
+   },
+   "Add_number": {
+      "message": "Pievienot numuru"
+   },
+   "All_contacts": {
+      "message": "Visi kontakti izvēlētajā valstī"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Atcelt"
+   },
+   "Chats": {
+      "message": "Tērzēšanas sarunas"
+   },
+   "Click_to_Upload": {
+      "message": "Noklikšķiniet, lai augšupielādētu / Pavelciet un nometiet šeit"
+   },
+   "Close": {
+      "message": "Aizvērt"
+   },
+   "Completed": {
+      "message": "Pabeigts"
+   },
+   "Confirm": {
+      "message": "Apstiprināt"
+   },
+   "Contacts": {
+      "message": "Kontakti"
+   },
+   "Continue": {
+      "message": "Turpināt"
+   },
+   "Countries": {
+      "message": "Valstis"
+   },
+   "Details": {
+      "message": "Detalizēti"
+   },
+   "Do_you_need": {
+      "message": "Vai jums nepieciešama efektīva metode WhatsApp masu ziņojumu sūtīšanai? Mūsu WA sūtītājs ir tieši tas, kas jums nepieciešams. Izmēģiniet to un pārliecinieties, cik vienkārša var būt masu ziņojumu sūtīšana!"
+   },
+   "Document": {
+      "message": "Dokuments"
+   },
+   "Download_the_template": {
+      "message": "Lejupielādēt veidni"
+   },
+   "Failure": {
+      "message": "Neizdevās"
+   },
+   "Feel_free": {
+      "message": "Jūtieties brīvi pievienot jebkuru tekstu vai saites."
+   },
+   "File_Upload": {
+      "message": "Faila augšupielāde"
+   },
+   "Free_plans": {
+      "message": "Bezmaksas plāni ļauj sūtīt 10 ziņojumus uz partiju."
+   },
+   "Groups": {
+      "message": "Grupas"
+   },
+   "Hello": {
+      "message": "Sveiki"
+   },
+   "Image": {
+      "message": "Attēls"
+   },
+   "Including_Administrators": {
+      "message": "Ieskaitot administratorus"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Ievadīt WhatsApp numurus"
+   },
+   "Interested": {
+      "message": "Interesē? Atbildiet ar “Jā”, lai uzzinātu vairāk."
+   },
+   "Labels": {
+      "message": "Etiķetes"
+   },
+   "Leave_Review": {
+      "message": "Atstāt atsauksmi"
+   },
+   "Log_in": {
+      "message": "Pieteikties"
+   },
+   "MessageEmptyText": {
+      "message": "Ziņojuma saturs nevar būt tukšs."
+   },
+   "Messages": {
+      "message": "Ziņojumi"
+   },
+   "NO_DATA": {
+      "message": "NAV DATU"
+   },
+   "Not_interested": {
+      "message": "Neinteresē? Atbildiet ar “Nē”, un es vairs nesūtīšu ziņojumus."
+   },
+   "Not_now": {
+      "message": "Ne tagad"
+   },
+   "Numbers": {
+      "message": "Numuri"
+   },
+   "Pause": {
+      "message": "Pauze"
+   },
+   "Please_include": {
+      "message": "Lūdzu, norādiet savu pieteikšanās e-pastu ātrākai palīdzībai."
+   },
+   "Please_open": {
+      "message": "Lūdzu, atveriet vai atsvaidziniet WhatsApp Web. Pārliecinieties, ka ir atvērta tikai viena WhatsApp Web lapa, pat ja tā nav aktīva, pirms mēģināt vēlreiz."
+   },
+   "Random_sending": {
+      "message": "Nejaušs sūtīšanas intervāls (sekundes):"
+   },
+   "Reach_out": {
+      "message": "Sazinieties ar mums pa"
+   },
+   "Review": {
+      "message": "Atsauksme"
+   },
+   "Save_as_template": {
+      "message": "Saglabāt kā veidni"
+   },
+   "Select_All": {
+      "message": "Izvēlēties visu"
+   },
+   "Select_a_template": {
+      "message": "Izvēlēties veidni"
+   },
+   "Send": {
+      "message": "Sūtīt"
+   },
+   "Send_to": {
+      "message": "Sūtīt uz"
+   },
+   "Send_to_the": {
+      "message": "Sūtīt 10 labākajiem cilvēkiem"
+   },
+   "Sending": {
+      "message": "Sūta"
+   },
+   "Sticker": {
+      "message": "Uzlejams"
+   },
+   "Success": {
+      "message": "Veiksmīgi"
+   },
+   "Support_batch": {
+      "message": "Atbalsta partijas kopēšanu šeit"
+   },
+   "Text_Message": {
+      "message": "Teksta ziņa"
+   },
+   "Text_style": {
+      "message": "Teksta stila opcijas: *TREKNRAKSTS* _kursīvs_ ~pārsvītrots~"
+   },
+   "The_contacts": {
+      "message": "Kontakti, ar kuriem jūs tērzējat WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Faila maksimālais izmērs 20 MB, līdz 100 000 rindām"
+   },
+   "The_file_Max_20MB": {
+      "message": "Faila maksimālais izmērs 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Fails ir nepareizs, lūdzu, augšupielādējiet kā nepieciešams."
+   },
+   "The_template_will": {
+      "message": "Veidne aizstās ievades lodziņa teksta saturu."
+   },
+   "The_valid": {
+      "message": "Derīgie WhatsApp kontakti jūsu tālrunī"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Padoms: Lai novērstu WhatsApp ierobežojumus, samaziniet saņēmēju skaitu un pagariniet intervālu starp sūtījumiem."
+   },
+   "UPGRADE": {
+      "message": "ATJAUNOT"
+   },
+   "Upgrade": {
+      "message": "Atjaunot"
+   },
+   "Upgrade_Now": {
+      "message": "Atjaunot tūlīt"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Atjaunot uz PRO, lai nebūtu ierobežojumu."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Skatīt rezultātus"
+   },
+   "Voice": {
+      "message": "Balss"
+   },
+   "Wait": {
+      "message": "Gaidīt"
+   },
+   "We_hope": {
+      "message": "Mēs ceram, ka jūs uzskatāt mūsu rīku par noderīgu! Ja jums tas patīk, lūdzu, apsveriet iespēju mums piešķirt 5 zvaigžņu vērtējumu."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web nav atrasts"
+   },
+   "Your_message": {
+      "message": "Jūsu ziņa tiks nosūtīta visiem"
+   },
+   "Your_positive": {
+      "message": "Jūsu pozitīvā atsauksme mums ļoti daudz nozīmē un palīdz mums uzlaboties."
+   },
+   "any_inquiries": {
+      "message": "jebkādiem jautājumiem."
+   },
+   "disturbsText": {
+      "message": "Ja tas jūs traucē, lūdzu, atbildiet ar “Nē”, un es jums vairs nesūtīšu ziņojumus."
+   },
+   "finishLoginText": {
+      "message": "Vai esat pabeidzis pieteikšanos?"
+   },
+   "finishPaymentText": {
+      "message": "Vai esat pabeidzis maksājumu?"
+   },
+   "format": {
+      "message": "formāts"
+   },
+   "loginText": {
+      "message": "Pieteikšanās"
+   },
+   "messages": {
+      "message": "ziņojumiem"
+   },
+   "participants": {
+      "message": "dalībniekiem"
+   },
+   "proplanText": {
+      "message": "PRO PLĀNS"
+   },
+   "qtDes": {
+      "message": "Masveida WhatsApp ziņojumu sūtīšana, izmantojot Excel numurus, bez numuru saglabāšanas. Personalizējiet ziņojumus un sūtiet pielikumus."
+   },
+   "qtName": {
+      "message": "WhatsApp masu ziņojumu sūtītājs | WPPME.COM"
+   },
+   "rows": {
+      "message": "rindām"
+   },
+   "saveEmptyText": {
+      "message": "Veidne nevar būt tukša."
+   },
+   "saveExistText": {
+      "message": "Šis ziņojuma saturs jau pastāv."
+   },
+   "saveMoreText": {
+      "message": "Nevar saglabāt vairāk par 500 ziņojumu veidnēm."
+   },
+   "saveSuccessText": {
+      "message": "Veidne saglabāta veiksmīgi"
+   },
+   "seconds_after_every": {
+      "message": "sekundes pēc katrām"
+   },
+   "sent_at": {
+      "message": "sūtīts plkst."
+   },
+   "will_receive": {
+      "message": "saņems jūsu ziņojumu."
+   }
+}

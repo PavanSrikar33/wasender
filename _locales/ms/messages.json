@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Tambah"
+   },
+   "Add_Apology": {
+      "message": "Tambah Permohonan Maaf Atas Gangguan"
+   },
+   "Add_Timestamp": {
+      "message": "Tambah Cap Masa"
+   },
+   "Add_number": {
+      "message": "Tambah nombor"
+   },
+   "All_contacts": {
+      "message": "Semua kenalan di negara terpilih"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Batal"
+   },
+   "Chats": {
+      "message": "Sembang"
+   },
+   "Click_to_Upload": {
+      "message": "Klik untuk Muat Naik / Seret & Lepas di Sini"
+   },
+   "Close": {
+      "message": "Tutup"
+   },
+   "Completed": {
+      "message": "Selesai"
+   },
+   "Confirm": {
+      "message": "Sahkan"
+   },
+   "Contacts": {
+      "message": "Hubungi Kami"
+   },
+   "Continue": {
+      "message": "Teruskan"
+   },
+   "Countries": {
+      "message": "Negara"
+   },
+   "Details": {
+      "message": "Butiran"
+   },
+   "Do_you_need": {
+      "message": "Adakah anda memerlukan kaedah berkesan untuk menghantar mesej pukal di WhatsApp? Penghantar WA kami adalah apa yang anda perlukan. Cubalah dan lihat betapa mudahnya penghantaran mesej besar-besaran!"
+   },
+   "Document": {
+      "message": "Dokumen"
+   },
+   "Download_the_template": {
+      "message": "Muat turun templat"
+   },
+   "Failure": {
+      "message": "Gagal"
+   },
+   "Feel_free": {
+      "message": "Jangan ragu untuk menambah sebarang teks atau pautan yang anda inginkan."
+   },
+   "File_Upload": {
+      "message": "Muat Naik Fail"
+   },
+   "Free_plans": {
+      "message": "Pelan percuma membenarkan penghantaran 10 mesej setiap kumpulan."
+   },
+   "Groups": {
+      "message": "Kumpulan"
+   },
+   "Hello": {
+      "message": "Hai"
+   },
+   "Image": {
+      "message": "Imej"
+   },
+   "Including_Administrators": {
+      "message": "Termasuk Pentadbir"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Masukkan Nombor WhatsApp"
+   },
+   "Interested": {
+      "message": "Berminat? Balas 'Ya' untuk mengetahui lebih lanjut."
+   },
+   "Labels": {
+      "message": "Label"
+   },
+   "Leave_Review": {
+      "message": "Tinggalkan Ulasan"
+   },
+   "Log_in": {
+      "message": "Log masuk"
+   },
+   "MessageEmptyText": {
+      "message": "Kandungan mesej tidak boleh kosong."
+   },
+   "Messages": {
+      "message": "Mesej"
+   },
+   "NO_DATA": {
+      "message": "TIADA DATA"
+   },
+   "Not_interested": {
+      "message": "Tidak berminat? Balas 'Tidak' dan saya tidak akan menghantar sebarang mesej lagi."
+   },
+   "Not_now": {
+      "message": "Tidak sekarang"
+   },
+   "Numbers": {
+      "message": "Nombor"
+   },
+   "Pause": {
+      "message": "Jeda"
+   },
+   "Please_include": {
+      "message": "Sila sertakan emel log masuk anda untuk bantuan yang lebih cepat."
+   },
+   "Please_open": {
+      "message": "Sila buka atau muat semula WhatsApp Web. Pastikan hanya satu halaman WhatsApp Web dibuka, walaupun tidak aktif, sebelum mencuba semula."
+   },
+   "Random_sending": {
+      "message": "Selang penghantaran rawak (saat):"
+   },
+   "Reach_out": {
+      "message": "Hubungi kami di"
+   },
+   "Review": {
+      "message": "Ulasan"
+   },
+   "Save_as_template": {
+      "message": "Simpan sebagai templat"
+   },
+   "Select_All": {
+      "message": "Pilih Semua"
+   },
+   "Select_a_template": {
+      "message": "Pilih templat"
+   },
+   "Send": {
+      "message": "Hantar"
+   },
+   "Send_to": {
+      "message": "Hantar kepada"
+   },
+   "Send_to_the": {
+      "message": "Hantar kepada 10 Orang Teratas"
+   },
+   "Sending": {
+      "message": "Mengirim"
+   },
+   "Sticker": {
+      "message": "Pelekat"
+   },
+   "Success": {
+      "message": "Berjaya"
+   },
+   "Support_batch": {
+      "message": "Sokongan salinan kelompok di sini"
+   },
+   "Text_Message": {
+      "message": "Mesej Teks"
+   },
+   "Text_style": {
+      "message": "Pilihan gaya teks: *TEBAL* _condong_ ~coret~"
+   },
+   "The_contacts": {
+      "message": "Kenalan yang anda sembang di WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Fail Maks 20MB, sehingga 100,000 baris"
+   },
+   "The_file_Max_20MB": {
+      "message": "Fail Maks 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Fail tidak betul, sila muat naik seperti yang diperlukan."
+   },
+   "The_template_will": {
+      "message": "Templat akan menggantikan kandungan teks dalam kotak input."
+   },
+   "The_valid": {
+      "message": "Kenalan WhatsApp yang sah dalam telefon anda"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Petua: Untuk mengelakkan sekatan WhatsApp, kurangkan bilangan penerima dan panjangkan selang antara penghantaran."
+   },
+   "UPGRADE": {
+      "message": "TINGKATKAN"
+   },
+   "Upgrade": {
+      "message": "Tingkatkan"
+   },
+   "Upgrade_Now": {
+      "message": "Tingkatkan Sekarang"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Tingkatkan ke PRO tanpa had."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Lihat Keputusan"
+   },
+   "Voice": {
+      "message": "Suara"
+   },
+   "Wait": {
+      "message": "Tunggu"
+   },
+   "We_hope": {
+      "message": "Kami harap anda mendapati alat kami berguna! Jika anda menyukainya, sila pertimbangkan untuk memberi kami penarafan 5 bintang."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web Tidak Ditemui"
+   },
+   "Your_message": {
+      "message": "Mesej anda akan dihantar kepada semua"
+   },
+   "Your_positive": {
+      "message": "Maklum balas positif anda sangat bermakna kepada kami dan membantu kami untuk memperbaiki."
+   },
+   "any_inquiries": {
+      "message": "untuk sebarang pertanyaan."
+   },
+   "disturbsText": {
+      "message": "Jika ia mengganggu anda, sila balas 'Tidak' dan saya tidak akan menghantar sebarang mesej lagi."
+   },
+   "finishLoginText": {
+      "message": "Adakah anda sudah selesai log masuk?"
+   },
+   "finishPaymentText": {
+      "message": "Adakah anda sudah selesai pembayaran?"
+   },
+   "format": {
+      "message": "format"
+   },
+   "loginText": {
+      "message": "Log Masuk"
+   },
+   "messages": {
+      "message": "mesej"
+   },
+   "participants": {
+      "message": "peserta"
+   },
+   "proplanText": {
+      "message": "PELAN PRO"
+   },
+   "qtDes": {
+      "message": "Hantar mesej WhatsApp pukal melalui nombor Excel, tanpa menyimpan nombor. Peribadikan mesej dan hantar lampiran."
+   },
+   "qtName": {
+      "message": "Penghantar Mesej Pukal WhatsApp | WPPME.COM"
+   },
+   "rows": {
+      "message": "baris"
+   },
+   "saveEmptyText": {
+      "message": "Templat tidak boleh kosong."
+   },
+   "saveExistText": {
+      "message": "Kandungan mesej ini sudah wujud."
+   },
+   "saveMoreText": {
+      "message": "Tidak boleh menyimpan lebih daripada 500 templat mesej."
+   },
+   "saveSuccessText": {
+      "message": "Templat disimpan dengan jayanya"
+   },
+   "seconds_after_every": {
+      "message": "saat selepas setiap"
+   },
+   "sent_at": {
+      "message": "dihantar pada"
+   },
+   "will_receive": {
+      "message": "akan menerima mesej anda."
+   }
+}

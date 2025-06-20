@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "जोडा"
+   },
+   "Add_Apology": {
+      "message": "अडचणीबद्दल माफी मागण्यासाठी जोडा"
+   },
+   "Add_Timestamp": {
+      "message": "वेळ जोडा"
+   },
+   "Add_number": {
+      "message": "नंबर जोडा"
+   },
+   "All_contacts": {
+      "message": "निर्दिष्ट देशातील सर्व संपर्क"
+   },
+   "Audio": {
+      "message": "ऑडिओ"
+   },
+   "Cancel": {
+      "message": "रद्द करा"
+   },
+   "Chats": {
+      "message": "चॅट्स"
+   },
+   "Click_to_Upload": {
+      "message": "अपलोड करण्यासाठी क्लिक करा / ड्रॅग आणि ड्रॉप करा"
+   },
+   "Close": {
+      "message": "बंद करा"
+   },
+   "Completed": {
+      "message": "पूर्ण झाले"
+   },
+   "Confirm": {
+      "message": "सत्यापित करा"
+   },
+   "Contacts": {
+      "message": "संपर्क साधा"
+   },
+   "Continue": {
+      "message": "पुढे जा"
+   },
+   "Countries": {
+      "message": "देश"
+   },
+   "Details": {
+      "message": "तपशील"
+   },
+   "Do_you_need": {
+      "message": "तुम्हाला WhatsApp वर मोठ्या प्रमाणात संदेश पाठवण्यासाठी प्रभावी पद्धत हवी आहे का? आमचा WA Sender हेच तुम्हाला हवे आहे ते आहे. ते वापरून पहा आणि मोठ्या प्रमाणात संदेश पाठवणे किती सोपे आहे हे पहा!"
+   },
+   "Document": {
+      "message": "डॉक्युमेंट"
+   },
+   "Download_the_template": {
+      "message": "टेम्पलेट डाउनलोड करा"
+   },
+   "Failure": {
+      "message": "अपयश"
+   },
+   "Feel_free": {
+      "message": "तुम्हाला आवडेल असा कोणताही मजकूर किंवा दुवे जोडण्यास मोकळे रहा."
+   },
+   "File_Upload": {
+      "message": "फाइल अपलोड करा"
+   },
+   "Free_plans": {
+      "message": "मुक्त योजना प्रति बॅच 10 संदेश पाठवण्याची परवानगी देतात."
+   },
+   "Groups": {
+      "message": "गट"
+   },
+   "Hello": {
+      "message": "नमस्कार"
+   },
+   "Image": {
+      "message": "चित्र"
+   },
+   "Including_Administrators": {
+      "message": "प्रशासकांसह"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp नंबर टाका"
+   },
+   "Interested": {
+      "message": "रस आहे का? अधिक जाणून घेण्यासाठी 'होय' उत्तर द्या."
+   },
+   "Labels": {
+      "message": "लेबल्स"
+   },
+   "Leave_Review": {
+      "message": "समीक्षा द्या"
+   },
+   "Log_in": {
+      "message": "लॉग इन करा"
+   },
+   "MessageEmptyText": {
+      "message": "संदेश रिकामा असू शकत नाही."
+   },
+   "Messages": {
+      "message": "संदेश"
+   },
+   "NO_DATA": {
+      "message": "डेटा नाही"
+   },
+   "Not_interested": {
+      "message": "रस नाही का? 'नाही' उत्तर द्या आणि मी पुढे कोणतेही संदेश पाठवणार नाही."
+   },
+   "Not_now": {
+      "message": "सध्या नाही"
+   },
+   "Numbers": {
+      "message": "नंबर"
+   },
+   "Pause": {
+      "message": "विराम द्या"
+   },
+   "Please_include": {
+      "message": "त्वरित मदतीसाठी कृपया तुमचा लॉगिन ईमेल समाविष्ट करा."
+   },
+   "Please_open": {
+      "message": "कृपया WhatsApp वेब उघडा किंवा रिफ्रेश करा. पुन्हा प्रयत्न करण्यापूर्वी, एकच WhatsApp वेब पेज उघडे आहे याची खात्री करा, जरी ते निष्क्रिय असले तरीही."
+   },
+   "Random_sending": {
+      "message": "यादृच्छिक पाठवण्याचे अंतर (सेकंद):"
+   },
+   "Reach_out": {
+      "message": "आमच्याशी संपर्क साधा"
+   },
+   "Review": {
+      "message": "समीक्षा"
+   },
+   "Save_as_template": {
+      "message": "टेम्पलेट म्हणून जतन करा"
+   },
+   "Select_All": {
+      "message": "सर्व निवडा"
+   },
+   "Select_a_template": {
+      "message": "टेम्पलेट निवडा"
+   },
+   "Send": {
+      "message": "पाठवा"
+   },
+   "Send_to": {
+      "message": "पाठवा"
+   },
+   "Send_to_the": {
+      "message": "टॉप 10 लोकांना पाठवा"
+   },
+   "Sending": {
+      "message": "पाठवत आहे"
+   },
+   "Sticker": {
+      "message": "स्टिकर"
+   },
+   "Success": {
+      "message": "यशस्वी"
+   },
+   "Support_batch": {
+      "message": "येथे बॅच कॉपीिंगला समर्थन करते"
+   },
+   "Text_Message": {
+      "message": "मजकूर संदेश"
+   },
+   "Text_style": {
+      "message": "मजकूर शैली पर्याय: *जड* _इटॅलिक_ ~स्ट्राइकथ्रू~"
+   },
+   "The_contacts": {
+      "message": "तुम्ही WhatsApp वर ज्या संपर्कांशी चॅट करता"
+   },
+   "The_file_Max": {
+      "message": "फाइल कमाल 20MB, 100,000 पर्यंत ओळी"
+   },
+   "The_file_Max_20MB": {
+      "message": "फाइल कमाल 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "फाइल चुकीची आहे, कृपया आवश्यकतेनुसार अपलोड करा."
+   },
+   "The_template_will": {
+      "message": "टेम्पलेट इनपुट बॉक्सचा मजकूर बदलेल."
+   },
+   "The_valid": {
+      "message": "तुमच्या फोनमधील वैध WhatsApp संपर्क"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "टिप: WhatsApp निर्बंध टाळण्यासाठी, प्राप्तकर्त्यांची संख्या कमी करा आणि पाठवण्याच्या दरम्यानचे अंतर वाढवा."
+   },
+   "UPGRADE": {
+      "message": "अपग्रेड करा"
+   },
+   "Upgrade": {
+      "message": "अपग्रेड करा"
+   },
+   "Upgrade_Now": {
+      "message": "आता अपग्रेड करा"
+   },
+   "Upgrade_to_PRO": {
+      "message": "कोणत्याही मर्यादांशिवाय PRO साठी अपग्रेड करा."
+   },
+   "Video": {
+      "message": "व्हिडिओ"
+   },
+   "View_Results": {
+      "message": "निकाल पहा"
+   },
+   "Voice": {
+      "message": "व्हॉइस"
+   },
+   "Wait": {
+      "message": "वाट पहा"
+   },
+   "We_hope": {
+      "message": "आम्हाला आशा आहे की तुम्हाला आमचे साधन उपयुक्त वाटत आहे! जर तुम्हाला ते आवडले तर, कृपया आम्हाला 5-तारे रेटिंग देण्याचा विचार करा."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp वेब सापडला नाही"
+   },
+   "Your_message": {
+      "message": "तुमचा संदेश सर्व"
+   },
+   "Your_positive": {
+      "message": "तुमचे सकारात्मक प्रतिसाद आमच्यासाठी खूप महत्त्वाचे आहे आणि आम्हाला सुधारण्यास मदत करते."
+   },
+   "any_inquiries": {
+      "message": "साठी कोणतेही प्रश्न."
+   },
+   "disturbsText": {
+      "message": "जर ते तुम्हाला त्रास देत असेल, तर कृपया 'नाही' उत्तर द्या आणि मी तुम्हाला पुन्हा कोणतेही संदेश पाठवणार नाही."
+   },
+   "finishLoginText": {
+      "message": "तुम्ही लॉग इन पूर्ण केले आहे का?"
+   },
+   "finishPaymentText": {
+      "message": "तुम्ही तुमचे पेमेंट पूर्ण केले आहे का?"
+   },
+   "format": {
+      "message": "स्वरूप"
+   },
+   "loginText": {
+      "message": "लॉगिन"
+   },
+   "messages": {
+      "message": "संदेश"
+   },
+   "participants": {
+      "message": "सहभागी"
+   },
+   "proplanText": {
+      "message": "PRO प्लॅन"
+   },
+   "qtDes": {
+      "message": "नंबर सेव्ह न करता एक्सेल नंबरद्वारे WhatsApp वर मोठ्या प्रमाणात संदेश पाठवा. संदेश वैयक्तिकृत करा आणि अटॅचमेंट पाठवा."
+   },
+   "qtName": {
+      "message": "WhatsApp मोठ्या प्रमाणात संदेश पाठवणारा | WPPME.COM"
+   },
+   "rows": {
+      "message": "ओळी"
+   },
+   "saveEmptyText": {
+      "message": "टेम्पलेट रिकामा असू शकत नाही."
+   },
+   "saveExistText": {
+      "message": "हा संदेश आधीच अस्तित्वात आहे."
+   },
+   "saveMoreText": {
+      "message": "500 पेक्षा जास्त संदेश टेम्पलेट जतन करता येत नाहीत."
+   },
+   "saveSuccessText": {
+      "message": "टेम्पलेट यशस्वीरित्या जतन झाले"
+   },
+   "seconds_after_every": {
+      "message": "प्रत्येकानंतर सेकंद"
+   },
+   "sent_at": {
+      "message": "पाठवले"
+   },
+   "will_receive": {
+      "message": "तुमचा संदेश प्राप्त करतील."
+   }
+}

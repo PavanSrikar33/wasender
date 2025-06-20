@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Přidat"
+   },
+   "Add_Apology": {
+      "message": "Přidat omluvu za rušení"
+   },
+   "Add_Timestamp": {
+      "message": "Přidat časové razítko"
+   },
+   "Add_number": {
+      "message": "Přidat číslo"
+   },
+   "All_contacts": {
+      "message": "Všechny kontakty ve vybrané zemi"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Zrušit"
+   },
+   "Chats": {
+      "message": "Chaty"
+   },
+   "Click_to_Upload": {
+      "message": "Kliknutím nahrát / Přetáhnout sem"
+   },
+   "Close": {
+      "message": "Zavřít"
+   },
+   "Completed": {
+      "message": "Dokončeno"
+   },
+   "Confirm": {
+      "message": "Potvrdit"
+   },
+   "Contacts": {
+      "message": "Kontakt"
+   },
+   "Continue": {
+      "message": "Pokračovat"
+   },
+   "Countries": {
+      "message": "Země"
+   },
+   "Details": {
+      "message": "Podrobnosti"
+   },
+   "Do_you_need": {
+      "message": "Potřebujete efektivní metodu pro hromadné odesílání zpráv na WhatsApp? Náš WA Sender je přesně to, co potřebujete. Vyzkoušejte ho a uvidíte, jak snadné může být hromadné zasílání zpráv!"
+   },
+   "Document": {
+      "message": "Dokument"
+   },
+   "Download_the_template": {
+      "message": "Stáhnout šablonu"
+   },
+   "Failure": {
+      "message": "Chyba"
+   },
+   "Feel_free": {
+      "message": "Neváhejte přidat libovolný text nebo odkazy."
+   },
+   "File_Upload": {
+      "message": "Nahrát soubor"
+   },
+   "Free_plans": {
+      "message": "Zdarma plány umožňují odeslat 10 zpráv na dávku."
+   },
+   "Groups": {
+      "message": "Skupiny"
+   },
+   "Hello": {
+      "message": "Ahoj"
+   },
+   "Image": {
+      "message": "Obrázek"
+   },
+   "Including_Administrators": {
+      "message": "Včetně administrátorů"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Zadejte čísla WhatsApp"
+   },
+   "Interested": {
+      "message": "Zaujalo vás to? Odpovězte 'Ano' a dozvíte se více."
+   },
+   "Labels": {
+      "message": "Štítky"
+   },
+   "Leave_Review": {
+      "message": "Napsat recenzi"
+   },
+   "Log_in": {
+      "message": "Přihlásit se"
+   },
+   "MessageEmptyText": {
+      "message": "Obsah zprávy nemůže být prázdný."
+   },
+   "Messages": {
+      "message": "Zprávy"
+   },
+   "NO_DATA": {
+      "message": "ŽÁDNÁ DATA"
+   },
+   "Not_interested": {
+      "message": "Nezaujalo vás to? Odpovězte 'Ne' a nebudu vám posílat žádné další zprávy."
+   },
+   "Not_now": {
+      "message": "Teď ne"
+   },
+   "Numbers": {
+      "message": "Čísla"
+   },
+   "Pause": {
+      "message": "Pozastavit"
+   },
+   "Please_include": {
+      "message": "Pro rychlejší pomoc uveďte svůj e-mail pro přihlášení."
+   },
+   "Please_open": {
+      "message": "Otevřete nebo obnovte WhatsApp Web. Před opakovaným pokusem se ujistěte, že je otevřena pouze jedna stránka WhatsApp Web, i když neaktivní."
+   },
+   "Random_sending": {
+      "message": "Náhodný interval odesílání (vteřiny):"
+   },
+   "Reach_out": {
+      "message": "Kontaktujte nás na"
+   },
+   "Review": {
+      "message": "Recenze"
+   },
+   "Save_as_template": {
+      "message": "Uložit jako šablonu"
+   },
+   "Select_All": {
+      "message": "Vybrat vše"
+   },
+   "Select_a_template": {
+      "message": "Vyberte šablonu"
+   },
+   "Send": {
+      "message": "Odeslat"
+   },
+   "Send_to": {
+      "message": "Odeslat do"
+   },
+   "Send_to_the": {
+      "message": "Odeslat nejlepším 10 lidem"
+   },
+   "Sending": {
+      "message": "Odesílání"
+   },
+   "Sticker": {
+      "message": "Samolepka"
+   },
+   "Success": {
+      "message": "Úspěch"
+   },
+   "Support_batch": {
+      "message": "Podpora hromadného kopírování sem"
+   },
+   "Text_Message": {
+      "message": "Textová zpráva"
+   },
+   "Text_style": {
+      "message": "Možnosti stylu textu: *TUČNĚ* _kurzívou_ ~přeškrtnuté~"
+   },
+   "The_contacts": {
+      "message": "Kontakty, se kterými si píšete na WhatsAppu"
+   },
+   "The_file_Max": {
+      "message": "Maximální velikost souboru 20 MB, až 100 000 řádků"
+   },
+   "The_file_Max_20MB": {
+      "message": "Maximální velikost souboru 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Soubor je nesprávný, nahrajte jej dle požadavků."
+   },
+   "The_template_will": {
+      "message": "Šablona nahradí textový obsah vstupního pole."
+   },
+   "The_valid": {
+      "message": "Platné kontakty WhatsApp v telefonu"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Tip: Abyste předešli omezením WhatsAppu, snižte počet příjemců a prodloužte interval mezi odesíláním."
+   },
+   "UPGRADE": {
+      "message": "VYLEPŠENÍ"
+   },
+   "Upgrade": {
+      "message": "Vylepšit"
+   },
+   "Upgrade_Now": {
+      "message": "Vylepšit nyní"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Vylepšete na PRO bez omezení."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Zobrazit výsledky"
+   },
+   "Voice": {
+      "message": "Hlas"
+   },
+   "Wait": {
+      "message": "Čekat"
+   },
+   "We_hope": {
+      "message": "Doufáme, že vám náš nástroj pomáhá! Pokud se vám líbí, zvažte, prosím, udělení 5hvězdičkového hodnocení."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web nenalezen"
+   },
+   "Your_message": {
+      "message": "Vaše zpráva bude odeslána všem"
+   },
+   "Your_positive": {
+      "message": "Vaše pozitivní zpětná vazba pro nás hodně znamená a pomáhá nám se zlepšovat."
+   },
+   "any_inquiries": {
+      "message": "pro jakékoli dotazy."
+   },
+   "disturbsText": {
+      "message": "Pokud vám to vadí, odpovězte 'Ne' a nebudu vám posílat žádné další zprávy."
+   },
+   "finishLoginText": {
+      "message": "Dokončili jste přihlášení?"
+   },
+   "finishPaymentText": {
+      "message": "Dokončili jste platbu?"
+   },
+   "format": {
+      "message": "formát"
+   },
+   "loginText": {
+      "message": "Přihlášení"
+   },
+   "messages": {
+      "message": "zpráv"
+   },
+   "participants": {
+      "message": "účastníků"
+   },
+   "proplanText": {
+      "message": "PRO PLÁN"
+   },
+   "qtDes": {
+      "message": "Hromadně odesílejte zprávy WhatsApp pomocí čísel z Excelu, aniž byste si čísla ukládali. Personalizujte zprávy a odesílejte přílohy."
+   },
+   "qtName": {
+      "message": "Hromadný odesílač zpráv WhatsApp | WPPME.COM"
+   },
+   "rows": {
+      "message": "řádků"
+   },
+   "saveEmptyText": {
+      "message": "Šablona nemůže být prázdná."
+   },
+   "saveExistText": {
+      "message": "Tento obsah zprávy již existuje."
+   },
+   "saveMoreText": {
+      "message": "Nelze uložit více než 500 šablon zpráv."
+   },
+   "saveSuccessText": {
+      "message": "Šablona úspěšně uložena"
+   },
+   "seconds_after_every": {
+      "message": "vteřin po každých"
+   },
+   "sent_at": {
+      "message": "odesláno v"
+   },
+   "will_receive": {
+      "message": "obdrží vaši zprávu."
+   }
+}

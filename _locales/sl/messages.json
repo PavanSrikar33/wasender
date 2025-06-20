@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Dodaj"
+   },
+   "Add_Apology": {
+      "message": "Dodaj opravičilo za motenje"
+   },
+   "Add_Timestamp": {
+      "message": "Dodaj časovni žig"
+   },
+   "Add_number": {
+      "message": "Dodaj številko"
+   },
+   "All_contacts": {
+      "message": "Vsi stiki v izbrani državi"
+   },
+   "Audio": {
+      "message": "Zvok"
+   },
+   "Cancel": {
+      "message": "Prekliči"
+   },
+   "Chats": {
+      "message": "Klepeti"
+   },
+   "Click_to_Upload": {
+      "message": "Kliknite za nalaganje / povlecite in spustite tukaj"
+   },
+   "Close": {
+      "message": "Zapri"
+   },
+   "Completed": {
+      "message": "Zaključeno"
+   },
+   "Confirm": {
+      "message": "Potrdi"
+   },
+   "Contacts": {
+      "message": "Kontakt"
+   },
+   "Continue": {
+      "message": "Nadaljuj"
+   },
+   "Countries": {
+      "message": "Države"
+   },
+   "Details": {
+      "message": "Podrobnosti"
+   },
+   "Do_you_need": {
+      "message": "Potrebujete učinkovit način za množično pošiljanje sporočil na WhatsAppu? Naš pošiljatelj sporočil WA je ravno to, kar potrebujete. Preizkusite ga in preverite, kako preprosto je množično pošiljanje sporočil!"
+   },
+   "Document": {
+      "message": "Dokument"
+   },
+   "Download_the_template": {
+      "message": "Prenesite predlogo"
+   },
+   "Failure": {
+      "message": "Napaka"
+   },
+   "Feel_free": {
+      "message": "Prosto dodajte poljubno besedilo ali povezave."
+   },
+   "File_Upload": {
+      "message": "Nalaganje datoteke"
+   },
+   "Free_plans": {
+      "message": "Brezplačni načrti omogočajo pošiljanje 10 sporočil na serijo."
+   },
+   "Groups": {
+      "message": "Skupine"
+   },
+   "Hello": {
+      "message": "Pozdravljeni"
+   },
+   "Image": {
+      "message": "Slika"
+   },
+   "Including_Administrators": {
+      "message": "Vključno z administratorji"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Vnesite WhatsApp številke"
+   },
+   "Interested": {
+      "message": "Zanima vas? Odgovorite z 'Da', če želite izvedeti več."
+   },
+   "Labels": {
+      "message": "Oznake"
+   },
+   "Leave_Review": {
+      "message": "Oceni nas"
+   },
+   "Log_in": {
+      "message": "Prijava"
+   },
+   "MessageEmptyText": {
+      "message": "Vsebina sporočila ne sme biti prazna."
+   },
+   "Messages": {
+      "message": "Sporočila"
+   },
+   "NO_DATA": {
+      "message": "NI PODATKOV"
+   },
+   "Not_interested": {
+      "message": "Vas ne zanima? Odgovorite z 'Ne' in ne bom vam več pošiljal sporočil."
+   },
+   "Not_now": {
+      "message": "Zdaj ne"
+   },
+   "Numbers": {
+      "message": "Številke"
+   },
+   "Pause": {
+      "message": "Premor"
+   },
+   "Please_include": {
+      "message": "Za hitrejšo pomoč prosimo, vključite svoj e-poštni naslov za prijavo."
+   },
+   "Please_open": {
+      "message": "Prosimo, odprite ali osvežite WhatsApp Web. Pred ponovnim poskusom se prepričajte, da je odprta samo ena stran WhatsApp Web, tudi če ni aktivna."
+   },
+   "Random_sending": {
+      "message": "Naključni interval pošiljanja (sekunde):"
+   },
+   "Reach_out": {
+      "message": "Obrnite se na nas na"
+   },
+   "Review": {
+      "message": "Ocena"
+   },
+   "Save_as_template": {
+      "message": "Shrani kot predlogo"
+   },
+   "Select_All": {
+      "message": "Izberi vse"
+   },
+   "Select_a_template": {
+      "message": "Izberite predlogo"
+   },
+   "Send": {
+      "message": "Pošlji"
+   },
+   "Send_to": {
+      "message": "Pošlji na"
+   },
+   "Send_to_the": {
+      "message": "Pošlji najboljšim 10 ljudem"
+   },
+   "Sending": {
+      "message": "Pošiljanje"
+   },
+   "Sticker": {
+      "message": "Stikala"
+   },
+   "Success": {
+      "message": "Uspeh"
+   },
+   "Support_batch": {
+      "message": "Podpira množično kopiranje tukaj"
+   },
+   "Text_Message": {
+      "message": "Besedilno sporočilo"
+   },
+   "Text_style": {
+      "message": "Možnosti sloga besedila: *KREPKO* _ležeče_ ~prečrtano~"
+   },
+   "The_contacts": {
+      "message": "Stik, s katerimi se pogovarjate na WhatsAppu"
+   },
+   "The_file_Max": {
+      "message": "Maksimalna velikost datoteke 20 MB, do 100.000 vrstic"
+   },
+   "The_file_Max_20MB": {
+      "message": "Maksimalna velikost datoteke 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Datoteka je nepravilna, prosimo, naložite jo kot je potrebno."
+   },
+   "The_template_will": {
+      "message": "Predloga bo nadomestila besedilno vsebino vhodnega polja."
+   },
+   "The_valid": {
+      "message": "Veljavni stiki WhatsApp v vašem telefonu"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Namig: Da preprečite omejitve WhatsApp-a, zmanjšajte število prejemnikov in podaljšajte interval med pošiljanjem."
+   },
+   "UPGRADE": {
+      "message": "NADGRADNJA"
+   },
+   "Upgrade": {
+      "message": "Nadgradnja"
+   },
+   "Upgrade_Now": {
+      "message": "Nadgradi zdaj"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Nadgradite na PRO za neomejeno uporabo."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Ogled rezultatov"
+   },
+   "Voice": {
+      "message": "Glas"
+   },
+   "Wait": {
+      "message": "Počakaj"
+   },
+   "We_hope": {
+      "message": "Upamo, da vam je naše orodje v pomoč! Če vam je všeč, prosimo, da nam pustite 5-zvezdično oceno."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web ni najden"
+   },
+   "Your_message": {
+      "message": "Vaše sporočilo bo poslano vsem"
+   },
+   "Your_positive": {
+      "message": "Vaša pozitivna povratna informacija nam veliko pomeni in nam pomaga pri izboljševanju."
+   },
+   "any_inquiries": {
+      "message": "za vsa vprašanja."
+   },
+   "disturbsText": {
+      "message": "Če vas moti, prosim odgovorite z 'Ne' in vam ne bom več pošiljal sporočil."
+   },
+   "finishLoginText": {
+      "message": "Ste končali prijavo?"
+   },
+   "finishPaymentText": {
+      "message": "Ste končali plačilo?"
+   },
+   "format": {
+      "message": "oblika"
+   },
+   "loginText": {
+      "message": "Prijava"
+   },
+   "messages": {
+      "message": "sporočil"
+   },
+   "participants": {
+      "message": "učesnikov"
+   },
+   "proplanText": {
+      "message": "PRO NAČRT"
+   },
+   "qtDes": {
+      "message": "Množično pošiljanje sporočil WhatsApp prek številk iz Excela, brez shranjevanja številk. Prilagodite sporočila in pošljite priloge."
+   },
+   "qtName": {
+      "message": "WhatsApp množični pošiljatelj sporočil | WPPME.COM"
+   },
+   "rows": {
+      "message": "vrstic"
+   },
+   "saveEmptyText": {
+      "message": "Predloga ne sme biti prazna."
+   },
+   "saveExistText": {
+      "message": "Ta vsebina sporočila že obstaja."
+   },
+   "saveMoreText": {
+      "message": "Ni mogoče shraniti več kot 500 predlog sporočil."
+   },
+   "saveSuccessText": {
+      "message": "Predloga uspešno shranjena"
+   },
+   "seconds_after_every": {
+      "message": "sekund po vsakih"
+   },
+   "sent_at": {
+      "message": "poslano ob"
+   },
+   "will_receive": {
+      "message": "bo prejelo vaše sporočilo."
+   }
+}

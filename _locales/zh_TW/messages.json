@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "新增"
+   },
+   "Add_Apology": {
+      "message": "新增致歉訊息"
+   },
+   "Add_Timestamp": {
+      "message": "新增時間戳記"
+   },
+   "Add_number": {
+      "message": "新增號碼"
+   },
+   "All_contacts": {
+      "message": "已選國家/地區的所有聯絡人"
+   },
+   "Audio": {
+      "message": "語音"
+   },
+   "Cancel": {
+      "message": "取消"
+   },
+   "Chats": {
+      "message": "聊天"
+   },
+   "Click_to_Upload": {
+      "message": "點擊上傳／拖曳至此"
+   },
+   "Close": {
+      "message": "關閉"
+   },
+   "Completed": {
+      "message": "已完成"
+   },
+   "Confirm": {
+      "message": "確認"
+   },
+   "Contacts": {
+      "message": "聯絡我們"
+   },
+   "Continue": {
+      "message": "繼續"
+   },
+   "Countries": {
+      "message": "國家/地區"
+   },
+   "Details": {
+      "message": "詳情"
+   },
+   "Do_you_need": {
+      "message": "您需要一個有效的方法來批量發送 WhatsApp 訊息嗎？我們的 WA 發送器正是您所需要的。立即試用，看看批量發送訊息有多簡單！"
+   },
+   "Document": {
+      "message": "文件"
+   },
+   "Download_the_template": {
+      "message": "下載範本"
+   },
+   "Failure": {
+      "message": "失敗"
+   },
+   "Feel_free": {
+      "message": "您可以隨意添加任何文字或連結。"
+   },
+   "File_Upload": {
+      "message": "檔案上傳"
+   },
+   "Free_plans": {
+      "message": "免費方案每次最多可發送 10 則訊息。"
+   },
+   "Groups": {
+      "message": "群組"
+   },
+   "Hello": {
+      "message": "您好"
+   },
+   "Image": {
+      "message": "圖片"
+   },
+   "Including_Administrators": {
+      "message": "包含管理員"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "輸入 WhatsApp 號碼"
+   },
+   "Interested": {
+      "message": "有興趣嗎？回覆「是」以了解更多資訊。"
+   },
+   "Labels": {
+      "message": "標籤"
+   },
+   "Leave_Review": {
+      "message": "留下評論"
+   },
+   "Log_in": {
+      "message": "登入"
+   },
+   "MessageEmptyText": {
+      "message": "訊息內容不可為空。"
+   },
+   "Messages": {
+      "message": "訊息"
+   },
+   "NO_DATA": {
+      "message": "無資料"
+   },
+   "Not_interested": {
+      "message": "沒興趣嗎？回覆「否」，我就不會再發送任何訊息了。"
+   },
+   "Not_now": {
+      "message": "現在不用"
+   },
+   "Numbers": {
+      "message": "號碼"
+   },
+   "Pause": {
+      "message": "暫停"
+   },
+   "Please_include": {
+      "message": "請提供您的登入電子郵件地址，以便我們更快地協助您。"
+   },
+   "Please_open": {
+      "message": "請開啟或重新整理 WhatsApp 網頁版。確保只開啟一個 WhatsApp 網頁版頁面（即使未啟用），然後再重試。"
+   },
+   "Random_sending": {
+      "message": "隨機發送間隔（秒）："
+   },
+   "Reach_out": {
+      "message": "請聯繫我們"
+   },
+   "Review": {
+      "message": "評論"
+   },
+   "Save_as_template": {
+      "message": "儲存為範本"
+   },
+   "Select_All": {
+      "message": "全選"
+   },
+   "Select_a_template": {
+      "message": "選擇範本"
+   },
+   "Send": {
+      "message": "發送"
+   },
+   "Send_to": {
+      "message": "發送給"
+   },
+   "Send_to_the": {
+      "message": "發送給前 10 位聯絡人"
+   },
+   "Sending": {
+      "message": "發送中"
+   },
+   "Sticker": {
+      "message": "貼圖"
+   },
+   "Success": {
+      "message": "成功"
+   },
+   "Support_batch": {
+      "message": "支援在此處批量複製"
+   },
+   "Text_Message": {
+      "message": "文字訊息"
+   },
+   "Text_style": {
+      "message": "文字樣式選項：*粗體* _斜體_ ~刪除線~"
+   },
+   "The_contacts": {
+      "message": "您在 WhatsApp 上聊天的聯絡人"
+   },
+   "The_file_Max": {
+      "message": "檔案大小上限 20MB，最多 100,000 行"
+   },
+   "The_file_Max_20MB": {
+      "message": "檔案大小上限 20MB。"
+   },
+   "The_file_is_incorrect": {
+      "message": "檔案格式錯誤，請按要求上傳。"
+   },
+   "The_template_will": {
+      "message": "範本將取代輸入框中的文字內容。"
+   },
+   "The_valid": {
+      "message": "您手機中有效的 WhatsApp 聯絡人"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "小提示：為避免 WhatsApp 的限制，請減少收件人數並延長發送間隔。"
+   },
+   "UPGRADE": {
+      "message": "升級"
+   },
+   "Upgrade": {
+      "message": "升級"
+   },
+   "Upgrade_Now": {
+      "message": "立即升級"
+   },
+   "Upgrade_to_PRO": {
+      "message": "升級到專業版以解除所有限制。"
+   },
+   "Video": {
+      "message": "影片"
+   },
+   "View_Results": {
+      "message": "檢視結果"
+   },
+   "Voice": {
+      "message": "語音訊息"
+   },
+   "Wait": {
+      "message": "等待"
+   },
+   "We_hope": {
+      "message": "我們希望您覺得我們的工具很有用！如果您喜歡它，請考慮給我們 5 星評分。"
+   },
+   "WhatsApp_Web": {
+      "message": "未找到 WhatsApp 網頁版"
+   },
+   "Your_message": {
+      "message": "您的訊息將發送給所有"
+   },
+   "Your_positive": {
+      "message": "您的正面回饋對我們來說非常重要，並能幫助我們改進。"
+   },
+   "any_inquiries": {
+      "message": "如有任何疑問。"
+   },
+   "disturbsText": {
+      "message": "如果打擾到您，請回覆「否」，我就不會再發送訊息給您了。"
+   },
+   "finishLoginText": {
+      "message": "您已完成登入嗎？"
+   },
+   "finishPaymentText": {
+      "message": "您已完成付款嗎？"
+   },
+   "format": {
+      "message": "格式"
+   },
+   "loginText": {
+      "message": "登入"
+   },
+   "messages": {
+      "message": "則訊息"
+   },
+   "participants": {
+      "message": "參與者"
+   },
+   "proplanText": {
+      "message": "專業方案"
+   },
+   "qtDes": {
+      "message": "透過 Excel 號碼批量發送 WhatsApp 訊息，無需儲存號碼。個人化訊息並發送附件。"
+   },
+   "qtName": {
+      "message": "WhatsApp 批量訊息發送器 | WPPME.COM"
+   },
+   "rows": {
+      "message": "行"
+   },
+   "saveEmptyText": {
+      "message": "範本不可為空。"
+   },
+   "saveExistText": {
+      "message": "此訊息內容已存在。"
+   },
+   "saveMoreText": {
+      "message": "無法儲存超過 500 個訊息範本。"
+   },
+   "saveSuccessText": {
+      "message": "範本儲存成功"
+   },
+   "seconds_after_every": {
+      "message": "秒後，每"
+   },
+   "sent_at": {
+      "message": "發送時間："
+   },
+   "will_receive": {
+      "message": "將收到您的訊息。"
+   }
+}

@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Add"
+   },
+   "Add_Apology": {
+      "message": "Add Apology for Disturbance"
+   },
+   "Add_Timestamp": {
+      "message": "Add Timestamp"
+   },
+   "Add_number": {
+      "message": "Add number"
+   },
+   "All_contacts": {
+      "message": "All contacts in the selected country"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Cancel"
+   },
+   "Chats": {
+      "message": "Chats"
+   },
+   "Click_to_Upload": {
+      "message": "Click to Upload / Drag & Drop Here"
+   },
+   "Close": {
+      "message": "Close"
+   },
+   "Completed": {
+      "message": "Completed"
+   },
+   "Confirm": {
+      "message": "Confirm"
+   },
+   "Contacts": {
+      "message": "Contacts"
+   },
+   "Continue": {
+      "message": "Continue"
+   },
+   "Countries": {
+      "message": "Countries"
+   },
+   "Details": {
+      "message": "Details"
+   },
+   "Do_you_need": {
+      "message": "Do you need an effective method for sending bulk messages on WhatsApp? Our WA Sender is just what you need. Try it out and see how simple mass messaging can be!"
+   },
+   "Document": {
+      "message": "Document"
+   },
+   "Download_the_template": {
+      "message": "Download the template"
+   },
+   "Failure": {
+      "message": "Failure"
+   },
+   "Feel_free": {
+      "message": "Feel free to add any text or links you wish."
+   },
+   "File_Upload": {
+      "message": "File Upload"
+   },
+   "Free_plans": {
+      "message": "Free plans allow sending 10 messages per batch."
+   },
+   "Groups": {
+      "message": "Groups"
+   },
+   "Hello": {
+      "message": "Hello"
+   },
+   "Image": {
+      "message": "Image"
+   },
+   "Including_Administrators": {
+      "message": "Including Administrators"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Input WhatsApp Numbers"
+   },
+   "Interested": {
+      "message": "Interested? Reply 'Yes' to learn more."
+   },
+   "Labels": {
+      "message": "Labels"
+   },
+   "Leave_Review": {
+      "message": "Leave a Review"
+   },
+   "Log_in": {
+      "message": "Log in"
+   },
+   "MessageEmptyText": {
+      "message": "Message content cannot be empty."
+   },
+   "Messages": {
+      "message": "Messages"
+   },
+   "NO_DATA": {
+      "message": "NO DATA"
+   },
+   "Not_interested": {
+      "message": "Not interested? Reply 'No' and I won't send any further messages."
+   },
+   "Not_now": {
+      "message": "Not now"
+   },
+   "Numbers": {
+      "message": "Numbers"
+   },
+   "Pause": {
+      "message": "Pause"
+   },
+   "Please_include": {
+      "message": "Please include your login email for quicker assistance."
+   },
+   "Please_open": {
+      "message": "Please open or refresh WhatsApp Web. Ensure only one WhatsApp Web page is open, even if inactive, before retrying."
+   },
+   "Random_sending": {
+      "message": "Random sending interval (seconds):"
+   },
+   "Reach_out": {
+      "message": "Reach out to us at"
+   },
+   "Review": {
+      "message": "Review"
+   },
+   "Save_as_template": {
+      "message": "Save as template"
+   },
+   "Select_All": {
+      "message": "Select All"
+   },
+   "Select_a_template": {
+      "message": "Select a template"
+   },
+   "Send": {
+      "message": "Send"
+   },
+   "Send_to": {
+      "message": "Send to"
+   },
+   "Send_to_the": {
+      "message": "Send to the Top 10 People"
+   },
+   "Sending": {
+      "message": "Sending"
+   },
+   "Sticker": {
+      "message": "Sticker"
+   },
+   "Success": {
+      "message": "Success"
+   },
+   "Support_batch": {
+      "message": "Support batch copying here"
+   },
+   "Text_Message": {
+      "message": "Text Message"
+   },
+   "Text_style": {
+      "message": "Text style options: *BOLD* _italic_ ~strikethrough~"
+   },
+   "The_contacts": {
+      "message": "The contacts you chat with on WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "The file Max 20MB, up to 100, 000 rows"
+   },
+   "The_file_Max_20MB": {
+      "message": "The file Max 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "The file is incorrect, please upload as required."
+   },
+   "The_template_will": {
+      "message": "The template will replace the text content of the input box."
+   },
+   "The_valid": {
+      "message": "The valid WhatsApp contacts in your phone"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Tip: To prevent WhatsApp restrictions, lower the number of recipients and extend the interval between sends."
+   },
+   "UPGRADE": {
+      "message": "UPGRADE"
+   },
+   "Upgrade": {
+      "message": "Upgrade"
+   },
+   "Upgrade_Now": {
+      "message": "Upgrade Now"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Upgrade to PRO for no limits."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "View Results"
+   },
+   "Voice": {
+      "message": "Voice"
+   },
+   "Wait": {
+      "message": "Wait"
+   },
+   "We_hope": {
+      "message": "We hope you're finding our tool helpful! If you like it, please consider giving us a 5-star rating."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web Not Found"
+   },
+   "Your_message": {
+      "message": "Your message will be sent to all"
+   },
+   "Your_positive": {
+      "message": "Your positive feedback means a lot to us and helps us improve."
+   },
+   "any_inquiries": {
+      "message": "for any inquiries."
+   },
+   "disturbsText": {
+      "message": "If it disturbs you, please reply 'No' and I will not send you any more messages."
+   },
+   "finishLoginText": {
+      "message": "Did you finish logging in?"
+   },
+   "finishPaymentText": {
+      "message": "Did you finish your payment?"
+   },
+   "format": {
+      "message": "format"
+   },
+   "loginText": {
+      "message": "Login"
+   },
+   "messages": {
+      "message": "messages"
+   },
+   "participants": {
+      "message": "participants"
+   },
+   "proplanText": {
+      "message": "PRO PLAN"
+   },
+   "qtDes": {
+      "message": "Bulk send WhatsApp messages via Excel numbers, without saving numbers. Personalize messages and send attachments."
+   },
+   "qtName": {
+      "message": "WA Bulk Message Sender | WPPME.COM"
+   },
+   "rows": {
+      "message": "rows"
+   },
+   "saveEmptyText": {
+      "message": "Template cannot be empty."
+   },
+   "saveExistText": {
+      "message": "This message content already exists."
+   },
+   "saveMoreText": {
+      "message": "Cannot save more than 500 message templates."
+   },
+   "saveSuccessText": {
+      "message": "Template saved successfully"
+   },
+   "seconds_after_every": {
+      "message": "seconds after every"
+   },
+   "sent_at": {
+      "message": "send at"
+   },
+   "will_receive": {
+      "message": "will receive your message."
+   }
+}

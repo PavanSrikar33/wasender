@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "เพิ่ม"
+   },
+   "Add_Apology": {
+      "message": "เพิ่มข้อความขออภัยที่รบกวน"
+   },
+   "Add_Timestamp": {
+      "message": "เพิ่มเวลาปัจจุบัน"
+   },
+   "Add_number": {
+      "message": "เพิ่มเบอร์โทร"
+   },
+   "All_contacts": {
+      "message": "ผู้ติดต่อทั้งหมดในประเทศที่เลือก"
+   },
+   "Audio": {
+      "message": "เสียง"
+   },
+   "Cancel": {
+      "message": "ยกเลิก"
+   },
+   "Chats": {
+      "message": "การแชท"
+   },
+   "Click_to_Upload": {
+      "message": "คลิกเพื่ออัปโหลด / ลากและวางที่นี่"
+   },
+   "Close": {
+      "message": "ปิด"
+   },
+   "Completed": {
+      "message": "เสร็จสมบูรณ์"
+   },
+   "Confirm": {
+      "message": "ยืนยัน"
+   },
+   "Contacts": {
+      "message": "ติดต่อเรา"
+   },
+   "Continue": {
+      "message": "ดำเนินการต่อ"
+   },
+   "Countries": {
+      "message": "ประเทศ"
+   },
+   "Details": {
+      "message": "รายละเอียด"
+   },
+   "Do_you_need": {
+      "message": "คุณต้องการวิธีการส่งข้อความจำนวนมากบน WhatsApp อย่างมีประสิทธิภาพหรือไม่? เครื่องมือส่งข้อความ WA ของเราคือสิ่งที่คุณต้องการ ลองใช้ดูและดูว่าการส่งข้อความจำนวนมากนั้นง่ายแค่ไหน!"
+   },
+   "Document": {
+      "message": "เอกสาร"
+   },
+   "Download_the_template": {
+      "message": "ดาวน์โหลดเทมเพลต"
+   },
+   "Failure": {
+      "message": "ล้มเหลว"
+   },
+   "Feel_free": {
+      "message": "เพิ่มข้อความหรือลิงก์ใดๆ ที่คุณต้องการได้เลย"
+   },
+   "File_Upload": {
+      "message": "อัปโหลดไฟล์"
+   },
+   "Free_plans": {
+      "message": "แพลนฟรีอนุญาตให้ส่งข้อความได้ 10 ข้อความต่อชุด"
+   },
+   "Groups": {
+      "message": "กลุ่ม"
+   },
+   "Hello": {
+      "message": "สวัสดี"
+   },
+   "Image": {
+      "message": "รูปภาพ"
+   },
+   "Including_Administrators": {
+      "message": "รวมถึงผู้ดูแลกลุ่ม"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "ป้อนเบอร์ WhatsApp"
+   },
+   "Interested": {
+      "message": "สนใจใช่ไหม ตอบ 'ใช่' เพื่อเรียนรู้เพิ่มเติม"
+   },
+   "Labels": {
+      "message": "ป้ายกำกับ"
+   },
+   "Leave_Review": {
+      "message": "เขียนรีวิว"
+   },
+   "Log_in": {
+      "message": "เข้าสู่ระบบ"
+   },
+   "MessageEmptyText": {
+      "message": "เนื้อหาข้อความไม่สามารถว่างเปล่าได้"
+   },
+   "Messages": {
+      "message": "ข้อความ"
+   },
+   "NO_DATA": {
+      "message": "ไม่มีข้อมูล"
+   },
+   "Not_interested": {
+      "message": "ไม่สนใจใช่ไหม ตอบ 'ไม่' และฉันจะไม่ส่งข้อความใดๆ อีก"
+   },
+   "Not_now": {
+      "message": "ไม่ใช่ตอนนี้"
+   },
+   "Numbers": {
+      "message": "เบอร์โทร"
+   },
+   "Pause": {
+      "message": "หยุดชั่วคราว"
+   },
+   "Please_include": {
+      "message": "กรุณาระบุอีเมลที่ใช้เข้าสู่ระบบของคุณเพื่อความช่วยเหลือที่รวดเร็วขึ้น"
+   },
+   "Please_open": {
+      "message": "โปรดเปิดหรือรีเฟรช WhatsApp Web ตรวจสอบให้แน่ใจว่ามีเพียงหน้า WhatsApp Web หนึ่งหน้าเท่านั้นที่เปิดอยู่ แม้ว่าจะไม่ได้ใช้งานอยู่ก่อนที่จะลองอีกครั้ง"
+   },
+   "Random_sending": {
+      "message": "ช่วงเวลาการส่งแบบสุ่ม (วินาที):"
+   },
+   "Reach_out": {
+      "message": "ติดต่อเราได้ที่"
+   },
+   "Review": {
+      "message": "รีวิว"
+   },
+   "Save_as_template": {
+      "message": "บันทึกเป็นเทมเพลต"
+   },
+   "Select_All": {
+      "message": "เลือกทั้งหมด"
+   },
+   "Select_a_template": {
+      "message": "เลือกเทมเพลต"
+   },
+   "Send": {
+      "message": "ส่ง"
+   },
+   "Send_to": {
+      "message": "ส่งถึง"
+   },
+   "Send_to_the": {
+      "message": "ส่งถึง 10 คนแรก"
+   },
+   "Sending": {
+      "message": "กำลังส่ง"
+   },
+   "Sticker": {
+      "message": "สติ๊กเกอร์"
+   },
+   "Success": {
+      "message": "สำเร็จ"
+   },
+   "Support_batch": {
+      "message": "รองรับการคัดลอกแบบกลุ่มที่นี่"
+   },
+   "Text_Message": {
+      "message": "ข้อความ"
+   },
+   "Text_style": {
+      "message": "ตัวเลือกสไตล์ข้อความ: *ตัวหนา* _ตัวเอียง_ ~ขีดฆ่า~"
+   },
+   "The_contacts": {
+      "message": "ผู้ติดต่อที่คุณแชทด้วยบน WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "ไฟล์สูงสุด 20MB สูงสุด 100,000 แถว"
+   },
+   "The_file_Max_20MB": {
+      "message": "ไฟล์สูงสุด 20MB"
+   },
+   "The_file_is_incorrect": {
+      "message": "ไฟล์ไม่ถูกต้อง โปรดอัปโหลดตามที่กำหนด"
+   },
+   "The_template_will": {
+      "message": "เทมเพลตจะแทนที่เนื้อหาข้อความในช่องป้อนข้อมูล"
+   },
+   "The_valid": {
+      "message": "ผู้ติดต่อ WhatsApp ที่ถูกต้องในโทรศัพท์ของคุณ"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "เคล็ดลับ: เพื่อป้องกันข้อจำกัดของ WhatsApp ให้ลดจำนวนผู้รับและยืดช่วงเวลาการส่ง"
+   },
+   "UPGRADE": {
+      "message": "อัปเกรด"
+   },
+   "Upgrade": {
+      "message": "อัปเกรด"
+   },
+   "Upgrade_Now": {
+      "message": "อัปเกรดเดี๋ยวนี้"
+   },
+   "Upgrade_to_PRO": {
+      "message": "อัปเกรดเป็น PRO เพื่อไม่จำกัด"
+   },
+   "Video": {
+      "message": "วิดีโอ"
+   },
+   "View_Results": {
+      "message": "ดูผลลัพธ์"
+   },
+   "Voice": {
+      "message": "เสียง"
+   },
+   "Wait": {
+      "message": "รอ"
+   },
+   "We_hope": {
+      "message": "เราหวังว่าคุณจะพบว่าเครื่องมือของเราเป็นประโยชน์! ถ้าคุณชอบ โปรดพิจารณาให้คะแนนเรา 5 ดาว"
+   },
+   "WhatsApp_Web": {
+      "message": "ไม่พบ WhatsApp Web"
+   },
+   "Your_message": {
+      "message": "ข้อความของคุณจะถูกส่งไปยังทั้งหมด"
+   },
+   "Your_positive": {
+      "message": "ความคิดเห็นเชิงบวกของคุณมีความหมายต่อเราอย่างมากและช่วยให้เราพัฒนาขึ้น"
+   },
+   "any_inquiries": {
+      "message": "สำหรับคำถามใดๆ"
+   },
+   "disturbsText": {
+      "message": "ถ้ามันรบกวนคุณ โปรดตอบ 'ไม่' และฉันจะไม่ส่งข้อความใดๆ อีก"
+   },
+   "finishLoginText": {
+      "message": "คุณเข้าสู่ระบบเสร็จแล้วหรือยัง?"
+   },
+   "finishPaymentText": {
+      "message": "คุณชำระเงินเสร็จแล้วหรือยัง?"
+   },
+   "format": {
+      "message": "รูปแบบ"
+   },
+   "loginText": {
+      "message": "เข้าสู่ระบบ"
+   },
+   "messages": {
+      "message": "ข้อความ"
+   },
+   "participants": {
+      "message": "ผู้เข้าร่วม"
+   },
+   "proplanText": {
+      "message": "แพลน PRO"
+   },
+   "qtDes": {
+      "message": "ส่งข้อความ WhatsApp จำนวนมากผ่านเบอร์โทรจาก Excel โดยไม่ต้องบันทึกเบอร์โทร ปรับแต่งข้อความและส่งไฟล์แนบ"
+   },
+   "qtName": {
+      "message": "ตัวส่งข้อความ WhatsApp จำนวนมาก | WPPME.COM"
+   },
+   "rows": {
+      "message": "แถว"
+   },
+   "saveEmptyText": {
+      "message": "เทมเพลตไม่สามารถว่างเปล่าได้"
+   },
+   "saveExistText": {
+      "message": "เนื้อหาข้อความนี้มีอยู่แล้ว"
+   },
+   "saveMoreText": {
+      "message": "ไม่สามารถบันทึกเทมเพลตข้อความได้มากกว่า 500 รายการ"
+   },
+   "saveSuccessText": {
+      "message": "บันทึกเทมเพลตสำเร็จแล้ว"
+   },
+   "seconds_after_every": {
+      "message": "วินาทีหลังจากทุกๆ"
+   },
+   "sent_at": {
+      "message": "ส่งเวลา"
+   },
+   "will_receive": {
+      "message": "จะได้รับข้อความของคุณ"
+   }
+}

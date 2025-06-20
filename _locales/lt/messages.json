@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Pridėti"
+   },
+   "Add_Apology": {
+      "message": "Pridėti atsiprašymą už trikdymą"
+   },
+   "Add_Timestamp": {
+      "message": "Pridėti laiko žymą"
+   },
+   "Add_number": {
+      "message": "Pridėti numerį"
+   },
+   "All_contacts": {
+      "message": "Visi kontaktai pasirinktoje šalyje"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Atšaukti"
+   },
+   "Chats": {
+      "message": "Pokalbiai"
+   },
+   "Click_to_Upload": {
+      "message": "Spustelėkite, kad įkeltumėte / Nuvilkite ir numeskite čia"
+   },
+   "Close": {
+      "message": "Uždaryti"
+   },
+   "Completed": {
+      "message": "Baigta"
+   },
+   "Confirm": {
+      "message": "Patvirtinti"
+   },
+   "Contacts": {
+      "message": "Kontaktai"
+   },
+   "Continue": {
+      "message": "Tęsti"
+   },
+   "Countries": {
+      "message": "Šalys"
+   },
+   "Details": {
+      "message": "Išsamiau"
+   },
+   "Do_you_need": {
+      "message": "Ieškote efektyvaus būdo siųsti masinius pranešimus WhatsApp? Mūsų WA siuntėjas – tai, ko jums reikia. Išbandykite ir pamatykite, kaip paprasta gali būti masinė žinučių siuntimo sistema!"
+   },
+   "Document": {
+      "message": "Dokumentas"
+   },
+   "Download_the_template": {
+      "message": "Atsisiųsti šabloną"
+   },
+   "Failure": {
+      "message": "Nesėkmė"
+   },
+   "Feel_free": {
+      "message": "Nesivaržykite pridėti bet kokio teksto ar nuorodų."
+   },
+   "File_Upload": {
+      "message": "Įkelti failą"
+   },
+   "Free_plans": {
+      "message": "Nemokami planai leidžia siųsti 10 žinučių vienu metu."
+   },
+   "Groups": {
+      "message": "Grupės"
+   },
+   "Hello": {
+      "message": "Sveiki"
+   },
+   "Image": {
+      "message": "Vaizdas"
+   },
+   "Including_Administrators": {
+      "message": "Įskaitant administratorius"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Įvesti WhatsApp numerius"
+   },
+   "Interested": {
+      "message": "Susidomėjote? Atsakykite „Taip“, kad sužinotumėte daugiau."
+   },
+   "Labels": {
+      "message": "Žymos"
+   },
+   "Leave_Review": {
+      "message": "Palikite atsiliepimą"
+   },
+   "Log_in": {
+      "message": "Prisijungti"
+   },
+   "MessageEmptyText": {
+      "message": "Žinutės turinys negali būti tuščias."
+   },
+   "Messages": {
+      "message": "Žinutės"
+   },
+   "NO_DATA": {
+      "message": "DUOMENŲ NĖRA"
+   },
+   "Not_interested": {
+      "message": "Nesusidomėjote? Atsakykite „Ne“ ir aš daugiau nesiųsiu jokių žinučių."
+   },
+   "Not_now": {
+      "message": "Dabar ne"
+   },
+   "Numbers": {
+      "message": "Numeriai"
+   },
+   "Pause": {
+      "message": "Pauzė"
+   },
+   "Please_include": {
+      "message": "Prašome nurodyti savo prisijungimo el. paštą, kad galėtume greičiau jums padėti."
+   },
+   "Please_open": {
+      "message": "Prašome atidaryti arba atnaujinti WhatsApp Web. Prieš bandant dar kartą, įsitikinkite, kad atidarytas tik vienas WhatsApp Web puslapis, net jei jis neaktyvus."
+   },
+   "Random_sending": {
+      "message": "Atsitiktinis siuntimo intervalas (sekundės):"
+   },
+   "Reach_out": {
+      "message": "Kreipkitės į mus adresu"
+   },
+   "Review": {
+      "message": "Atsiliepimas"
+   },
+   "Save_as_template": {
+      "message": "Išsaugoti kaip šabloną"
+   },
+   "Select_All": {
+      "message": "Pasirinkti visus"
+   },
+   "Select_a_template": {
+      "message": "Pasirinkite šabloną"
+   },
+   "Send": {
+      "message": "Siųsti"
+   },
+   "Send_to": {
+      "message": "Siųsti į"
+   },
+   "Send_to_the": {
+      "message": "Siųsti 10 geriausių žmonių"
+   },
+   "Sending": {
+      "message": "Siuntimas"
+   },
+   "Sticker": {
+      "message": "Lipdukas"
+   },
+   "Success": {
+      "message": "Sėkmė"
+   },
+   "Support_batch": {
+      "message": "Palaikoma masinė kopijavimo įklijavimas čia"
+   },
+   "Text_Message": {
+      "message": "Tekstinė žinutė"
+   },
+   "Text_style": {
+      "message": "Teksto stiliaus parinktys: *PARYŠKINTAS* _kursyvas_ ~perbrauktas~"
+   },
+   "The_contacts": {
+      "message": "Kontaktai, su kuriais bendraujate WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Maksimalus failo dydis 20 MB, iki 100 000 eilučių"
+   },
+   "The_file_Max_20MB": {
+      "message": "Maksimalus failo dydis 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Failas neteisingas, prašome įkelti kaip reikalaujama."
+   },
+   "The_template_will": {
+      "message": "Šablonas pakeis įvesties laukelio teksto turinį."
+   },
+   "The_valid": {
+      "message": "Galimi WhatsApp kontaktai jūsų telefone"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Patarimas: norėdami išvengti WhatsApp apribojimų, sumažinkite gavėjų skaičių ir prailginkite intervalą tarp siuntimų."
+   },
+   "UPGRADE": {
+      "message": "ATNAUJINTI"
+   },
+   "Upgrade": {
+      "message": "Atnaujinti"
+   },
+   "Upgrade_Now": {
+      "message": "Atnaujinti dabar"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Atnaujinkite į PRO versiją be jokių apribojimų."
+   },
+   "Video": {
+      "message": "Vaizdo įrašas"
+   },
+   "View_Results": {
+      "message": "Peržiūrėti rezultatus"
+   },
+   "Voice": {
+      "message": "Balsas"
+   },
+   "Wait": {
+      "message": "Laukti"
+   },
+   "We_hope": {
+      "message": "Tikimės, kad mūsų įrankis jums naudingas! Jei jis jums patinka, prašome apsvarstyti galimybę įvertinti mus 5 žvaigždutėmis."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web nerastas"
+   },
+   "Your_message": {
+      "message": "Jūsų žinutė bus išsiųsta visiems"
+   },
+   "Your_positive": {
+      "message": "Jūsų teigiamas atsiliepimas mums labai svarbus ir padeda mums tobulėti."
+   },
+   "any_inquiries": {
+      "message": "dėl bet kokių klausimų."
+   },
+   "disturbsText": {
+      "message": "Jei tai jus trikdo, prašome atsakyti „Ne“ ir aš daugiau nesiųsiu jums jokių žinučių."
+   },
+   "finishLoginText": {
+      "message": "Ar baigėte prisijungti?"
+   },
+   "finishPaymentText": {
+      "message": "Ar baigėte mokėjimą?"
+   },
+   "format": {
+      "message": "formatas"
+   },
+   "loginText": {
+      "message": "Prisijungimas"
+   },
+   "messages": {
+      "message": "žinučių"
+   },
+   "participants": {
+      "message": "dalyvių"
+   },
+   "proplanText": {
+      "message": "PRO planas"
+   },
+   "qtDes": {
+      "message": "Masinis WhatsApp žinučių siuntimas naudojant Excel numerius, nereikia išsaugoti numerių.  Individualizuokite žinutes ir siųskite priedus."
+   },
+   "qtName": {
+      "message": "WhatsApp masinių žinučių siuntėjas | WPPME.COM"
+   },
+   "rows": {
+      "message": "eilučių"
+   },
+   "saveEmptyText": {
+      "message": "Šablonas negali būti tuščias."
+   },
+   "saveExistText": {
+      "message": "Šis žinutės turinys jau egzistuoja."
+   },
+   "saveMoreText": {
+      "message": "Negalima išsaugoti daugiau nei 500 žinučių šablonų."
+   },
+   "saveSuccessText": {
+      "message": "Šablonas išsaugotas sėkmingai"
+   },
+   "seconds_after_every": {
+      "message": "sekundžių po kiekvienos"
+   },
+   "sent_at": {
+      "message": "siųsta"
+   },
+   "will_receive": {
+      "message": "gaus jūsų žinutę."
+   }
+}

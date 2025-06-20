@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "إضافة"
+   },
+   "Add_Apology": {
+      "message": "إضافة اعتذار عن الإزعاج"
+   },
+   "Add_Timestamp": {
+      "message": "إضافة الطابع الزمني"
+   },
+   "Add_number": {
+      "message": "إضافة رقم"
+   },
+   "All_contacts": {
+      "message": "جميع جهات الاتصال في الدولة المحددة"
+   },
+   "Audio": {
+      "message": "مقطع صوتي"
+   },
+   "Cancel": {
+      "message": "إلغاء"
+   },
+   "Chats": {
+      "message": "الدردشات"
+   },
+   "Click_to_Upload": {
+      "message": "انقر لتحميل / اسحب وافلت هنا"
+   },
+   "Close": {
+      "message": "إغلاق"
+   },
+   "Completed": {
+      "message": "تم الإنجاز"
+   },
+   "Confirm": {
+      "message": "تأكيد"
+   },
+   "Contacts": {
+      "message": "اتصل بنا"
+   },
+   "Continue": {
+      "message": "متابعة"
+   },
+   "Countries": {
+      "message": "الدول"
+   },
+   "Details": {
+      "message": "التفاصيل"
+   },
+   "Do_you_need": {
+      "message": "هل تحتاج إلى طريقة فعالة لإرسال رسائل جماعية على WhatsApp؟ برنامج إرسال رسائل WhatsApp هو ما تحتاجه تمامًا. جربه وشاهد مدى سهولة إرسال الرسائل الجماعية!"
+   },
+   "Document": {
+      "message": "مستند"
+   },
+   "Download_the_template": {
+      "message": "تنزيل القالب"
+   },
+   "Failure": {
+      "message": "فشل"
+   },
+   "Feel_free": {
+      "message": "لا تتردد في إضافة أي نص أو روابط ترغب بها."
+   },
+   "File_Upload": {
+      "message": "رفع الملف"
+   },
+   "Free_plans": {
+      "message": "تسمح الخطط المجانية بإرسال 10 رسائل لكل دفعة."
+   },
+   "Groups": {
+      "message": "مجموعات"
+   },
+   "Hello": {
+      "message": "مرحباً"
+   },
+   "Image": {
+      "message": "صورة"
+   },
+   "Including_Administrators": {
+      "message": "بما في ذلك المشرفين"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "أدخل أرقام WhatsApp"
+   },
+   "Interested": {
+      "message": "مهتم؟ أجب بـ 'نعم' لمعرفة المزيد."
+   },
+   "Labels": {
+      "message": "علامات"
+   },
+   "Leave_Review": {
+      "message": "ترك تعليق"
+   },
+   "Log_in": {
+      "message": "تسجيل الدخول"
+   },
+   "MessageEmptyText": {
+      "message": "لا يمكن أن يكون محتوى الرسالة فارغًا."
+   },
+   "Messages": {
+      "message": "الرسائل"
+   },
+   "NO_DATA": {
+      "message": "لا يوجد بيانات"
+   },
+   "Not_interested": {
+      "message": "غير مهتم؟ أجب بـ 'لا' ولن أرسل أي رسائل أخرى."
+   },
+   "Not_now": {
+      "message": "ليس الآن"
+   },
+   "Numbers": {
+      "message": "أرقام"
+   },
+   "Pause": {
+      "message": "إيقاف مؤقت"
+   },
+   "Please_include": {
+      "message": "يرجى تضمين بريدك الإلكتروني لتسجيل الدخول للحصول على مساعدة أسرع."
+   },
+   "Please_open": {
+      "message": "يرجى فتح أو تحديث WhatsApp Web. تأكد من أن صفحة WhatsApp Web واحدة فقط مفتوحة، حتى لو كانت غير نشطة، قبل إعادة المحاولة."
+   },
+   "Random_sending": {
+      "message": "فاصل زمني عشوائي للإرسال (بالثواني):"
+   },
+   "Reach_out": {
+      "message": "تواصل معنا على"
+   },
+   "Review": {
+      "message": "التقييم"
+   },
+   "Save_as_template": {
+      "message": "حفظ كقالب"
+   },
+   "Select_All": {
+      "message": "تحديد الكل"
+   },
+   "Select_a_template": {
+      "message": "اختر قالبًا"
+   },
+   "Send": {
+      "message": "إرسال"
+   },
+   "Send_to": {
+      "message": "إرسال إلى"
+   },
+   "Send_to_the": {
+      "message": "إرسال لأفضل 10 أشخاص"
+   },
+   "Sending": {
+      "message": "جارٍ الإرسال"
+   },
+   "Sticker": {
+      "message": "ملصق"
+   },
+   "Success": {
+      "message": "نجاح"
+   },
+   "Support_batch": {
+      "message": "يدعم النسخ الجماعي هنا"
+   },
+   "Text_Message": {
+      "message": "رسالة نصية"
+   },
+   "Text_style": {
+      "message": "خيارات أسلوب النص: *غامق* _مائل_ ~محذوف~"
+   },
+   "The_contacts": {
+      "message": "جهات الاتصال التي تتحدث معها على WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "أقصى حجم للملف 20 ميجابايت، حتى 100,000 صف"
+   },
+   "The_file_Max_20MB": {
+      "message": "أقصى حجم للملف 20 ميجابايت."
+   },
+   "The_file_is_incorrect": {
+      "message": "الملف غير صحيح، يرجى رفعه كما هو مطلوب."
+   },
+   "The_template_will": {
+      "message": "سيحل القالب محل محتوى النص في مربع الإدخال."
+   },
+   "The_valid": {
+      "message": "جهات اتصال WhatsApp الصالحة في هاتفك"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "نصيحة: لمنع قيود WhatsApp، قلل عدد المستلمين ومدد الفترة الزمنية بين عمليات الإرسال."
+   },
+   "UPGRADE": {
+      "message": "ترقية"
+   },
+   "Upgrade": {
+      "message": "ترقية"
+   },
+   "Upgrade_Now": {
+      "message": "ترقية الآن"
+   },
+   "Upgrade_to_PRO": {
+      "message": "قم بالترقية إلى PRO بدون حدود."
+   },
+   "Video": {
+      "message": "فيديو"
+   },
+   "View_Results": {
+      "message": "عرض النتائج"
+   },
+   "Voice": {
+      "message": "مقطع صوتي"
+   },
+   "Wait": {
+      "message": "انتظر"
+   },
+   "We_hope": {
+      "message": "نأمل أن تجد أداةنا مفيدة! إذا أعجبك الأمر، يرجى مراعاة منحنا تقييمًا من 5 نجوم."
+   },
+   "WhatsApp_Web": {
+      "message": "لم يتم العثور على WhatsApp Web"
+   },
+   "Your_message": {
+      "message": "سيتم إرسال رسالتك إلى جميع"
+   },
+   "Your_positive": {
+      "message": "تعليقك الإيجابي يعني الكثير لنا ويساعدنا على التحسين."
+   },
+   "any_inquiries": {
+      "message": "لأي استفسارات."
+   },
+   "disturbsText": {
+      "message": "إذا كان هذا يزعجك، يرجى الرد بـ 'لا' ولن أرسل لك المزيد من الرسائل."
+   },
+   "finishLoginText": {
+      "message": "هل أنهيت تسجيل الدخول؟"
+   },
+   "finishPaymentText": {
+      "message": "هل أنهيت عملية الدفع؟"
+   },
+   "format": {
+      "message": "الصيغة"
+   },
+   "loginText": {
+      "message": "تسجيل الدخول"
+   },
+   "messages": {
+      "message": "رسائل"
+   },
+   "participants": {
+      "message": "مشارك"
+   },
+   "proplanText": {
+      "message": "الاشتراك المميز"
+   },
+   "qtDes": {
+      "message": "إرسال رسائل WhatsApp جماعية عبر أرقام Excel، بدون حفظ الأرقام. تخصيص الرسائل وإرسال المرفقات."
+   },
+   "qtName": {
+      "message": "مُرسِل رسائل WhatsApp جماعية | WPPME.COM"
+   },
+   "rows": {
+      "message": "صفوف"
+   },
+   "saveEmptyText": {
+      "message": "لا يمكن أن يكون القالب فارغًا."
+   },
+   "saveExistText": {
+      "message": "محتوى الرسالة هذا موجود بالفعل."
+   },
+   "saveMoreText": {
+      "message": "لا يمكن حفظ أكثر من 500 قالب رسالة."
+   },
+   "saveSuccessText": {
+      "message": "تم حفظ القالب بنجاح"
+   },
+   "seconds_after_every": {
+      "message": "ثانية بعد كل"
+   },
+   "sent_at": {
+      "message": "تم الإرسال في"
+   },
+   "will_receive": {
+      "message": "سيتلقى رسالتك."
+   }
+}

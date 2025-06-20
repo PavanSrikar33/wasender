@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Tilføj"
+   },
+   "Add_Apology": {
+      "message": "Tilføj undskyldning for forstyrrelse"
+   },
+   "Add_Timestamp": {
+      "message": "Tilføj tidsstempel"
+   },
+   "Add_number": {
+      "message": "Tilføj nummer"
+   },
+   "All_contacts": {
+      "message": "Alle kontakter i det valgte land"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Annuller"
+   },
+   "Chats": {
+      "message": "Chats"
+   },
+   "Click_to_Upload": {
+      "message": "Klik for at uploade / Træk & slip her"
+   },
+   "Close": {
+      "message": "Luk"
+   },
+   "Completed": {
+      "message": "Fuldført"
+   },
+   "Confirm": {
+      "message": "Bekræft"
+   },
+   "Contacts": {
+      "message": "Kontakt"
+   },
+   "Continue": {
+      "message": "Fortsæt"
+   },
+   "Countries": {
+      "message": "Lande"
+   },
+   "Details": {
+      "message": "Detaljer"
+   },
+   "Do_you_need": {
+      "message": "Har du brug for en effektiv metode til at sende massemeddelelser på WhatsApp? Vores WA Sender er lige hvad du har brug for. Prøv den og se, hvor enkelt massebeskeder kan være!"
+   },
+   "Document": {
+      "message": "Dokument"
+   },
+   "Download_the_template": {
+      "message": "Download skabelonen"
+   },
+   "Failure": {
+      "message": "Fejl"
+   },
+   "Feel_free": {
+      "message": "Du er velkommen til at tilføje den tekst eller de links, du ønsker."
+   },
+   "File_Upload": {
+      "message": "Filupload"
+   },
+   "Free_plans": {
+      "message": "Gratis planer tillader afsendelse af 10 beskeder pr. batch."
+   },
+   "Groups": {
+      "message": "Grupper"
+   },
+   "Hello": {
+      "message": "Hej"
+   },
+   "Image": {
+      "message": "Billede"
+   },
+   "Including_Administrators": {
+      "message": "Inkluder administratorer"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Indtast WhatsApp-numre"
+   },
+   "Interested": {
+      "message": "Interesseret? Svar 'Ja' for at lære mere."
+   },
+   "Labels": {
+      "message": "Labels"
+   },
+   "Leave_Review": {
+      "message": "Skriv en anmeldelse"
+   },
+   "Log_in": {
+      "message": "Log ind"
+   },
+   "MessageEmptyText": {
+      "message": "Beskedindholdet må ikke være tomt."
+   },
+   "Messages": {
+      "message": "Beskeder"
+   },
+   "NO_DATA": {
+      "message": "INGEN DATA"
+   },
+   "Not_interested": {
+      "message": "Ikke interesseret? Svar 'Nej', så sender jeg ingen flere beskeder."
+   },
+   "Not_now": {
+      "message": "Ikke nu"
+   },
+   "Numbers": {
+      "message": "Numre"
+   },
+   "Pause": {
+      "message": "Pause"
+   },
+   "Please_include": {
+      "message": "Angiv venligst din login-e-mail for hurtigere assistance."
+   },
+   "Please_open": {
+      "message": "Åbn eller opdater venligst WhatsApp Web. Sørg for, at kun én WhatsApp Web-side er åben, selvom den er inaktiv, før du prøver igen."
+   },
+   "Random_sending": {
+      "message": "Tilfældigt sendeinterval (sekunder):"
+   },
+   "Reach_out": {
+      "message": "Kontakt os på"
+   },
+   "Review": {
+      "message": "Anmeldelse"
+   },
+   "Save_as_template": {
+      "message": "Gem som skabelon"
+   },
+   "Select_All": {
+      "message": "Vælg alle"
+   },
+   "Select_a_template": {
+      "message": "Vælg en skabelon"
+   },
+   "Send": {
+      "message": "Send"
+   },
+   "Send_to": {
+      "message": "Send til"
+   },
+   "Send_to_the": {
+      "message": "Send til de 10 bedste personer"
+   },
+   "Sending": {
+      "message": "Sender"
+   },
+   "Sticker": {
+      "message": "Sticker"
+   },
+   "Success": {
+      "message": "Succes"
+   },
+   "Support_batch": {
+      "message": "Understøtter batchkopiering her"
+   },
+   "Text_Message": {
+      "message": "Tekstbesked"
+   },
+   "Text_style": {
+      "message": "Tekstformateringsmuligheder: *FED* _kursiv_ ~gennemstreget~"
+   },
+   "The_contacts": {
+      "message": "De kontakter, du chatter med på WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Filstørrelse maks. 20 MB, op til 100.000 rækker"
+   },
+   "The_file_Max_20MB": {
+      "message": "Filstørrelse maks. 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Filen er forkert, upload venligst som krævet."
+   },
+   "The_template_will": {
+      "message": "Skabelonen erstatter indholdet af inputfeltet."
+   },
+   "The_valid": {
+      "message": "De gyldige WhatsApp-kontakter på din telefon"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Tip: For at undgå WhatsApp-begrænsninger, skal du reducere antallet af modtagere og forlænge intervallet mellem afsendelser."
+   },
+   "UPGRADE": {
+      "message": "OPGRADERING"
+   },
+   "Upgrade": {
+      "message": "Opgrader"
+   },
+   "Upgrade_Now": {
+      "message": "Opgrader nu"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Opgrader til PRO for ubegrænsede muligheder."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Vis resultater"
+   },
+   "Voice": {
+      "message": "Stemme"
+   },
+   "Wait": {
+      "message": "Vent"
+   },
+   "We_hope": {
+      "message": "Vi håber, at du finder vores værktøj nyttigt! Hvis du kan lide det, bedes du overveje at give os en 5-stjernet bedømmelse."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web fundet ikke"
+   },
+   "Your_message": {
+      "message": "Din besked sendes til alle"
+   },
+   "Your_positive": {
+      "message": "Din positive feedback betyder meget for os og hjælper os med at forbedre."
+   },
+   "any_inquiries": {
+      "message": "ved eventuelle spørgsmål."
+   },
+   "disturbsText": {
+      "message": "Hvis det forstyrrer dig, bedes du svare 'Nej', så sender jeg ikke flere beskeder."
+   },
+   "finishLoginText": {
+      "message": "Er du færdig med at logge ind?"
+   },
+   "finishPaymentText": {
+      "message": "Er du færdig med din betaling?"
+   },
+   "format": {
+      "message": "format"
+   },
+   "loginText": {
+      "message": "Login"
+   },
+   "messages": {
+      "message": "beskeder"
+   },
+   "participants": {
+      "message": "deltagere"
+   },
+   "proplanText": {
+      "message": "PRO PLAN"
+   },
+   "qtDes": {
+      "message": "Send massemeddelelser på WhatsApp via Excel-numre, uden at gemme numre. Tilpas beskeder og send vedhæftede filer."
+   },
+   "qtName": {
+      "message": "WhatsApp Massebeskedsender | WPPME.COM"
+   },
+   "rows": {
+      "message": "rækker"
+   },
+   "saveEmptyText": {
+      "message": "Skabelonen må ikke være tom."
+   },
+   "saveExistText": {
+      "message": "Dette beskedindhold findes allerede."
+   },
+   "saveMoreText": {
+      "message": "Kan ikke gemme mere end 500 beskedskabeloner."
+   },
+   "saveSuccessText": {
+      "message": "Skabelon gemt"
+   },
+   "seconds_after_every": {
+      "message": "sekunder efter hver"
+   },
+   "sent_at": {
+      "message": "sendt kl."
+   },
+   "will_receive": {
+      "message": "vil modtage din besked."
+   }
+}

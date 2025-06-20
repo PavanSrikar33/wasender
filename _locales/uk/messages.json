@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Додати"
+   },
+   "Add_Apology": {
+      "message": "Додати вибачення за занепокоєння"
+   },
+   "Add_Timestamp": {
+      "message": "Додати часову мітку"
+   },
+   "Add_number": {
+      "message": "Додати номер"
+   },
+   "All_contacts": {
+      "message": "Усі контакти у вибраній країні"
+   },
+   "Audio": {
+      "message": "Аудіо"
+   },
+   "Cancel": {
+      "message": "Скасувати"
+   },
+   "Chats": {
+      "message": "Чати"
+   },
+   "Click_to_Upload": {
+      "message": "Натисніть для завантаження / Перетягніть сюди"
+   },
+   "Close": {
+      "message": "Закрити"
+   },
+   "Completed": {
+      "message": "Завершено"
+   },
+   "Confirm": {
+      "message": "Підтвердити"
+   },
+   "Contacts": {
+      "message": "Контакти"
+   },
+   "Continue": {
+      "message": "Продовжити"
+   },
+   "Countries": {
+      "message": "Країни"
+   },
+   "Details": {
+      "message": "Деталі"
+   },
+   "Do_you_need": {
+      "message": "Вам потрібен ефективний спосіб розсилки масових повідомлень у WhatsApp? Наш WA Sender – саме те, що вам потрібно. Спробуйте його та переконайтеся, наскільки простою може бути масова розсилка!"
+   },
+   "Document": {
+      "message": "Документ"
+   },
+   "Download_the_template": {
+      "message": "Завантажити шаблон"
+   },
+   "Failure": {
+      "message": "Помилки"
+   },
+   "Feel_free": {
+      "message": "Сміливо додавайте будь-який текст або посилання."
+   },
+   "File_Upload": {
+      "message": "Завантаження файлу"
+   },
+   "Free_plans": {
+      "message": "Безкоштовні плани дозволяють відправляти 10 повідомлень за партію."
+   },
+   "Groups": {
+      "message": "Групи"
+   },
+   "Hello": {
+      "message": "Привіт"
+   },
+   "Image": {
+      "message": "Зображення"
+   },
+   "Including_Administrators": {
+      "message": "Включаючи адміністраторів"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Введіть номери WhatsApp"
+   },
+   "Interested": {
+      "message": "Зацікавлені? Відповідайте \"Так\", щоб дізнатися більше."
+   },
+   "Labels": {
+      "message": "Мітки"
+   },
+   "Leave_Review": {
+      "message": "Залишити відгук"
+   },
+   "Log_in": {
+      "message": "Увійти"
+   },
+   "MessageEmptyText": {
+      "message": "Текст повідомлення не може бути пустим."
+   },
+   "Messages": {
+      "message": "Повідомлення"
+   },
+   "NO_DATA": {
+      "message": "НЕМАЄ ДАНИХ"
+   },
+   "Not_interested": {
+      "message": "Не зацікавлені? Відповідайте \"Ні\", і я більше не буду надсилати повідомлення."
+   },
+   "Not_now": {
+      "message": "Зараз ні"
+   },
+   "Numbers": {
+      "message": "Номери"
+   },
+   "Pause": {
+      "message": "Пауза"
+   },
+   "Please_include": {
+      "message": "Будь ласка, вкажіть вашу електронну пошту для швидшого вирішення проблеми."
+   },
+   "Please_open": {
+      "message": "Будь ласка, відкрийте або оновіть WhatsApp Web. Переконайтеся, що відкрита лише одна сторінка WhatsApp Web, навіть якщо вона неактивна, перш ніж повторити спробу."
+   },
+   "Random_sending": {
+      "message": "Випадковий інтервал відправлення (секунди):"
+   },
+   "Reach_out": {
+      "message": "Звертайтесь до нас за адресою"
+   },
+   "Review": {
+      "message": "Відгук"
+   },
+   "Save_as_template": {
+      "message": "Зберегти як шаблон"
+   },
+   "Select_All": {
+      "message": "Вибрати все"
+   },
+   "Select_a_template": {
+      "message": "Виберіть шаблон"
+   },
+   "Send": {
+      "message": "Надіслати"
+   },
+   "Send_to": {
+      "message": "Надіслати до"
+   },
+   "Send_to_the": {
+      "message": "Надіслати топ 10 людям"
+   },
+   "Sending": {
+      "message": "Відправлення"
+   },
+   "Sticker": {
+      "message": "Наліпка"
+   },
+   "Success": {
+      "message": "Вдало"
+   },
+   "Support_batch": {
+      "message": "Підтримується копіювання партіями сюди"
+   },
+   "Text_Message": {
+      "message": "Текстове повідомлення"
+   },
+   "Text_style": {
+      "message": "Варіанти стилю тексту: *ЖИРНИЙ* _курсив_ ~закреслений~"
+   },
+   "The_contacts": {
+      "message": "Контакти, з якими ви спілкуєтеся в WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Максимальний розмір файлу 20 МБ, до 100 000 рядків"
+   },
+   "The_file_Max_20MB": {
+      "message": "Максимальний розмір файлу 20 МБ."
+   },
+   "The_file_is_incorrect": {
+      "message": "Файл неправильний, будь ласка, завантажте відповідно до вимог."
+   },
+   "The_template_will": {
+      "message": "Шаблон замінить текстовий вміст поля введення."
+   },
+   "The_valid": {
+      "message": "Валідні контакти WhatsApp у вашому телефоні"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Порада: щоб уникнути обмежень WhatsApp, зменшіть кількість одержувачів та збільште інтервал між відправленнями."
+   },
+   "UPGRADE": {
+      "message": "Оновлення"
+   },
+   "Upgrade": {
+      "message": "Оновити"
+   },
+   "Upgrade_Now": {
+      "message": "Оновити зараз"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Оновіть до PRO без обмежень."
+   },
+   "Video": {
+      "message": "Відео"
+   },
+   "View_Results": {
+      "message": "Переглянути результати"
+   },
+   "Voice": {
+      "message": "Голос"
+   },
+   "Wait": {
+      "message": "Зачекайте"
+   },
+   "We_hope": {
+      "message": "Ми сподіваємося, що наш інструмент вам допомагає! Якщо вам подобається, будь ласка, оцініть нас 5 зірками."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web не знайдено"
+   },
+   "Your_message": {
+      "message": "Ваше повідомлення буде надіслано всім"
+   },
+   "Your_positive": {
+      "message": "Ваш позитивний відгук дуже важливий для нас і допомагає нам покращуватися."
+   },
+   "any_inquiries": {
+      "message": "з будь-яких питань."
+   },
+   "disturbsText": {
+      "message": "Якщо це вас турбує, будь ласка, відповідайте \"Ні\", і я більше не буду надсилати вам повідомлень."
+   },
+   "finishLoginText": {
+      "message": "Ви завершили вхід?"
+   },
+   "finishPaymentText": {
+      "message": "Ви завершили оплату?"
+   },
+   "format": {
+      "message": "формат"
+   },
+   "loginText": {
+      "message": "Вхід"
+   },
+   "messages": {
+      "message": "повідомлень"
+   },
+   "participants": {
+      "message": "учасників"
+   },
+   "proplanText": {
+      "message": "ПЛАН PRO"
+   },
+   "qtDes": {
+      "message": "Масова розсилка повідомлень WhatsApp за номерами з Excel, без збереження номерів. Персоналізуйте повідомлення та надсилайте вкладення."
+   },
+   "qtName": {
+      "message": "Масова розсилка повідомлень WhatsApp | WPPME.COM"
+   },
+   "rows": {
+      "message": "рядків"
+   },
+   "saveEmptyText": {
+      "message": "Шаблон не може бути пустим."
+   },
+   "saveExistText": {
+      "message": "Цей текст повідомлення вже існує."
+   },
+   "saveMoreText": {
+      "message": "Неможливо зберегти більше 500 шаблонів повідомлень."
+   },
+   "saveSuccessText": {
+      "message": "Шаблон успішно збережено"
+   },
+   "seconds_after_every": {
+      "message": "секунд після кожних"
+   },
+   "sent_at": {
+      "message": "відправлено о"
+   },
+   "will_receive": {
+      "message": "отримають ваше повідомлення."
+   }
+}

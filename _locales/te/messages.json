@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "추가"
+   },
+   "Add_Apology": {
+      "message": "అంతరాయం కొరకు క్షమించండి"
+   },
+   "Add_Timestamp": {
+      "message": "సమయాన్ని జోడించండి"
+   },
+   "Add_number": {
+      "message": "నంబర్ జోడించండి"
+   },
+   "All_contacts": {
+      "message": "ఎంచుకున్న దేశంలోని అన్ని కాంటాక్ట్లు"
+   },
+   "Audio": {
+      "message": "ఆడియో"
+   },
+   "Cancel": {
+      "message": "రద్దు చేయండి"
+   },
+   "Chats": {
+      "message": "చాట్లు"
+   },
+   "Click_to_Upload": {
+      "message": "అప్‌లోడ్ చేయడానికి క్లిక్ చేయండి / ఇక్కడ లాగండి & ఉంచండి"
+   },
+   "Close": {
+      "message": "మూసివేయండి"
+   },
+   "Completed": {
+      "message": "పూర్తయింది"
+   },
+   "Confirm": {
+      "message": "ధృవీకరించండి"
+   },
+   "Contacts": {
+      "message": "సంప్రదించండి"
+   },
+   "Continue": {
+      "message": "కొనసాగించండి"
+   },
+   "Countries": {
+      "message": "దేశాలు"
+   },
+   "Details": {
+      "message": "వివరాలు"
+   },
+   "Do_you_need": {
+      "message": "మీకు WhatsAppలో బల్క్ మెసేజెస్ పంపడానికి ప్రభావవంతమైన పద్ధతి అవసరమా? మా WA సెండర్ మీకు కావలసినదే. దీన్ని ప్రయత్నించి మాస్ మెసేజింగ్ ఎంత సులభమో చూడండి!"
+   },
+   "Document": {
+      "message": "డాక్యుమెంట్"
+   },
+   "Download_the_template": {
+      "message": "టెంప్లేట్ డౌన్‌లోడ్ చేయండి"
+   },
+   "Failure": {
+      "message": "విఫలం"
+   },
+   "Feel_free": {
+      "message": "మీరు కోరుకున్న ఏదైనా టెక్స్ట్ లేదా లింక్‌లను జోడించడానికి వెనుకాడకండి."
+   },
+   "File_Upload": {
+      "message": "ఫైల్ అప్‌లోడ్"
+   },
+   "Free_plans": {
+      "message": "ఉచిత ప్లాన్లు బ్యాచ్‌కు 10 సందేశాలను పంపడానికి అనుమతిస్తాయి."
+   },
+   "Groups": {
+      "message": "గ్రూపులు"
+   },
+   "Hello": {
+      "message": "హలో"
+   },
+   "Image": {
+      "message": "చిత్రం"
+   },
+   "Including_Administrators": {
+      "message": "అడ్మినిస్ట్రేటర్లను చేర్చడం"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "WhatsApp నంబర్లు ఇన్‌పుట్ చేయండి"
+   },
+   "Interested": {
+      "message": "ఆసక్తి ఉందా? మరిన్ని తెలుసుకోవడానికి 'అవును' అని సమాధానం ఇవ్వండి."
+   },
+   "Labels": {
+      "message": "లేబుల్స్"
+   },
+   "Leave_Review": {
+      "message": "సమీక్షను వదిలివేయండి"
+   },
+   "Log_in": {
+      "message": "లాగిన్ అవ్వండి"
+   },
+   "MessageEmptyText": {
+      "message": "సందేశ కంటెంట్ ఖాళీగా ఉండకూడదు."
+   },
+   "Messages": {
+      "message": "సందేశాలు"
+   },
+   "NO_DATA": {
+      "message": "డేటా లేదు"
+   },
+   "Not_interested": {
+      "message": "ఆసక్తి లేదా? 'లేదు' అని సమాధానం ఇవ్వండి మరియు నేను మరింత సందేశాలను పంపను."
+   },
+   "Not_now": {
+      "message": "ప్రస్తుతం కాదు"
+   },
+   "Numbers": {
+      "message": "నంబర్లు"
+   },
+   "Pause": {
+      "message": "విరామం"
+   },
+   "Please_include": {
+      "message": "వేగవంతమైన సహాయం కోసం దయచేసి మీ లాగిన్ ఇమెయిల్‌ను చేర్చండి."
+   },
+   "Please_open": {
+      "message": "దయచేసి WhatsApp వెబ్‌ను తెరవండి లేదా రిఫ్రెష్ చేయండి. మళ్ళీ ప్రయత్నించే ముందు ఒకే ఒక WhatsApp వెబ్ పేజీ తెరిచి ఉండేలా చూసుకోండి, నిష్క్రియంగా ఉన్నా సరే."
+   },
+   "Random_sending": {
+      "message": "యాదృచ్ఛికంగా పంపే వ్యవధి (సెకన్లు):"
+   },
+   "Reach_out": {
+      "message": "మాకు సంప్రదించండి"
+   },
+   "Review": {
+      "message": "సమీక్ష"
+   },
+   "Save_as_template": {
+      "message": "టెంప్లేట్‌గా సేవ్ చేయండి"
+   },
+   "Select_All": {
+      "message": "అన్నీ ఎంచుకోండి"
+   },
+   "Select_a_template": {
+      "message": "టెంప్లేట్ ఎంచుకోండి"
+   },
+   "Send": {
+      "message": "పంపండి"
+   },
+   "Send_to": {
+      "message": "పంపండి"
+   },
+   "Send_to_the": {
+      "message": "టాప్ 10 మందికి పంపండి"
+   },
+   "Sending": {
+      "message": "పంపుతోంది"
+   },
+   "Sticker": {
+      "message": "స్టిక్కర్"
+   },
+   "Success": {
+      "message": "విజయం"
+   },
+   "Support_batch": {
+      "message": "ఇక్కడ బ్యాచ్ కాపీని సపోర్ట్ చేస్తుంది"
+   },
+   "Text_Message": {
+      "message": "టెక్స్ట్ మెసేజ్"
+   },
+   "Text_style": {
+      "message": "టెక్స్ట్ శైలి ఎంపికలు: *బోల్డ్* _ఇటాలిక్_ ~స్ట్రైక్‌త్రూ~"
+   },
+   "The_contacts": {
+      "message": "మీరు WhatsAppలో చాట్ చేసిన కాంటాక్ట్లు"
+   },
+   "The_file_Max": {
+      "message": "ఫైల్ గరిష్టం 20MB, 100,000 వరుసల వరకు"
+   },
+   "The_file_Max_20MB": {
+      "message": "ఫైల్ గరిష్టం 20MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "ఫైల్ తప్పుగా ఉంది, దయచేసి అవసరమైన విధంగా అప్‌లోడ్ చేయండి."
+   },
+   "The_template_will": {
+      "message": "టెంప్లేట్ ఇన్‌పుట్ బాక్స్ యొక్క టెక్స్ట్ కంటెంట్‌ను భర్తీ చేస్తుంది."
+   },
+   "The_valid": {
+      "message": "మీ ఫోన్‌లోని చెల్లుబాటు అయ్యే WhatsApp కాంటాక్ట్లు"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "చిట్కా: WhatsApp నిబంధనలను నివారించడానికి, స్వీకర్తల సంఖ్యను తగ్గించి, పంపడం మధ్య వ్యవధిని పెంచండి."
+   },
+   "UPGRADE": {
+      "message": "అప్‌గ్రేడ్ చేయండి"
+   },
+   "Upgrade": {
+      "message": "అప్‌గ్రేడ్ చేయండి"
+   },
+   "Upgrade_Now": {
+      "message": "ప్రస్తుతం అప్‌గ్రేడ్ చేయండి"
+   },
+   "Upgrade_to_PRO": {
+      "message": "ఎటువంటి పరిమితులు లేకుండా PROకి అప్‌గ్రేడ్ చేయండి."
+   },
+   "Video": {
+      "message": "వీడియో"
+   },
+   "View_Results": {
+      "message": "ఫలితాలను చూడండి"
+   },
+   "Voice": {
+      "message": "వాయిస్"
+   },
+   "Wait": {
+      "message": "వెయిట్"
+   },
+   "We_hope": {
+      "message": "మీరు మా సాధనాన్ని ఉపయోగకరంగా కనుగొంటున్నారని మేము ఆశిస్తున్నాము! మీకు నచ్చితే, దయచేసి మాకు 5-స్టార్ రేటింగ్ ఇవ్వండి."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp వెబ్ దొరకలేదు"
+   },
+   "Your_message": {
+      "message": "మీ సందేశం అన్నింటికీ పంపబడుతుంది"
+   },
+   "Your_positive": {
+      "message": "మీ సానుకూల అభిప్రాయం మాకు చాలా అర్థం మరియు మెరుగుపరచడంలో మాకు సహాయపడుతుంది."
+   },
+   "any_inquiries": {
+      "message": "ఏవైనా విచారణలకు."
+   },
+   "disturbsText": {
+      "message": "ఇది మిమ్మల్ని అంతరాయం చేస్తే, దయచేసి 'లేదు' అని సమాధానం ఇవ్వండి మరియు నేను మీకు మరే ఇతర సందేశాలను పంపను."
+   },
+   "finishLoginText": {
+      "message": "మీరు లాగిన్ పూర్తి చేశారా?"
+   },
+   "finishPaymentText": {
+      "message": "మీ చెల్లింపు పూర్తి చేశారా?"
+   },
+   "format": {
+      "message": "ఫార్మాట్"
+   },
+   "loginText": {
+      "message": "లాగిన్"
+   },
+   "messages": {
+      "message": "సందేశాలు"
+   },
+   "participants": {
+      "message": "పాల్గొనేవారు"
+   },
+   "proplanText": {
+      "message": "PRO ప్లాన్"
+   },
+   "qtDes": {
+      "message": "నంబర్లను సేవ్ చేయకుండా, Excel నంబర్ల ద్వారా WhatsApp సందేశాలను బల్క్‌గా పంపండి. సందేశాలను వ్యక్తిగతీకరించండి మరియు అటాచ్‌మెంట్‌లను పంపండి."
+   },
+   "qtName": {
+      "message": "WhatsApp బల్క్ మెసేజ్ సెండర్ | WPPME.COM"
+   },
+   "rows": {
+      "message": "వరుసలు"
+   },
+   "saveEmptyText": {
+      "message": "టెంప్లేట్ ఖాళీగా ఉండకూడదు."
+   },
+   "saveExistText": {
+      "message": "ఈ సందేశ కంటెంట్ ఇప్పటికే ఉంది."
+   },
+   "saveMoreText": {
+      "message": "500 కంటే ఎక్కువ సందేశ టెంప్లేట్‌లను సేవ్ చేయలేము."
+   },
+   "saveSuccessText": {
+      "message": "టెంప్లేట్ విజయవంతంగా సేవ్ చేయబడింది"
+   },
+   "seconds_after_every": {
+      "message": "ప్రతి తర్వాత సెకన్లు"
+   },
+   "sent_at": {
+      "message": "పంపిన సమయం"
+   },
+   "will_receive": {
+      "message": "మీ సందేశాన్ని స్వీకరిస్తుంది."
+   }
+}

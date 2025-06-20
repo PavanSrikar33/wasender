@@ -1,0 +1,284 @@
+{
+   "Add": {
+      "message": "Pridať"
+   },
+   "Add_Apology": {
+      "message": "Pridať ospravedlnenie za obťažovanie"
+   },
+   "Add_Timestamp": {
+      "message": "Pridať časovú pečiatku"
+   },
+   "Add_number": {
+      "message": "Pridať číslo"
+   },
+   "All_contacts": {
+      "message": "Všetky kontakty vo vybratej krajine"
+   },
+   "Audio": {
+      "message": "Audio"
+   },
+   "Cancel": {
+      "message": "Zrušiť"
+   },
+   "Chats": {
+      "message": "Chaty"
+   },
+   "Click_to_Upload": {
+      "message": "Kliknite pre nahratie / Presuňte sem"
+   },
+   "Close": {
+      "message": "Zatvoriť"
+   },
+   "Completed": {
+      "message": "Dokončené"
+   },
+   "Confirm": {
+      "message": "Potvrdiť"
+   },
+   "Contacts": {
+      "message": "Kontakt"
+   },
+   "Continue": {
+      "message": "Pokračovať"
+   },
+   "Countries": {
+      "message": "Krajiny"
+   },
+   "Details": {
+      "message": "Detaily"
+   },
+   "Do_you_need": {
+      "message": "Potrebujete efektívnu metódu pre hromadné odosielanie správ na WhatsApp? Náš WA Sender je presne to, čo potrebujete. Vyskúšajte ho a uvidíte, aké jednoduché môže byť hromadné odosielanie správ!"
+   },
+   "Document": {
+      "message": "Dokument"
+   },
+   "Download_the_template": {
+      "message": "Stiahnuť šablónu"
+   },
+   "Failure": {
+      "message": "Zlyhanie"
+   },
+   "Feel_free": {
+      "message": "Neváhajte pridať ľubovoľný text alebo odkazy."
+   },
+   "File_Upload": {
+      "message": "Nahrať súbor"
+   },
+   "Free_plans": {
+      "message": "Bezplatné plány umožňujú odoslať 10 správ v dávke."
+   },
+   "Groups": {
+      "message": "Skupiny"
+   },
+   "Hello": {
+      "message": "Dobrý deň"
+   },
+   "Image": {
+      "message": "Obrázok"
+   },
+   "Including_Administrators": {
+      "message": "Vrátane administrátorov"
+   },
+   "Input_WhatsApp_Numbers": {
+      "message": "Zadajte čísla WhatsApp"
+   },
+   "Interested": {
+      "message": "Zaujíma vás to? Odpovedzte 'Áno' a dozviete sa viac."
+   },
+   "Labels": {
+      "message": "Štítky"
+   },
+   "Leave_Review": {
+      "message": "Napíšte recenziu"
+   },
+   "Log_in": {
+      "message": "Prihlásiť sa"
+   },
+   "MessageEmptyText": {
+      "message": "Obsah správy nemôže byť prázdny."
+   },
+   "Messages": {
+      "message": "Správy"
+   },
+   "NO_DATA": {
+      "message": "ŽIADNE ÚDAJE"
+   },
+   "Not_interested": {
+      "message": "Nezaujíma vás to? Odpovedzte 'Nie' a už vám nebudem posielať žiadne ďalšie správy."
+   },
+   "Not_now": {
+      "message": "Teraz nie"
+   },
+   "Numbers": {
+      "message": "Čísla"
+   },
+   "Pause": {
+      "message": "Pauza"
+   },
+   "Please_include": {
+      "message": "Pre rýchlejšiu pomoc uveďte svoj e-mail pre prihlásenie."
+   },
+   "Please_open": {
+      "message": "Prosím, otvorte alebo obnovte WhatsApp Web. Pred opätovným pokusom sa uistite, že je otvorená iba jedna stránka WhatsApp Web, aj keď neaktívna."
+   },
+   "Random_sending": {
+      "message": "Náhodné intervaly odosielania (sekundy):"
+   },
+   "Reach_out": {
+      "message": "Kontaktujte nás na"
+   },
+   "Review": {
+      "message": "Recenzia"
+   },
+   "Save_as_template": {
+      "message": "Uložiť ako šablónu"
+   },
+   "Select_All": {
+      "message": "Vybrať všetko"
+   },
+   "Select_a_template": {
+      "message": "Vybrať šablónu"
+   },
+   "Send": {
+      "message": "Odoslať"
+   },
+   "Send_to": {
+      "message": "Odoslať do"
+   },
+   "Send_to_the": {
+      "message": "Odoslať najlepším 10 ľuďom"
+   },
+   "Sending": {
+      "message": "Odosielanie"
+   },
+   "Sticker": {
+      "message": "Nálepka"
+   },
+   "Success": {
+      "message": "Úspech"
+   },
+   "Support_batch": {
+      "message": "Podpora hromadného kopírovania sem"
+   },
+   "Text_Message": {
+      "message": "Textová správa"
+   },
+   "Text_style": {
+      "message": "Možnosti štýlu textu: *TUČNÉ* _kurzívne_ ~prečiarknuté~"
+   },
+   "The_contacts": {
+      "message": "Kontakty, s ktorými chatujete na WhatsApp"
+   },
+   "The_file_Max": {
+      "message": "Maximálna veľkosť súboru 20 MB, až 100 000 riadkov"
+   },
+   "The_file_Max_20MB": {
+      "message": "Maximálna veľkosť súboru 20 MB."
+   },
+   "The_file_is_incorrect": {
+      "message": "Súbor je nesprávny, nahrajte ho podľa požiadaviek."
+   },
+   "The_template_will": {
+      "message": "Šablóna nahradí textový obsah vstupného poľa."
+   },
+   "The_valid": {
+      "message": "Platné kontakty WhatsApp vo vašom telefóne"
+   },
+   "To_prevent_WhatsApp": {
+      "message": "Tip: Aby ste predišli obmedzeniam WhatsApp, znížte počet príjemcov a predĺžte interval medzi odosielaniami."
+   },
+   "UPGRADE": {
+      "message": "VYLEPŠENIE"
+   },
+   "Upgrade": {
+      "message": "Vylepšiť"
+   },
+   "Upgrade_Now": {
+      "message": "Vylepšiť teraz"
+   },
+   "Upgrade_to_PRO": {
+      "message": "Prejdite na PRO bez obmedzení."
+   },
+   "Video": {
+      "message": "Video"
+   },
+   "View_Results": {
+      "message": "Zobraziť výsledky"
+   },
+   "Voice": {
+      "message": "Hlas"
+   },
+   "Wait": {
+      "message": "Počkajte"
+   },
+   "We_hope": {
+      "message": "Dúfame, že vám náš nástroj pomáha! Ak sa vám páči, zvážte, prosím, udelenie 5-hviezdičkového hodnotenia."
+   },
+   "WhatsApp_Web": {
+      "message": "WhatsApp Web nenájdený"
+   },
+   "Your_message": {
+      "message": "Vaša správa bude odoslaná všetkým"
+   },
+   "Your_positive": {
+      "message": "Vaša pozitívna spätná väzba pre nás veľa znamená a pomáha nám zlepšovať sa."
+   },
+   "any_inquiries": {
+      "message": "pri akýchkoľvek otázkach."
+   },
+   "disturbsText": {
+      "message": "Ak vám to vadí, odpovedzte 'Nie' a už vám nebudem posielať žiadne ďalšie správy."
+   },
+   "finishLoginText": {
+      "message": "Dokončili ste prihlásenie?"
+   },
+   "finishPaymentText": {
+      "message": "Dokončili ste platbu?"
+   },
+   "format": {
+      "message": "formát"
+   },
+   "loginText": {
+      "message": "Prihlásenie"
+   },
+   "messages": {
+      "message": "správ"
+   },
+   "participants": {
+      "message": "účastníkov"
+   },
+   "proplanText": {
+      "message": "PRO PLÁN"
+   },
+   "qtDes": {
+      "message": "Hromadne odosielajte správy WhatsApp prostredníctvom čísel z Excelu, bez ukladania čísel. Prispôsobte správy a odosielajte prílohy."
+   },
+   "qtName": {
+      "message": "Hromadné odosielanie správ WhatsApp | WPPME.COM"
+   },
+   "rows": {
+      "message": "riadkov"
+   },
+   "saveEmptyText": {
+      "message": "Šablóna nemôže byť prázdna."
+   },
+   "saveExistText": {
+      "message": "Tento obsah správy už existuje."
+   },
+   "saveMoreText": {
+      "message": "Nie je možné uložiť viac ako 500 šablón správ."
+   },
+   "saveSuccessText": {
+      "message": "Šablóna úspešne uložená"
+   },
+   "seconds_after_every": {
+      "message": "sekúnd po každej"
+   },
+   "sent_at": {
+      "message": "odoslané o"
+   },
+   "will_receive": {
+      "message": "obdrží vašu správu."
+   }
+}
